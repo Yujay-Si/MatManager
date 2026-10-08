@@ -17,7 +17,7 @@ const release = {
   assets: [{ name: 'SSMaterialDataCalc-0.1.2-win32-x64.zip', state: 'uploaded' }]
 };
 assert.deepEqual(getPortableUpdate(release, '0.1.1'), {
-  version: '0.1.2', url: 'https://github.com/Yujay-Si/ss-mat-data-calc/releases/tag/v0.1.2'
+  version: '0.1.2', url: 'https://github.com/Yujay-Si/MatManager/releases/tag/v0.1.2'
 });
 assert.equal(getPortableUpdate(release, '0.1.2'), null);
 assert.equal(getPortableUpdate({ ...release, prerelease: true }, '0.1.1'), null);

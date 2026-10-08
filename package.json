@@ -1,8 +1,8 @@
 {
   "name": "ss-mat-data-calc",
   "productName": "SS Material Data Calculator",
-  "version": "0.1.5",
-  "description": "Offline material data calculator for Windows",
+  "version": "0.2.0",
+  "description": "MatManager: offline supplier, material document management and calculation for Windows",
   "author": "Material Data Calculator contributors",
   "license": "MIT",
   "main": "desktop/main.js",
@@ -11,8 +11,11 @@
     "make": "node outputs/scripts/build-windows.js",
     "make:direct": "electron-forge make --platform=win32 --arch=x64",
     "test:desktop": "node outputs/scripts/run-desktop-smoke.js",
+    "test:materials": "node outputs/scripts/check-material-management.js",
+    "test:suppliers": "node outputs/scripts/check-suppliers.js",
+    "test:materials:desktop": "node outputs/scripts/run-material-smoke.js",
     "test:release-assets": "node outputs/scripts/check-update-artifacts.js",
-    "test": "node outputs/scripts/check-calculation.js && node outputs/scripts/check-stage3.js && node outputs/scripts/check-stage4.js && node outputs/scripts/check-sheet-formula.js && node outputs/scripts/check-desktop-data.js && node outputs/scripts/check-update-policy.js && node outputs/scripts/check-update-interaction.js && node outputs/scripts/check-squirrel-lifecycle.js"
+    "test": "node outputs/scripts/check-calculation.js && node outputs/scripts/check-stage3.js && node outputs/scripts/check-stage4.js && node outputs/scripts/check-sheet-formula.js && node outputs/scripts/check-desktop-data.js && node outputs/scripts/check-update-policy.js && node outputs/scripts/check-update-interaction.js && node outputs/scripts/check-squirrel-lifecycle.js && node outputs/scripts/check-material-management.js && node outputs/scripts/check-suppliers.js"
   },
   "devDependencies": {
     "@electron-forge/cli": "7.11.2",

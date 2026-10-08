@@ -32,7 +32,7 @@ function getPortableUpdate(release, currentVersion) {
   if (!Array.isArray(release.assets) || !release.assets.some(asset => asset.name === archive && asset.state === 'uploaded')) return null;
   return {
     version,
-    url: `https://github.com/Yujay-Si/ss-mat-data-calc/releases/tag/v${version}`
+    url: `https://github.com/Yujay-Si/MatManager/releases/tag/v${version}`
   };
 }
 

@@ -6,6 +6,10 @@ module.exports = {
     ignore: [
       /^\/\.git($|\/)/,
       /^\/outputs\/scripts($|\/)/,
+      /^\/(work|docs|exports|downloads)($|\/)/,
+      /^\/\.env(\.|$)/,
+      /\.bak(?:-|$)/,
+      /\.(log|tmp)$/,
       /^\/out($|\/)/
     ]
   },

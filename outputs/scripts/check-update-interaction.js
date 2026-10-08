@@ -55,7 +55,7 @@ async function run() {
   assert.match(firstRun.messages.at(-1).message, /稍后再检查/);
 
   const installed = makeController(true);
-  assert.match(installed.updater.feed, /Yujay-Si\/ss-mat-data-calc\/win32-x64\/0\.1\.3$/);
+  assert.match(installed.updater.feed, /Yujay-Si\/MatManager\/win32-x64\/0\.1\.3$/);
   installed.check();
   assert.equal(installed.checks(), 1);
   await installed.check();
@@ -79,13 +79,16 @@ async function run() {
   const originalFetch = global.fetch;
   try {
     const portable = makeController(false);
-    global.fetch = async () => ({ ok: true, json: async () => ({
+    global.fetch = async url => {
+      assert.equal(url, 'https://api.github.com/repos/Yujay-Si/MatManager/releases/latest');
+      return { ok: true, json: async () => ({
       tag_name: 'v0.1.4', draft: false, prerelease: false,
       assets: [{ name: 'SSMaterialDataCalc-0.1.4-win32-x64.zip', state: 'uploaded' }]
-    }) });
+      }) };
+    };
     portable.setResponse(0);
     await portable.check();
-    assert.equal(portable.opened[0], 'https://github.com/Yujay-Si/ss-mat-data-calc/releases/tag/v0.1.4');
+    assert.equal(portable.opened[0], 'https://github.com/Yujay-Si/MatManager/releases/tag/v0.1.4');
     global.fetch = async () => ({ ok: true, json: async () => ({
       tag_name: 'v0.1.3', draft: false, prerelease: false, assets: []
     }) });

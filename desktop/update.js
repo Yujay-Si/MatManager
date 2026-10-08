@@ -5,7 +5,7 @@ const { isSquirrelInstall, getPortableUpdate } = require('./update-policy');
 
 const CHECK_INTERVAL_MS = 60 * 60 * 1000;
 const INITIAL_DELAY_MS = 12 * 1000;
-const RELEASE_API = 'https://api.github.com/repos/Yujay-Si/ss-mat-data-calc/releases/latest';
+const RELEASE_API = 'https://api.github.com/repos/Yujay-Si/MatManager/releases/latest';
 
 function showUpdateMessage(options) {
   return dialog.showMessageBox({ buttons: ['确定'], noLink: true, ...options })
@@ -17,7 +17,7 @@ function startInstalledUpdates() {
   let manualRequested = false;
   let restartPromptOpen = false;
   const firstRunReadyAt = process.argv.includes('--squirrel-firstrun') ? Date.now() + 10 * 1000 : 0;
-  const feed = `https://update.electronjs.org/Yujay-Si/ss-mat-data-calc/win32-x64/${app.getVersion()}`;
+  const feed = `https://update.electronjs.org/Yujay-Si/MatManager/win32-x64/${app.getVersion()}`;
 
   const promptRestart = async () => {
     if (restartPromptOpen) return;
@@ -121,7 +121,7 @@ function startPortableUpdates() {
         type: 'info',
         title: '发现新版本',
         message: `便携版 ${update.version} 已发布`,
-        detail: '请下载新版便携包，解压后使用。更新前建议导出历史记录和参数备份。',
+        detail: '请下载新版便携包，完整解压后使用。更新前建议导出材料数据、历史记录和参数备份。',
         buttons: ['打开下载页', '稍后'],
         defaultId: 0,
         cancelId: 1,
