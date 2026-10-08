@@ -55,7 +55,7 @@ if (!squirrelStartup) {
         { type: 'separator' },
         { label: '关于', click: () => { void dialog.showMessageBox(window, {
           type: 'info', title: '关于 材料数据计算工具', message: `材料数据计算工具 v${app.getVersion()}`,
-          detail: '供工厂人员在本机离线估算材料可冲圆片数量。输入材质、厚度、宽度、重量和冲料方式后，可查看预计数量及复核数据。',
+          detail: '供工厂人员在本机离线估算材料可冲圆片数量，并管理材料订货、收货、付款和供应商对账。支持多捆重量、期初欠款及材料业务数据备份。',
           buttons: ['确定'], noLink: true
         }).catch(error => console.error('显示关于信息失败：', error)); } }
       ] }

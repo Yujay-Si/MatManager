@@ -7,11 +7,38 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <aside class="sidebar" aria-label="主导航">
+    <div class="sidebar-brand">材料工作台<small>订货 · 收货 · 对账 · 计算</small></div>
+    <button type="button" class="sidebar-group" aria-expanded="true" aria-controls="supplier-navigation">供应商管理 <span aria-hidden="true">▾</span></button>
+    <nav aria-label="供应商管理" id="supplier-navigation"><button type="button" class="sidebar-link" data-material-page="suppliers">供应商资料</button></nav>
+    <button type="button" class="sidebar-group" aria-expanded="true" aria-controls="material-navigation">材料管理 <span aria-hidden="true">▾</span></button>
+    <nav aria-label="材料管理" id="material-navigation">
+      <button type="button" class="sidebar-link" data-material-page="orders">材料订货单</button>
+      <button type="button" class="sidebar-link" data-material-page="receipts">材料收货单</button>
+      <button type="button" class="sidebar-link" data-material-page="payments">材料付款单</button>
+      <button type="button" class="sidebar-link" data-material-page="statement">材料对账单</button>
+    </nav>
+    <button type="button" class="sidebar-group" aria-expanded="true" aria-controls="data-navigation">数据管理 <span aria-hidden="true">▾</span></button>
+    <nav aria-label="数据管理" id="data-navigation"><button type="button" class="sidebar-link active" id="open-calculator" aria-current="page">数据计算</button></nav>
+    <p class="sidebar-note">本机离线保存<br>请定期备份业务数据</p>
+  </aside>
   <main class="page">
     <header class="page-header">
-      <h1>材料数据计算工具</h1>
+      <p class="page-eyebrow" id="page-section">数据管理 / 数据计算</p>
+      <h1 id="page-title">数据计算</h1>
     </header>
-
+    <section id="material-view" aria-label="材料管理业务页面" hidden>
+      <p id="material-status" class="status-panel" role="status" tabindex="-1" hidden></p>
+      <div class="material-toolbar">
+        <label class="field" for="material-supplier-filter" id="supplier-filter-field"><span>供应商筛选</span><select id="material-supplier-filter"><option value="">全部供应商</option></select></label>
+        <button type="button" class="secondary-button" id="material-add-supplier" hidden>新增供应商 / 期初欠款</button>
+        <button type="button" class="secondary-button" id="material-backup">备份材料数据</button>
+        <label class="file-button">恢复材料备份<input id="material-restore" type="file" accept=".json,application/json"></label>
+        <button type="button" class="secondary-button" id="material-refresh">刷新</button>
+      </div>
+      <div id="material-content"></div>
+    </section>
+    <div id="calculator-module">
     <nav class="view-nav" aria-label="功能切换">
       <button type="button" class="view-tab active" data-view="single" aria-current="page">单次计算</button>
       <button type="button" class="view-tab" data-view="batch">批量计算</button>
@@ -173,8 +200,10 @@
       </div>
       <p id="parameter-status" class="status-panel" role="status" hidden></p>
     </section>
+    </div>
     <section id="print-area" aria-label="打印内容"></section>
   </main>
+  <dialog id="material-dialog" aria-label="材料单据与供应商详情"></dialog>
   <script src="vendor/xlsx.full.min.js"></script>
   <script src="calculation.js"></script>
   <script src="parameter-store.js"></script>
@@ -184,5 +213,8 @@
   <script src="workflow.js"></script>
   <script src="parameter-ui.js"></script>
   <script src="app.js"></script>
+  <script src="material-domain.js"></script>
+  <script src="material-store.js"></script>
+  <script src="material-ui.js"></script>
 </body>
 </html>
