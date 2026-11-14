@@ -1,6 +1,6 @@
 # MatManager · 材料数据计算
 
-面向不锈钢冲片/算片场景的**离线**计算工具：输入材质、冲料方式、厚度、宽度与材料重量，得到预计圆片数量，同时给出该批材料生产完毕后的**角料重量**。提供 Windows 桌面版、离线网页版和微信小程序版，三端共用同一套公式与参数。
+面向不锈钢冲片 / 算片场景的**离线**计算工具。输入材质、冲料方式、厚度、宽度和材料重量，直接得到预计圆片数量；同时给出这批材料生产完毕后产生的**角料重量**。提供 Windows 桌面版、离线网页版、微信小程序版三个端，公式与参数口径完全一致。
 
 当前版本：**v1.1.0**（公式版本 2.1.0）
 上一代完整版：**v0.2.0**（供应商、订货、收货、付款、对账管理，源码仍保留在本仓库）
@@ -16,6 +16,7 @@
 | 车间网络不稳定、在线工具打不开，数据还要上传 | 三端全离线运行：桌面 EXE、本地网页、小程序，数据只存本机 |
 
 计算规则统一在公式内核里，参数可维护、可备份，历史结果按当次参数快照保存，便于复核与追溯。
+
 ## v1.1.0 更新要点
 
 - 计算结果新增**角料重量**：双排 = 材料重量 × 0.12，单排 = 材料重量 × 0.22。
@@ -26,10 +27,10 @@
 
 ## 2. 主要功能
 
-- **单次计算**：410 / 201 / 304 / 316 四种材质；单排、双排；第 1 套圆片密度算法、第 2 套圆片密度高级算法，单排另可选第 3 套方片密度算法。默认 201 / 双排 / 第 1 套。
+- **单次计算**：410 / 201 / 304 / 316 四种材质；单排、双排；第 1 套圆片密度算法、第 2 套圆片密度高级算法，单排另可选第 3 套方片密度算法。默认 201 / 双排 / 第 1 套。结果包含数量、剪口、单重、可用重量、角料比例与角料重量。
 - **批量计算**：粘贴表格或导入 CSV / XLSX；逐行显示成功或错误，并带角料重量列。单次最多 500 条，文件不超过 2 MB。
 - **结果处理**：导出 CSV / XLSX（23 列，含角料比例系数与角料重量）、打印或另存为 PDF。
-- **历史记录**：本机保存最多 500 条成功结果；支持筛选、查看详情、按当前参数重新计算、删除、JSON 备份与合并恢复。重算不改写旧记录。
+- **历史记录**：本机保存最多 500 条成功结果；支持筛选、查看参数快照、按当前参数重新计算、删除、JSON 备份与合并恢复。重算不改写旧记录。
 - **参数维护**：13 项可编辑参数（四种材质各两套密度系数、单排/双排圆片比例系数、单排/双排角料比例系数、双排剪口换算值）；保存前显示新旧值并确认；支持 JSON 备份与恢复。
 - **离线**：不需要账号、服务器或网络；数据只保存在本机。
 
@@ -50,13 +51,15 @@
 
 ### 方式一：Windows 桌面版（免安装）
 
-从 [GitHub Releases](https://github.com/Yujay-Si/MatManager/releases/latest) 下载 `SSMaterialDataCalc-1.1.0-portable.exe`，双击即可运行：
+下载 `SSMaterialDataCalc-1.1.0-portable.exe`（[Release](https://github.com/Yujay-Si/MatManager/releases/latest)），双击运行：
 
 - 单文件便携版，不需要安装、不需要 Node.js、不联网、不需要账号。
 - 数据保存在 `%APPDATA%\SSMaterialDataCalc`；菜单 **文件 → 打开数据目录** 可直接查看。
 - 菜单：文件（打开数据目录、退出）、编辑、视图（重新加载、缩放、全屏）、帮助（关于、项目主页、下载最新版）。
 - 程序未做代码签名，Windows SmartScreen 可能提示「未知发布者」，选择「更多信息 → 仍要运行」即可。
 - 备份：在「历史记录」「参数维护」页分别导出 JSON；换机时导入同一份备份。
+
+系统要求：Windows 10 / 11 x64。
 
 ### 方式二：离线网页版
 
@@ -65,19 +68,56 @@
 1. 双击 `standalone/web/start.cmd`（需要 Node.js 18+），浏览器自动打开 `http://127.0.0.1:4173/`；或
 2. 直接双击 `standalone/web/index.html`，用现代 Chromium 浏览器离线打开。
 
-历史与参数保存在当前浏览器的 localStorage，按地址来源隔离。更换端口、浏览器或清理数据前，请分别导出 JSON 备份。
+不需要 `npm install`。历史与参数保存在当前浏览器的 localStorage，按地址来源隔离；更换端口、浏览器或清理数据前，请分别导出 JSON 备份。
 
 ### 方式三：微信小程序版
 
-目录 `standalone/miniprogram/`，用微信开发者工具导入即可：
+目录 `standalone/miniprogram/`，用微信开发者工具导入：
 
 1. 首次导入把 `project.config.json` 的 `appid` 换成自己的小程序 AppID（当前文件内为项目 AppID）。
 2. 编译后在真机预览，验证 CSV 导出与「从聊天选择文件」两项（模拟器不支持分享文件）。
 3. 部署、备案与审核流程见 [`standalone/miniprogram/docs/微信小程序部署指南.md`](standalone/miniprogram/docs/微信小程序部署指南.md)。
 
-小程序端不解析 XLSX 二进制；原始数据是 Excel 时，请另存为「CSV UTF-8」后经「文件传输助手」发送到微信再导入。
+基础库要求 ≥ 2.11.0；小程序端不解析 XLSX 二进制，原始数据是 Excel 时请另存为「CSV UTF-8」后经「文件传输助手」发送到微信再导入。
+
+### 方式四：从源码构建桌面版
+
+桌面版构建工程在 `standalone/desktop/`，打包时通过 `extraResources` 直接引用 `../web` 的页面资源，不复制网页源码：
+
+```powershell
+cd standalone/desktop
+npm install
+npm run dist
+```
+
+国内网络可先设置：
+
+```powershell
+$env:ELECTRON_MIRROR="https://npmmirror.com/mirrors/electron/"
+$env:ELECTRON_BUILDER_BINARIES_MIRROR="https://npmmirror.com/mirrors/electron-builder-binaries/"
+```
+
+产物：`standalone/desktop/dist/SSMaterialDataCalc-1.1.0-portable.exe`。
+
+#### 网页版自检
+
+```powershell
+cd standalone/web
+node test/smoke.js
+```
+
+#### 小程序自检
+
+```powershell
+cd standalone/miniprogram
+node test/smoke.js
+node test/pages.js
+node tools/verify.js
+```
 
 ## 4. 输入输出示例
+
+### 单次计算
 
 在「单次计算」选择 **201 / 双排 / 第 2 套圆片密度高级算法公式**，输入：
 
@@ -101,12 +141,24 @@
 
 数量按未舍入单重计算后向下取整：`floor(100 × 0.824 ÷ 0.191232) = 430`。角料按材料总重计算：`100 × 0.12 = 12 kg`。
 
+换成 **单排 / 第 1 套**（其余输入相同）：剪口 600 mm、角料比例 0.22、角料重量 **22 kg**、预计数量 **115 个**。
+
+### 批量计算
+
 批量导入模板表头：
 
 ```csv
 材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式
 201,0.3,600,100,双排,2
+304,0.5,600,80,单排,3
 ```
+
+逐行结果与导出文件一致：
+
+| 行 | 材质 | 剪口(mm) | 预计数量 | 角料重量(kg) | 状态 |
+| ---: | --- | ---: | ---: | ---: | --- |
+| 2 | 201 | 320 | 430 | 12 | 成功 |
+| 3 | 304 | 600 | 56 | 17.6 | 成功 · 方片换算 |
 
 公式编号：`1` 圆片密度算法，`2` 圆片密度高级算法，`3` 方片密度算法（仅单排）。旧版批量文件的公式 1、2 编号与当前版本相反，导入前需互换。
 
@@ -132,40 +184,12 @@
 ├─ desktop/                      # v0.2.0 完整版（供应商/材料管理）Electron 主进程
 ├─ outputs/preview-site/         # v0.2.0 完整版离线网页
 ├─ outputs/scripts/              # v0.2.0 构建与自检脚本
-├─ docs/                         # v0.2.0 使用说明与验收记录
+├─ docs/                         # v0.2.0 使用说明、验收记录与 v1.1.0 发布说明
 ├─ forge.config.js               # v0.2.0 Electron Forge 配置
 └─ package.json                  # v0.2.0 工程配置
 ```
 
 v1.1.0 计算工具与 v0.2.0 完整版是两条独立的产品线：计算规则同源，但数据互不自动同步，界面与数据目录分开。v0.2.0 的供应商与材料单据功能未包含在 v1.1.0 桌面版中。
-
-### 方式四：从源码构建
-
-### Windows 桌面版
-
-```powershell
-cd standalone/desktop
-npm install
-npm run dist
-```
-
-产物：`standalone/desktop/dist/SSMaterialDataCalc-1.1.0-portable.exe`。首次构建会从 npm 镜像下载 Electron；国内网络可设置 `ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/`。
-
-### 网页版自检
-
-```powershell
-cd standalone/web
-node test/smoke.js
-```
-
-### 小程序自检
-
-```powershell
-cd standalone/miniprogram
-node test/smoke.js
-node test/pages.js
-node tools/verify.js
-```
 
 ## 版本历史
 
