@@ -1,1 +1,248 @@
-J3VzZSBzdHJpY3QnOwoKdmFyIGNhbGN1bGF0aW9uID0gcmVxdWlyZSgnLi4vLi4vdXRpbHMvY2FsY3VsYXRpb24nKTsKdmFyIHBhcmFtZXRlclN0b3JlID0gcmVxdWlyZSgnLi4vLi4vdXRpbHMvcGFyYW1ldGVyLXN0b3JlJyk7CnZhciBmaWxlU2hhcmUgPSByZXF1aXJlKCcuLi8uLi91dGlscy9maWxlLXNoYXJlJyk7CgpmdW5jdGlvbiBub3dUZXh0KHZhbHVlKSB7CiAgdmFyIGRhdGUgPSBuZXcgRGF0ZSh2YWx1ZSk7CiAgaWYgKGlzTmFOKGRhdGUuZ2V0VGltZSgpKSkgcmV0dXJuICcnOwogIGZ1bmN0aW9uIHBhZChudW1iZXIpIHsKICAgIHJldHVybiBudW1iZXIgPCAxMCA/ICcwJyArIG51bWJlciA6IFN0cmluZyhudW1iZXIpOwogIH0KICByZXR1cm4gZGF0ZS5nZXRGdWxsWWVhcigpICsgJy0nICsgcGFkKGRhdGUuZ2V0TW9udGgoKSArIDEpICsgJy0nICsgcGFkKGRhdGUuZ2V0RGF0ZSgpKSArCiAgICAnICcgKyBwYWQoZGF0ZS5nZXRIb3VycygpKSArICc6JyArIHBhZChkYXRlLmdldE1pbnV0ZXMoKSk7Cn0KClBhZ2UoewogIGRhdGE6IHsKICAgIGZpZWxkczogW10sCiAgICB2ZXJzaW9uVGV4dDogJ+m7mOiupOWPguaVsCB2MCcsCiAgICBzdGF0dXM6ICcnLAogICAgc3RhdHVzRXJyb3I6IGZhbHNlCiAgfSwKCiAgbG9hZGVkUmV2aXNpb246IG51bGwsCiAgcmF3VmFsdWVzOiB7fSwKCiAgb25TaG93OiBmdW5jdGlvbiAoKSB7CiAgICB0aGlzLmxvYWQoKTsKICB9LAoKICBsb2FkOiBmdW5jdGlvbiAoKSB7CiAgICB0cnkgewogICAgICB2YXIgc3RhdGUgPSBwYXJhbWV0ZXJTdG9yZS5yZWFkU3RhdGUoKTsKICAgICAgdGhpcy5sb2FkZWRSZXZpc2lvbiA9IHN0YXRlLnJldmlzaW9uOwogICAgICB2YXIgcmF3VmFsdWVzID0ge307CiAgICAgIHZhciBmaWVsZHMgPSBwYXJhbWV0ZXJTdG9yZS5GSUVMRFMubWFwKGZ1bmN0aW9uIChmaWVsZCkgewogICAgICAgIHZhciB2YWx1ZSA9IHBhcmFtZXRlclN0b3JlLnZhbHVlQXQoc3RhdGUucGFyYW1ldGVycywgZmllbGQua2V5KTsKICAgICAgICByYXdWYWx1ZXNbZmllbGQua2V5XSA9IFN0cmluZyh2YWx1ZSk7CiAgICAgICAgcmV0dXJuIHsga2V5OiBmaWVsZC5rZXksIGxhYmVsOiBmaWVsZC5sYWJlbCwgdmFsdWU6IFN0cmluZyh2YWx1ZSkgfTsKICAgICAgfSk7CiAgICAgIHRoaXMucmF3VmFsdWVzID0gcmF3VmFsdWVzOwogICAgICB0aGlzLnNldERhdGEoewogICAgICAgIGZpZWxkczogZmllbGRzLAogICAgICAgIHZlcnNpb25UZXh0OiBzdGF0ZS5yZXZpc2lvbiA9PT0gMAogICAgICAgICAgPyAn6buY6K6k5Y+C5pWwIHYwIMK3IOWwmuacquS/ruaUuScKICAgICAgICAgIDogJ+acrOacuuWPguaVsCB2JyArIHN0YXRlLnJldmlzaW9uICsgJyDCtyDmnIDov5Hkv67mlLkgJyArIG5vd1RleHQoc3RhdGUudXBkYXRlZEF0KSwKICAgICAgICBzdGF0dXM6ICcnLAogICAgICAgIHN0YXR1c0Vycm9yOiBmYWxzZQogICAgICB9KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRoaXMubG9hZGVkUmV2aXNpb24gPSBudWxsOwogICAgICB0aGlzLnNldERhdGEoewogICAgICAgIHZlcnNpb25UZXh0OiAn5pys5Zyw5Y+C5pWw5peg5rOV6K+75Y+WJywKICAgICAgICBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsCiAgICAgICAgc3RhdHVzRXJyb3I6IHRydWUKICAgICAgfSk7CiAgICB9CiAgfSwKCiAgb25GaWVsZElucHV0OiBmdW5jdGlvbiAoZXZlbnQpIHsKICAgIHZhciBrZXkgPSBldmVudC5jdXJyZW50VGFyZ2V0LmRhdGFzZXQua2V5OwogICAgdmFyIGluZGV4ID0gTnVtYmVyKGV2ZW50LmN1cnJlbnRUYXJnZXQuZGF0YXNldC5pbmRleCk7CiAgICB2YXIgdmFsdWUgPSBldmVudC5kZXRhaWwudmFsdWU7CiAgICB0aGlzLnJhd1ZhbHVlc1trZXldID0gdmFsdWU7CiAgICB2YXIgcGF0Y2ggPSB7fTsKICAgIHBhdGNoWydmaWVsZHNbJyArIGluZGV4ICsgJ10udmFsdWUnXSA9IHZhbHVlOwogICAgdGhpcy5zZXREYXRhKHBhdGNoKTsKICB9LAoKICBlbnN1cmVSZXZpc2lvbjogZnVuY3Rpb24gKCkgewogICAgdmFyIGN1cnJlbnQgPSBwYXJhbWV0ZXJTdG9yZS5yZWFkU3RhdGUoKTsKICAgIGlmIChjdXJyZW50LnJldmlzaW9uICE9PSB0aGlzLmxvYWRlZFJldmlzaW9uKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5Y+C5pWw5bey5Zyo5YW25LuW6aG16Z2i5pu05paw77yM6K+36YeN5paw6L+b5YWl5Y+C5pWw57u05oqk6aG15ZCO5YaN5pON5L2c44CCJyk7CiAgICB9CiAgICByZXR1cm4gY3VycmVudDsKICB9LAoKICBvblNhdmU6IGZ1bmN0aW9uICgpIHsKICAgIHZhciBzZWxmID0gdGhpczsKICAgIHZhciBjdXJyZW50OwogICAgdmFyIGluY29taW5nOwogICAgdmFyIGNoYW5nZXM7CiAgICB0cnkgewogICAgICBjdXJyZW50ID0gdGhpcy5lbnN1cmVSZXZpc2lvbigpOwogICAgICBpbmNvbWluZyA9IHBhcmFtZXRlclN0b3JlLnZhbGlkYXRlVmFsdWVzKHRoaXMucmF3VmFsdWVzKTsKICAgICAgY2hhbmdlcyA9IHBhcmFtZXRlclN0b3JlLmRlc2NyaWJlQ2hhbmdlcygKICAgICAgICBwYXJhbWV0ZXJTdG9yZS5lZGl0YWJsZVZhbHVlcyhjdXJyZW50LnBhcmFtZXRlcnMpLAogICAgICAgIGluY29taW5nCiAgICAgICk7CiAgICAgIGlmIChjaGFuZ2VzLmxlbmd0aCA9PT0gMCkgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDmsqHmnInlj5jljJbjgIInKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRoaXMuc2V0RGF0YSh7IHN0YXR1czogZXJyb3IubWVzc2FnZSwgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICB3eC5zaG93TW9kYWwoewogICAgICB0aXRsZTogJ+ehruiupOS/neWtmOWPguaVsCcsCiAgICAgIGNvbnRlbnQ6IGNoYW5nZXMuam9pbignXG4nKSArICdcblxu5paw5Y+C5pWw5Y+q5b2x5ZON5ZCO57ut6K6h566X77yM5Y6G5Y+y57uT5p6c5LiN5Y+Y44CCJywKICAgICAgY29uZmlybVRleHQ6ICfkv53lrZgnLAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAobW9kYWwpIHsKICAgICAgICBpZiAoIW1vZGFsLmNvbmZpcm0pIHJldHVybjsKICAgICAgICB0cnkgewogICAgICAgICAgdmFyIHNhdmVkID0gcGFyYW1ldGVyU3RvcmUud3JpdGVWYWx1ZXMoaW5jb21pbmcsIHNlbGYubG9hZGVkUmV2aXNpb24pOwogICAgICAgICAgc2VsZi5sb2FkKCk7CiAgICAgICAgICBzZWxmLnNldERhdGEoewogICAgICAgICAgICBzdGF0dXM6ICflj4LmlbDlt7Lkv53lrZjkuLrmnKzmnLrlj4LmlbAgdicgKyBzYXZlZC5yZXZpc2lvbiArICfvvJvljoblj7LorqHnrpfnu5PmnpzmnKrkv67mlLnjgIInLAogICAgICAgICAgICBzdGF0dXNFcnJvcjogZmFsc2UKICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgICAgIH0KICAgICAgfQogICAgfSk7CiAgfSwKCiAgb25SZXN0b3JlRGVmYXVsdHM6IGZ1bmN0aW9uICgpIHsKICAgIHZhciBzZWxmID0gdGhpczsKICAgIHZhciBjdXJyZW50OwogICAgdmFyIGRlZmF1bHRzOwogICAgdmFyIGNoYW5nZXM7CiAgICB0cnkgewogICAgICBjdXJyZW50ID0gdGhpcy5lbnN1cmVSZXZpc2lvbigpOwogICAgICBkZWZhdWx0cyA9IHBhcmFtZXRlclN0b3JlLmVkaXRhYmxlVmFsdWVzKGNhbGN1bGF0aW9uLkRFRkFVTFRfUEFSQU1FVEVSUyk7CiAgICAgIGNoYW5nZXMgPSBwYXJhbWV0ZXJTdG9yZS5kZXNjcmliZUNoYW5nZXMoCiAgICAgICAgcGFyYW1ldGVyU3RvcmUuZWRpdGFibGVWYWx1ZXMoY3VycmVudC5wYXJhbWV0ZXJzKSwKICAgICAgICBkZWZhdWx0cwogICAgICApOwogICAgICBpZiAoY2hhbmdlcy5sZW5ndGggPT09IDApIHRocm93IG5ldyBFcnJvcign5b2T5YmN5bey5piv5Ye65Y6C6buY6K6k5Y+C5pWw44CCJyk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0aGlzLnNldERhdGEoeyBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgICByZXR1cm47CiAgICB9CgogICAgd3guc2hvd01vZGFsKHsKICAgICAgdGl0bGU6ICfmgaLlpI3lh7rljoLpu5jorqTlgLwnLAogICAgICBjb250ZW50OiBjaGFuZ2VzLmpvaW4oJ1xuJykgKyAnXG5cbuaWsOWPguaVsOWPquW9seWTjeWQjue7reiuoeeul++8jOWOhuWPsue7k+aenOS4jeWPmOOAgicsCiAgICAgIGNvbmZpcm1UZXh0OiAn5oGi5aSNJywKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKG1vZGFsKSB7CiAgICAgICAgaWYgKCFtb2RhbC5jb25maXJtKSByZXR1cm47CiAgICAgICAgdHJ5IHsKICAgICAgICAgIHZhciBzYXZlZCA9IHBhcmFtZXRlclN0b3JlLnJlc3RvcmVEZWZhdWx0cyhzZWxmLmxvYWRlZFJldmlzaW9uKTsKICAgICAgICAgIHNlbGYubG9hZCgpOwogICAgICAgICAgc2VsZi5zZXREYXRhKHsKICAgICAgICAgICAgc3RhdHVzOiAn5bey5oGi5aSN5Ye65Y6C6buY6K6k5YC877yM5b2T5YmN5Li65pys5py65Y+C5pWwIHYnICsgc2F2ZWQucmV2aXNpb24gKyAn77yb5Y6G5Y+y6K6h566X57uT5p6c5pyq5L+u5pS544CCJywKICAgICAgICAgICAgc3RhdHVzRXJyb3I6IGZhbHNlCiAgICAgICAgICB9KTsKICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiBlcnJvci5tZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pOwogIH0sCgogIG9uQmFja3VwOiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICB0cnkgewogICAgICB2YXIgYmFja3VwID0gcGFyYW1ldGVyU3RvcmUuZXhwb3J0QmFja3VwKCk7CiAgICAgIGZpbGVTaGFyZS5leHBvcnRUZXh0RmlsZSgn5p2Q5paZ6K6h566X5Y+C5pWw5aSH5Lu9Lmpzb24nLCBKU09OLnN0cmluZ2lmeShiYWNrdXAsIG51bGwsIDIpLCB7CiAgICAgICAgb25TdWNjZXNzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6ICflj4LmlbAgSlNPTiDlpIfku73lt7Llj5HpgIHliLDogYrlpKnjgIInLCBzdGF0dXNFcnJvcjogZmFsc2UgfSk7CiAgICAgICAgfSwKICAgICAgICBvbkNhbmNlbDogZnVuY3Rpb24gKCkgewogICAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiAn5bey5Y+W5raI5aSH5Lu944CCJywgc3RhdHVzRXJyb3I6IGZhbHNlIH0pOwogICAgICAgIH0sCiAgICAgICAgb25FcnJvcjogZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0aGlzLnNldERhdGEoeyBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgfQogIH0sCgogIG9uUmVzdG9yZTogZnVuY3Rpb24gKCkgewogICAgdmFyIHNlbGYgPSB0aGlzOwogICAgaWYgKHR5cGVvZiB3eC5jaG9vc2VNZXNzYWdlRmlsZSAhPT0gJ2Z1bmN0aW9uJykgewogICAgICB0aGlzLnNldERhdGEoeyBzdGF0dXM6ICflvZPliY3lvq7kv6HniYjmnKzkuI3mlK/mjIHpgInmi6nmlofku7bjgIInLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgd3guY2hvb3NlTWVzc2FnZUZpbGUoewogICAgICBjb3VudDogMSwKICAgICAgdHlwZTogJ2ZpbGUnLAogICAgICBleHRlbnNpb246IFsnanNvbiddLAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgdmFyIGZpbGUgPSByZXN1bHQudGVtcEZpbGVzICYmIHJlc3VsdC50ZW1wRmlsZXNbMF07CiAgICAgICAgaWYgKCFmaWxlKSByZXR1cm47CiAgICAgICAgaWYgKGZpbGUuc2l6ZSA+IDEwMCAqIDEwMjQpIHsKICAgICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogJ+WPguaVsOWkh+S7veaWh+S7tui2hei/hyAxMDAgS0Ig5LiK6ZmQ44CCJywgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHZhciBiYWNrdXA7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGJhY2t1cCA9IEpTT04ucGFyc2Uod3guZ2V0RmlsZVN5c3RlbU1hbmFnZXIoKS5yZWFkRmlsZVN5bmMoZmlsZS5wYXRoLCAndXRmLTgnKSk7CiAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogJ0pTT04g5aSH5Lu95paH5Lu25qC85byP6ZSZ6K+v44CCJywgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHZhciBjdXJyZW50OwogICAgICAgIHZhciBpbmNvbWluZzsKICAgICAgICB2YXIgY2hhbmdlczsKICAgICAgICB0cnkgewogICAgICAgICAgaWYgKCFiYWNrdXAgfHwgYmFja3VwLmZvcm1hdCAhPT0gJ21hdGVyaWFsLWNhbGN1bGF0b3ItcGFyYW1ldGVycycgfHwgYmFja3VwLnZlcnNpb24gIT09IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDlpIfku73moLzlvI/ml6DmlYjjgIInKTsKICAgICAgICAgIH0KICAgICAgICAgIGN1cnJlbnQgPSBzZWxmLmVuc3VyZVJldmlzaW9uKCk7CiAgICAgICAgICBpbmNvbWluZyA9IHBhcmFtZXRlclN0b3JlLnZhbGlkYXRlVmFsdWVzKGJhY2t1cC52YWx1ZXMpOwogICAgICAgICAgY2hhbmdlcyA9IHBhcmFtZXRlclN0b3JlLmRlc2NyaWJlQ2hhbmdlcygKICAgICAgICAgICAgcGFyYW1ldGVyU3RvcmUuZWRpdGFibGVWYWx1ZXMoY3VycmVudC5wYXJhbWV0ZXJzKSwKICAgICAgICAgICAgaW5jb21pbmcKICAgICAgICAgICk7CiAgICAgICAgICBpZiAoY2hhbmdlcy5sZW5ndGggPT09IDApIHRocm93IG5ldyBFcnJvcign5aSH5Lu95Y+C5pWw5LiO5b2T5YmN5Y+C5pWw55u45ZCM44CCJyk7CiAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogZXJyb3IubWVzc2FnZSwgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICB3eC5zaG93TW9kYWwoewogICAgICAgICAgdGl0bGU6ICflr7zlhaXlj4LmlbDlpIfku70nLAogICAgICAgICAgY29udGVudDogY2hhbmdlcy5qb2luKCdcbicpICsgJ1xuXG7mlrDlj4LmlbDlj6rlvbHlk43lkI7nu63orqHnrpfvvIzljoblj7Lnu5PmnpzkuI3lj5jjgIInLAogICAgICAgICAgY29uZmlybVRleHQ6ICflr7zlhaUnLAogICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKG1vZGFsKSB7CiAgICAgICAgICAgIGlmICghbW9kYWwuY29uZmlybSkgcmV0dXJuOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgIHZhciBzYXZlZCA9IHBhcmFtZXRlclN0b3JlLmltcG9ydEJhY2t1cChiYWNrdXAsIHNlbGYubG9hZGVkUmV2aXNpb24pOwogICAgICAgICAgICAgIHNlbGYubG9hZCgpOwogICAgICAgICAgICAgIHNlbGYuc2V0RGF0YSh7CiAgICAgICAgICAgICAgICBzdGF0dXM6ICflt7Llr7zlhaXlj4LmlbDvvIzmnKzmnLrlj4LmlbAgdicgKyBzYXZlZC5yZXZpc2lvbiArICfvvJvljoblj7LorqHnrpfnu5PmnpzmnKrkv67mlLnjgIInLAogICAgICAgICAgICAgICAgc3RhdHVzRXJyb3I6IGZhbHNlCiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiBlcnJvci5tZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0pOwogICAgICB9LAogICAgICBmYWlsOiBmdW5jdGlvbiAoZXJyb3IpIHsKICAgICAgICB2YXIgbWVzc2FnZSA9IChlcnJvciAmJiBlcnJvci5lcnJNc2cpIHx8ICcnOwogICAgICAgIGlmIChtZXNzYWdlLmluZGV4T2YoJ2NhbmNlbCcpICE9PSAtMSkgcmV0dXJuOwogICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogJ+mAieaLqeaWh+S7tuWksei0pe+8micgKyBtZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgfQogICAgfSk7CiAgfSwKCiAgb25TaGFyZUFwcE1lc3NhZ2U6IGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB7IHRpdGxlOiAn5ZyG54mH566X6YePIMK3IOWPguaVsOe7tOaKpCcsIHBhdGg6ICcvcGFnZXMvc2luZ2xlL2luZGV4JyB9OwogIH0KfSk7Cg==
+'use strict';
+
+var calculation = require('../../utils/calculation');
+var parameterStore = require('../../utils/parameter-store');
+var fileShare = require('../../utils/file-share');
+
+function nowText(value) {
+  var date = new Date(value);
+  if (isNaN(date.getTime())) return '';
+  function pad(number) {
+    return number < 10 ? '0' + number : String(number);
+  }
+  return date.getFullYear() + '-' + pad(date.getMonth() + 1) + '-' + pad(date.getDate()) +
+    ' ' + pad(date.getHours()) + ':' + pad(date.getMinutes());
+}
+
+Page({
+  data: {
+    fields: [],
+    versionText: '默认参数 v0',
+    status: '',
+    statusError: false
+  },
+
+  loadedRevision: null,
+  rawValues: {},
+
+  onShow: function () {
+    this.load();
+  },
+
+  load: function () {
+    try {
+      var state = parameterStore.readState();
+      this.loadedRevision = state.revision;
+      var rawValues = {};
+      var fields = parameterStore.FIELDS.map(function (field) {
+        var value = parameterStore.valueAt(state.parameters, field.key);
+        rawValues[field.key] = String(value);
+        return { key: field.key, label: field.label, value: String(value) };
+      });
+      this.rawValues = rawValues;
+      this.setData({
+        fields: fields,
+        versionText: state.revision === 0
+          ? '默认参数 v0 · 尚未修改'
+          : '本机参数 v' + state.revision + ' · 最近修改 ' + nowText(state.updatedAt),
+        status: '',
+        statusError: false
+      });
+    } catch (error) {
+      this.loadedRevision = null;
+      this.setData({
+        versionText: '本地参数无法读取',
+        status: error.message,
+        statusError: true
+      });
+    }
+  },
+
+  onFieldInput: function (event) {
+    var key = event.currentTarget.dataset.key;
+    var index = Number(event.currentTarget.dataset.index);
+    var value = event.detail.value;
+    this.rawValues[key] = value;
+    var patch = {};
+    patch['fields[' + index + '].value'] = value;
+    this.setData(patch);
+  },
+
+  ensureRevision: function () {
+    var current = parameterStore.readState();
+    if (current.revision !== this.loadedRevision) {
+      throw new Error('参数已在其他页面更新，请重新进入参数维护页后再操作。');
+    }
+    return current;
+  },
+
+  onSave: function () {
+    var self = this;
+    var current;
+    var incoming;
+    var changes;
+    try {
+      current = this.ensureRevision();
+      incoming = parameterStore.validateValues(this.rawValues);
+      changes = parameterStore.describeChanges(
+        parameterStore.editableValues(current.parameters),
+        incoming
+      );
+      if (changes.length === 0) throw new Error('参数没有变化。');
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+      return;
+    }
+
+    wx.showModal({
+      title: '确认保存参数',
+      content: changes.join('\n') + '\n\n新参数只影响后续计算，历史结果不变。',
+      confirmText: '保存',
+      success: function (modal) {
+        if (!modal.confirm) return;
+        try {
+          var saved = parameterStore.writeValues(incoming, self.loadedRevision);
+          self.load();
+          self.setData({
+            status: '参数已保存为本机参数 v' + saved.revision + '；历史计算结果未修改。',
+            statusError: false
+          });
+        } catch (error) {
+          self.setData({ status: error.message, statusError: true });
+        }
+      }
+    });
+  },
+
+  onRestoreDefaults: function () {
+    var self = this;
+    var current;
+    var defaults;
+    var changes;
+    try {
+      current = this.ensureRevision();
+      defaults = parameterStore.editableValues(calculation.DEFAULT_PARAMETERS);
+      changes = parameterStore.describeChanges(
+        parameterStore.editableValues(current.parameters),
+        defaults
+      );
+      if (changes.length === 0) throw new Error('当前已是出厂默认参数。');
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+      return;
+    }
+
+    wx.showModal({
+      title: '恢复出厂默认值',
+      content: changes.join('\n') + '\n\n新参数只影响后续计算，历史结果不变。',
+      confirmText: '恢复',
+      success: function (modal) {
+        if (!modal.confirm) return;
+        try {
+          var saved = parameterStore.restoreDefaults(self.loadedRevision);
+          self.load();
+          self.setData({
+            status: '已恢复出厂默认值，当前为本机参数 v' + saved.revision + '；历史计算结果未修改。',
+            statusError: false
+          });
+        } catch (error) {
+          self.setData({ status: error.message, statusError: true });
+        }
+      }
+    });
+  },
+
+  onBackup: function () {
+    var self = this;
+    try {
+      var backup = parameterStore.exportBackup();
+      fileShare.exportTextFile('材料计算参数备份.json', JSON.stringify(backup, null, 2), {
+        onSuccess: function () {
+          self.setData({ status: '参数 JSON 备份已发送到聊天。', statusError: false });
+        },
+        onCancel: function () {
+          self.setData({ status: '已取消备份。', statusError: false });
+        },
+        onError: function (error) {
+          self.setData({ status: error.message, statusError: true });
+        }
+      });
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+    }
+  },
+
+  onRestore: function () {
+    var self = this;
+    if (typeof wx.chooseMessageFile !== 'function') {
+      this.setData({ status: '当前微信版本不支持选择文件。', statusError: true });
+      return;
+    }
+    wx.chooseMessageFile({
+      count: 1,
+      type: 'file',
+      extension: ['json'],
+      success: function (result) {
+        var file = result.tempFiles && result.tempFiles[0];
+        if (!file) return;
+        if (file.size > 100 * 1024) {
+          self.setData({ status: '参数备份文件超过 100 KB 上限。', statusError: true });
+          return;
+        }
+        var backup;
+        try {
+          backup = JSON.parse(wx.getFileSystemManager().readFileSync(file.path, 'utf-8'));
+        } catch (error) {
+          self.setData({ status: 'JSON 备份文件格式错误。', statusError: true });
+          return;
+        }
+        var current;
+        var incoming;
+        var changes;
+        try {
+          if (!backup || backup.format !== 'material-calculator-parameters' || backup.version !== 1) {
+            throw new Error('参数备份格式无效。');
+          }
+          current = self.ensureRevision();
+          incoming = parameterStore.validateValues(backup.values);
+          changes = parameterStore.describeChanges(
+            parameterStore.editableValues(current.parameters),
+            incoming
+          );
+          if (changes.length === 0) throw new Error('备份参数与当前参数相同。');
+        } catch (error) {
+          self.setData({ status: error.message, statusError: true });
+          return;
+        }
+
+        wx.showModal({
+          title: '导入参数备份',
+          content: changes.join('\n') + '\n\n新参数只影响后续计算，历史结果不变。',
+          confirmText: '导入',
+          success: function (modal) {
+            if (!modal.confirm) return;
+            try {
+              var saved = parameterStore.importBackup(backup, self.loadedRevision);
+              self.load();
+              self.setData({
+                status: '已导入参数，本机参数 v' + saved.revision + '；历史计算结果未修改。',
+                statusError: false
+              });
+            } catch (error) {
+              self.setData({ status: error.message, statusError: true });
+            }
+          }
+        });
+      },
+      fail: function (error) {
+        var message = (error && error.errMsg) || '';
+        if (message.indexOf('cancel') !== -1) return;
+        self.setData({ status: '选择文件失败：' + message, statusError: true });
+      }
+    });
+  },
+
+  onShareAppMessage: function () {
+    return { title: '圆片算量 · 参数维护', path: '/pages/single/index' };
+  }
+});

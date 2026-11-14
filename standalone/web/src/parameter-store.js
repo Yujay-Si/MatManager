@@ -1,1 +1,131 @@
-KGZ1bmN0aW9uIChnbG9iYWwpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IFNUT1JBR0VfS0VZID0gJ21hdGVyaWFsLWNhbGN1bGF0b3ItcGFyYW1ldGVycy12MSc7CiAgY29uc3QgZGVmYXVsdHMgPSBnbG9iYWwuTWF0ZXJpYWxDYWxjdWxhdG9yLkRFRkFVTFRfUEFSQU1FVEVSUzsKICBjb25zdCBGSUVMRFMgPSBPYmplY3QuZnJlZXplKFsKICAgIC4uLlsnNDEwJywgJzIwMScsICczMDQnLCAnMzE2J10uZmxhdE1hcChtYXRlcmlhbCA9PiBbCiAgICAgIHsga2V5OiBgbWF0ZXJpYWxzLiR7bWF0ZXJpYWx9LnJhZGl1c2AsIGxhYmVsOiBgJHttYXRlcmlhbH0g56ysIDEg5aWX5a+G5bqm57O75pWwYCwga2luZDogJ21hdGVyaWFsJyB9LAogICAgICB7IGtleTogYG1hdGVyaWFscy4ke21hdGVyaWFsfS5zcXVhcmVgLCBsYWJlbDogYCR7bWF0ZXJpYWx9IOesrCAyIOWll+WvhuW6puezu+aVsGAsIGtpbmQ6ICdtYXRlcmlhbCcgfQogICAgXSksCiAgICB7IGtleTogJ21vZGVzLnNpbmdsZS51c2FibGVGYWN0b3InLCBsYWJlbDogJ+WNleaOkuWGsuaWmeWchueJh+avlOS+i+ezu+aVsCcsIGtpbmQ6ICd1c2FibGUnIH0sCiAgICB7IGtleTogJ21vZGVzLnNpbmdsZS5zY3JhcFJhdGlvJywgbGFiZWw6ICfljZXmjpLop5Lmlpnmr5Tkvovns7vmlbAnLCBraW5kOiAnc2NyYXAnIH0sCiAgICB7IGtleTogJ21vZGVzLmRvdWJsZS51c2FibGVGYWN0b3InLCBsYWJlbDogJ+WPjOaOkuWGsuaWmeWchueJh+avlOS+i+ezu+aVsCcsIGtpbmQ6ICd1c2FibGUnIH0sCiAgICB7IGtleTogJ21vZGVzLmRvdWJsZS5zY3JhcFJhdGlvJywgbGFiZWw6ICflj4zmjpLop5Lmlpnmr5Tkvovns7vmlbAnLCBraW5kOiAnc2NyYXAnIH0sCiAgICB7IGtleTogJ21vZGVzLmRvdWJsZS53aWR0aERpdmlzb3InLCBsYWJlbDogJ+WPjOaOkuWJquWPo+aNoueul+WAvCcsIGtpbmQ6ICdkaXZpc29yJyB9CiAgXSk7CgogIGZ1bmN0aW9uIHZhbHVlQXQob2JqZWN0LCBrZXkpIHsKICAgIHJldHVybiBrZXkuc3BsaXQoJy4nKS5yZWR1Y2UoKHBhcnQsIG5hbWUpID0+IHBhcnQgJiYgcGFydFtuYW1lXSwgb2JqZWN0KTsKICB9CgogIGZ1bmN0aW9uIGVkaXRhYmxlVmFsdWVzKHBhcmFtZXRlcnMpIHsKICAgIGNvbnN0IHZhbHVlcyA9IHt9OwogICAgZm9yIChjb25zdCBmaWVsZCBvZiBGSUVMRFMpIHZhbHVlc1tmaWVsZC5rZXldID0gdmFsdWVBdChwYXJhbWV0ZXJzLCBmaWVsZC5rZXkpOwogICAgcmV0dXJuIHZhbHVlczsKICB9CgogIGZ1bmN0aW9uIHZhbGlkYXRlVmFsdWVzKHZhbHVlcykgewogICAgaWYgKCF2YWx1ZXMgfHwgdHlwZW9mIHZhbHVlcyAhPT0gJ29iamVjdCcpIHRocm93IG5ldyBFcnJvcign5Y+C5pWw5pWw5o2u57y65aSx44CCJyk7CiAgICBjb25zdCBjbGVhbiA9IHt9OwogICAgZm9yIChjb25zdCBmaWVsZCBvZiBGSUVMRFMpIHsKICAgICAgY29uc3QgcmF3ID0gdmFsdWVzW2ZpZWxkLmtleV07CiAgICAgIGlmIChyYXcgPT09ICcnIHx8IHJhdyA9PT0gbnVsbCB8fCByYXcgPT09IHVuZGVmaW5lZCB8fCB0eXBlb2YgcmF3ID09PSAnYm9vbGVhbicpIHRocm93IG5ldyBFcnJvcihgJHtmaWVsZC5sYWJlbH3kuI3og73kuLrnqbrjgIJgKTsKICAgICAgY29uc3QgbnVtYmVyID0gTnVtYmVyKHJhdyk7CiAgICAgIGlmICghTnVtYmVyLmlzRmluaXRlKG51bWJlcikpIHRocm93IG5ldyBFcnJvcihgJHtmaWVsZC5sYWJlbH3lv4XpobvmmK/mnInmlYjmlbDlrZfjgIJgKTsKICAgICAgaWYgKGZpZWxkLmtpbmQgPT09ICdtYXRlcmlhbCcgJiYgIShudW1iZXIgPiAwICYmIG51bWJlciA8PSAxMDAwKSkgdGhyb3cgbmV3IEVycm9yKGAke2ZpZWxkLmxhYmVsfemhu+Wkp+S6jiAwIOS4lOS4jei2hei/hyAxMDAw44CCYCk7CiAgICAgIGlmIChmaWVsZC5raW5kID09PSAndXNhYmxlJyAmJiAhKG51bWJlciA+IDAgJiYgbnVtYmVyIDw9IDEpKSB0aHJvdyBuZXcgRXJyb3IoYCR7ZmllbGQubGFiZWx96aG75aSn5LqOIDAg5LiU5LiN6LaF6L+HIDHjgIJgKTsKICAgICAgaWYgKGZpZWxkLmtpbmQgPT09ICdzY3JhcCcgJiYgIShudW1iZXIgPj0gMCAmJiBudW1iZXIgPD0gMSkpIHRocm93IG5ldyBFcnJvcihgJHtmaWVsZC5sYWJlbH3pobvlnKggMCDliLAgMSDkuYvpl7TjgIJgKTsKICAgICAgaWYgKGZpZWxkLmtpbmQgPT09ICdkaXZpc29yJyAmJiAhKG51bWJlciA+PSAxICYmIG51bWJlciA8PSAxMDApKSB0aHJvdyBuZXcgRXJyb3IoYCR7ZmllbGQubGFiZWx96aG75ZyoIDEg5YiwIDEwMCDkuYvpl7TjgIJgKTsKICAgICAgY2xlYW5bZmllbGQua2V5XSA9IG51bWJlcjsKICAgIH0KICAgIHJldHVybiBjbGVhbjsKICB9CgogIGZ1bmN0aW9uIGJ1aWxkUGFyYW1ldGVycyh2YWx1ZXMsIHJldmlzaW9uLCB1cGRhdGVkQXQpIHsKICAgIGNvbnN0IG1hdGVyaWFscyA9IHt9OwogICAgZm9yIChjb25zdCBtYXRlcmlhbCBvZiBbJzQxMCcsICcyMDEnLCAnMzA0JywgJzMxNiddKSB7CiAgICAgIG1hdGVyaWFsc1ttYXRlcmlhbF0gPSB7CiAgICAgICAgc3F1YXJlOiB2YWx1ZXNbYG1hdGVyaWFscy4ke21hdGVyaWFsfS5zcXVhcmVgXSwKICAgICAgICByYWRpdXM6IHZhbHVlc1tgbWF0ZXJpYWxzLiR7bWF0ZXJpYWx9LnJhZGl1c2BdCiAgICAgIH07CiAgICB9CiAgICByZXR1cm4gewogICAgICBtYXRlcmlhbHMsCiAgICAgIG1vZGVzOiB7CiAgICAgICAgc2luZ2xlOiB7CiAgICAgICAgICB3aWR0aERpdmlzb3I6IDEsCiAgICAgICAgICB1c2FibGVGYWN0b3I6IHZhbHVlc1snbW9kZXMuc2luZ2xlLnVzYWJsZUZhY3RvciddLAogICAgICAgICAgc2NyYXBSYXRpbzogdmFsdWVzWydtb2Rlcy5zaW5nbGUuc2NyYXBSYXRpbyddCiAgICAgICAgfSwKICAgICAgICBkb3VibGU6IHsKICAgICAgICAgIHdpZHRoRGl2aXNvcjogdmFsdWVzWydtb2Rlcy5kb3VibGUud2lkdGhEaXZpc29yJ10sCiAgICAgICAgICB1c2FibGVGYWN0b3I6IHZhbHVlc1snbW9kZXMuZG91YmxlLnVzYWJsZUZhY3RvciddLAogICAgICAgICAgc2NyYXBSYXRpbzogdmFsdWVzWydtb2Rlcy5kb3VibGUuc2NyYXBSYXRpbyddCiAgICAgICAgfQogICAgICB9LAogICAgICBjdXRTdGVwOiBkZWZhdWx0cy5jdXRTdGVwLAogICAgICBwaTogZGVmYXVsdHMucGksCiAgICAgIHJldmlzaW9uLAogICAgICB1cGRhdGVkQXQKICAgIH07CiAgfQoKICAvLyDml6fniYjmnKznmoTlj4LmlbDph4zmsqHmnInop5Lmlpnmr5TkvovlrZfmrrXvvJror7vlj5bml7blhYjnlKjpu5jorqTlgLzooaXpvZDvvIzpgb/lhY3ljYfnuqflkI7mlbTpobXmiqUi5Y+C5pWw5qC85byP5byC5bi4IuOAggogIGZ1bmN0aW9uIHdpdGhEZWZhdWx0cyh2YWx1ZXMpIHsKICAgIHJldHVybiB7IC4uLmVkaXRhYmxlVmFsdWVzKGRlZmF1bHRzKSwgLi4uKHZhbHVlcyAmJiB0eXBlb2YgdmFsdWVzID09PSAnb2JqZWN0JyAmJiAhQXJyYXkuaXNBcnJheSh2YWx1ZXMpID8gdmFsdWVzIDoge30pIH07CiAgfQoKICBmdW5jdGlvbiByZWFkU3RhdGUoKSB7CiAgICBsZXQgcmF3OwogICAgdHJ5IHsKICAgICAgcmF3ID0gZ2xvYmFsLmxvY2FsU3RvcmFnZS5nZXRJdGVtKFNUT1JBR0VfS0VZKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5peg5rOV6K+75Y+W5pys5Zyw5Y+C5pWw77yM6K+35qOA5p+l5b2T5YmN5bqU55So55qE5a2Y5YKo5p2D6ZmQ44CCJyk7CiAgICB9CiAgICBpZiAocmF3ID09PSBudWxsKSByZXR1cm4geyByZXZpc2lvbjogMCwgdXBkYXRlZEF0OiBudWxsLCBwYXJhbWV0ZXJzOiBidWlsZFBhcmFtZXRlcnMoZWRpdGFibGVWYWx1ZXMoZGVmYXVsdHMpLCAwLCBudWxsKSB9OwogICAgdHJ5IHsKICAgICAgY29uc3Qgc3RvcmVkID0gSlNPTi5wYXJzZShyYXcpOwogICAgICBpZiAoIXN0b3JlZCB8fCBzdG9yZWQuc2NoZW1hICE9PSAxIHx8ICFOdW1iZXIuaXNTYWZlSW50ZWdlcihzdG9yZWQucmV2aXNpb24pIHx8IHN0b3JlZC5yZXZpc2lvbiA8IDEgfHwKICAgICAgICAgIHR5cGVvZiBzdG9yZWQudXBkYXRlZEF0ICE9PSAnc3RyaW5nJyB8fCBOdW1iZXIuaXNOYU4oRGF0ZS5wYXJzZShzdG9yZWQudXBkYXRlZEF0KSkgfHwKICAgICAgICAgICFzdG9yZWQudmFsdWVzIHx8IHR5cGVvZiBzdG9yZWQudmFsdWVzICE9PSAnb2JqZWN0JyB8fCBBcnJheS5pc0FycmF5KHN0b3JlZC52YWx1ZXMpKSB0aHJvdyBuZXcgRXJyb3IoJ2ludmFsaWQnKTsKICAgICAgY29uc3QgdmFsdWVzID0gdmFsaWRhdGVWYWx1ZXMod2l0aERlZmF1bHRzKHN0b3JlZC52YWx1ZXMpKTsKICAgICAgcmV0dXJuIHsgcmV2aXNpb246IHN0b3JlZC5yZXZpc2lvbiwgdXBkYXRlZEF0OiBzdG9yZWQudXBkYXRlZEF0LCBwYXJhbWV0ZXJzOiBidWlsZFBhcmFtZXRlcnModmFsdWVzLCBzdG9yZWQucmV2aXNpb24sIHN0b3JlZC51cGRhdGVkQXQpIH07CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+acrOWcsOWPguaVsOagvOW8j+W8guW4uOOAguS4uumBv+WFjeimhuebluWOn+aVsOaNru+8jOW3suWBnOatouiuoeeul+WSjOWPguaVsOS/ruaUueOAgicpOwogICAgfQogIH0KCiAgZnVuY3Rpb24gd3JpdGVWYWx1ZXModmFsdWVzLCBleHBlY3RlZFJldmlzaW9uKSB7CiAgICBjb25zdCBjdXJyZW50ID0gcmVhZFN0YXRlKCk7CiAgICBpZiAoY3VycmVudC5yZXZpc2lvbiAhPT0gZXhwZWN0ZWRSZXZpc2lvbikgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDlt7LlnKjlhbbku5bpobXpnaLmm7TmlrDvvIzor7fliLfmlrDlj4LmlbDlkI7ph43or5XjgIInKTsKICAgIGNvbnN0IGNsZWFuID0gdmFsaWRhdGVWYWx1ZXModmFsdWVzKTsKICAgIGNvbnN0IGJlZm9yZSA9IGVkaXRhYmxlVmFsdWVzKGN1cnJlbnQucGFyYW1ldGVycyk7CiAgICBpZiAoRklFTERTLmV2ZXJ5KGZpZWxkID0+IGNsZWFuW2ZpZWxkLmtleV0gPT09IGJlZm9yZVtmaWVsZC5rZXldKSkgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDmsqHmnInlj5jljJbjgIInKTsKICAgIGNvbnN0IG5leHQgPSB7IHNjaGVtYTogMSwgcmV2aXNpb246IGN1cnJlbnQucmV2aXNpb24gKyAxLCB1cGRhdGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwgdmFsdWVzOiBjbGVhbiB9OwogICAgdHJ5IHsKICAgICAgZ2xvYmFsLmxvY2FsU3RvcmFnZS5zZXRJdGVtKFNUT1JBR0VfS0VZLCBKU09OLnN0cmluZ2lmeShuZXh0KSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+WPguaVsOS/neWtmOWksei0pe+8muacrOWcsOWtmOWCqOS4jeWPr+eUqOaIluepuumXtOS4jei2s+OAguWOn+WPguaVsOacquaUueWPmOOAgicpOwogICAgfQogICAgcmV0dXJuIHJlYWRTdGF0ZSgpOwogIH0KCiAgZnVuY3Rpb24gcmVzdG9yZURlZmF1bHRzKGV4cGVjdGVkUmV2aXNpb24pIHsKICAgIHJldHVybiB3cml0ZVZhbHVlcyhlZGl0YWJsZVZhbHVlcyhkZWZhdWx0cyksIGV4cGVjdGVkUmV2aXNpb24pOwogIH0KCiAgZnVuY3Rpb24gZXhwb3J0QmFja3VwKCkgewogICAgY29uc3Qgc3RhdGUgPSByZWFkU3RhdGUoKTsKICAgIHJldHVybiB7IGZvcm1hdDogJ21hdGVyaWFsLWNhbGN1bGF0b3ItcGFyYW1ldGVycycsIHZlcnNpb246IDEsIGV4cG9ydGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwgdmFsdWVzOiBlZGl0YWJsZVZhbHVlcyhzdGF0ZS5wYXJhbWV0ZXJzKSB9OwogIH0KCiAgZnVuY3Rpb24gaW1wb3J0QmFja3VwKGJhY2t1cCwgZXhwZWN0ZWRSZXZpc2lvbikgewogICAgaWYgKCFiYWNrdXAgfHwgYmFja3VwLmZvcm1hdCAhPT0gJ21hdGVyaWFsLWNhbGN1bGF0b3ItcGFyYW1ldGVycycgfHwgYmFja3VwLnZlcnNpb24gIT09IDEpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDlpIfku73moLzlvI/ml6DmlYjvvIzmnKrkv67mlLnlvZPliY3lj4LmlbDjgIInKTsKICAgIH0KICAgIHJldHVybiB3cml0ZVZhbHVlcyh2YWxpZGF0ZVZhbHVlcyh3aXRoRGVmYXVsdHMoYmFja3VwLnZhbHVlcykpLCBleHBlY3RlZFJldmlzaW9uKTsKICB9CgogIGdsb2JhbC5QYXJhbWV0ZXJTdG9yZSA9IE9iamVjdC5mcmVlemUoeyBTVE9SQUdFX0tFWSwgRklFTERTLCB2YWx1ZUF0LCBlZGl0YWJsZVZhbHVlcywgdmFsaWRhdGVWYWx1ZXMsIHJlYWRTdGF0ZSwgd3JpdGVWYWx1ZXMsIHJlc3RvcmVEZWZhdWx0cywgZXhwb3J0QmFja3VwLCBpbXBvcnRCYWNrdXAgfSk7Cn0pKHR5cGVvZiB3aW5kb3cgPT09ICd1bmRlZmluZWQnID8gZ2xvYmFsVGhpcyA6IHdpbmRvdyk7Cg==
+(function (global) {
+  'use strict';
+
+  const STORAGE_KEY = 'material-calculator-parameters-v1';
+  const defaults = global.MaterialCalculator.DEFAULT_PARAMETERS;
+  const FIELDS = Object.freeze([
+    ...['410', '201', '304', '316'].flatMap(material => [
+      { key: `materials.${material}.radius`, label: `${material} 第 1 套密度系数`, kind: 'material' },
+      { key: `materials.${material}.square`, label: `${material} 第 2 套密度系数`, kind: 'material' }
+    ]),
+    { key: 'modes.single.usableFactor', label: '单排冲料圆片比例系数', kind: 'usable' },
+    { key: 'modes.single.scrapRatio', label: '单排角料比例系数', kind: 'scrap' },
+    { key: 'modes.double.usableFactor', label: '双排冲料圆片比例系数', kind: 'usable' },
+    { key: 'modes.double.scrapRatio', label: '双排角料比例系数', kind: 'scrap' },
+    { key: 'modes.double.widthDivisor', label: '双排剪口换算值', kind: 'divisor' }
+  ]);
+
+  function valueAt(object, key) {
+    return key.split('.').reduce((part, name) => part && part[name], object);
+  }
+
+  function editableValues(parameters) {
+    const values = {};
+    for (const field of FIELDS) values[field.key] = valueAt(parameters, field.key);
+    return values;
+  }
+
+  function validateValues(values) {
+    if (!values || typeof values !== 'object') throw new Error('参数数据缺失。');
+    const clean = {};
+    for (const field of FIELDS) {
+      const raw = values[field.key];
+      if (raw === '' || raw === null || raw === undefined || typeof raw === 'boolean') throw new Error(`${field.label}不能为空。`);
+      const number = Number(raw);
+      if (!Number.isFinite(number)) throw new Error(`${field.label}必须是有效数字。`);
+      if (field.kind === 'material' && !(number > 0 && number <= 1000)) throw new Error(`${field.label}须大于 0 且不超过 1000。`);
+      if (field.kind === 'usable' && !(number > 0 && number <= 1)) throw new Error(`${field.label}须大于 0 且不超过 1。`);
+      if (field.kind === 'scrap' && !(number >= 0 && number <= 1)) throw new Error(`${field.label}须在 0 到 1 之间。`);
+      if (field.kind === 'divisor' && !(number >= 1 && number <= 100)) throw new Error(`${field.label}须在 1 到 100 之间。`);
+      clean[field.key] = number;
+    }
+    return clean;
+  }
+
+  function buildParameters(values, revision, updatedAt) {
+    const materials = {};
+    for (const material of ['410', '201', '304', '316']) {
+      materials[material] = {
+        square: values[`materials.${material}.square`],
+        radius: values[`materials.${material}.radius`]
+      };
+    }
+    return {
+      materials,
+      modes: {
+        single: {
+          widthDivisor: 1,
+          usableFactor: values['modes.single.usableFactor'],
+          scrapRatio: values['modes.single.scrapRatio']
+        },
+        double: {
+          widthDivisor: values['modes.double.widthDivisor'],
+          usableFactor: values['modes.double.usableFactor'],
+          scrapRatio: values['modes.double.scrapRatio']
+        }
+      },
+      cutStep: defaults.cutStep,
+      pi: defaults.pi,
+      revision,
+      updatedAt
+    };
+  }
+
+  // 旧版本的参数里没有角料比例字段：读取时先用默认值补齐，避免升级后整页报"参数格式异常"。
+  function withDefaults(values) {
+    return { ...editableValues(defaults), ...(values && typeof values === 'object' && !Array.isArray(values) ? values : {}) };
+  }
+
+  function readState() {
+    let raw;
+    try {
+      raw = global.localStorage.getItem(STORAGE_KEY);
+    } catch (error) {
+      throw new Error('无法读取本地参数，请检查当前应用的存储权限。');
+    }
+    if (raw === null) return { revision: 0, updatedAt: null, parameters: buildParameters(editableValues(defaults), 0, null) };
+    try {
+      const stored = JSON.parse(raw);
+      if (!stored || stored.schema !== 1 || !Number.isSafeInteger(stored.revision) || stored.revision < 1 ||
+          typeof stored.updatedAt !== 'string' || Number.isNaN(Date.parse(stored.updatedAt)) ||
+          !stored.values || typeof stored.values !== 'object' || Array.isArray(stored.values)) throw new Error('invalid');
+      const values = validateValues(withDefaults(stored.values));
+      return { revision: stored.revision, updatedAt: stored.updatedAt, parameters: buildParameters(values, stored.revision, stored.updatedAt) };
+    } catch (error) {
+      throw new Error('本地参数格式异常。为避免覆盖原数据，已停止计算和参数修改。');
+    }
+  }
+
+  function writeValues(values, expectedRevision) {
+    const current = readState();
+    if (current.revision !== expectedRevision) throw new Error('参数已在其他页面更新，请刷新参数后重试。');
+    const clean = validateValues(values);
+    const before = editableValues(current.parameters);
+    if (FIELDS.every(field => clean[field.key] === before[field.key])) throw new Error('参数没有变化。');
+    const next = { schema: 1, revision: current.revision + 1, updatedAt: new Date().toISOString(), values: clean };
+    try {
+      global.localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    } catch (error) {
+      throw new Error('参数保存失败：本地存储不可用或空间不足。原参数未改变。');
+    }
+    return readState();
+  }
+
+  function restoreDefaults(expectedRevision) {
+    return writeValues(editableValues(defaults), expectedRevision);
+  }
+
+  function exportBackup() {
+    const state = readState();
+    return { format: 'material-calculator-parameters', version: 1, exportedAt: new Date().toISOString(), values: editableValues(state.parameters) };
+  }
+
+  function importBackup(backup, expectedRevision) {
+    if (!backup || backup.format !== 'material-calculator-parameters' || backup.version !== 1) {
+      throw new Error('参数备份格式无效，未修改当前参数。');
+    }
+    return writeValues(validateValues(withDefaults(backup.values)), expectedRevision);
+  }
+
+  global.ParameterStore = Object.freeze({ STORAGE_KEY, FIELDS, valueAt, editableValues, validateValues, readState, writeValues, restoreDefaults, exportBackup, importBackup });
+})(typeof window === 'undefined' ? globalThis : window);

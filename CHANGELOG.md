@@ -1,1 +1,46 @@
-IyDmm7TmlrDorrDlvZUKCiMjIHYxLjEuMCDigJQgMjAyNi0xMS0xNAoKIyMjIOaWsOWingoKLSDorqHnrpfnu5PmnpzmlrDlop7op5Lmlpnph43ph4/vvJrlj4zmjpIgPSDmnZDmlpnph43ph48gw5cgMC4xMu+8jOWNleaOkiA9IOadkOaWmemHjemHjyDDlyAwLjIy77yM5LiO5omA6YCJ5Y2V6YeN5YWs5byP5peg5YWz44CCCi0g5Y+C5pWw57u05oqk5paw5aKe44CM5Y2V5o6S6KeS5paZ5q+U5L6L57O75pWw44CN44CM5Y+M5o6S6KeS5paZ5q+U5L6L57O75pWw44CN5Lik6aG577yI5YWxIDEzIOmhue+8ie+8jOiMg+WbtCAw4oCTMeOAggotIOaJuemHj+mAkOihjOihqOOAgeWOhuWPsuivpuaDheOAgeWkjeWItuaWh+acrOOAgUNTViAvIFhMU1gg5a+85Ye677yIMjMg5YiX77yJ5LiO5omT5Y2w5YWo6YOo5YyF5ZCr6KeS5paZ5pWw5o2u44CCCi0gV2luZG93cyDmoYzpnaLniYjmlLnkuLrljZXmlofku7bkvr/mkLogRVhF77yIRWxlY3Ryb27vvInvvIzlj4zlh7vov5DooYzvvIzml6DpnIDlronoo4UgTm9kZS5qcyDmiJbogZTnvZHjgIIKLSDmlrDlop7lvq7kv6HlsI/nqIvluo/niYjlt6XnqIvvvIjlnIbniYfnrpfph4/vvInvvIzkuI7nvZHpobUv5qGM6Z2i5YWx55So5YWs5byP5LiO5Y+C5pWw5Y+j5b6E44CCCgojIyMg5LyY5YyWCgotIOaXp+WPguaVsOe8k+WtmOS4juaXp+WPguaVsOWkh+S7vee8uuWwkeinkuaWmeWtl+auteaXtuiHquWKqOihpem7mOiupOWAvO+8jOS4jeWGjeaKpeOAjOWPguaVsOagvOW8j+W8guW4uOOAjeOAggotIENTVi9YTFNYIOihqOWktOWcqOOAjOWPr+eUqOmHjemHj+OAjeWQjuaPkuWFpeOAjOinkuaWmeavlOS+i+ezu+aVsOOAjeOAjOinkuaWmemHjemHjyhrZynjgI3vvIzmiZPljbDmoIfnrb7mjInooajlpLTmlofmnKzliKTmlq3vvIzpgb/lhY3liJflj7fmvILnp7vjgIIKLSDmoYzpnaLniYjkuK3mlofoj5zljZXvvJrmlofku7Yg4oaSIOaJk+W8gOaVsOaNruebruW9lSAvIOmAgOWHuu+8m+inhuWbviDihpIg6YeN5paw5Yqg6L2944CB57yp5pS+44CB5YWo5bGP77yb5biu5YqpIOKGkiDlhbPkuo7jgIHpobnnm67kuLvpobXjgIHkuIvovb3mnIDmlrDniYjjgIIKCiMjIyDlhbzlrrkKCi0g5YWs5byP54mI5pysIDIuMC4wIOWPiuabtOaXqeeahOWOhuWPsuiusOW9leayoeacieinkuaWmeW/q+eFp++8muivpuaDheagh+azqOOAjOaXp+eJiOacrOiusOW9leacquWQq+inkuaWmeaVsOaNruOAje+8jOWvvOWHuuaXtuinkuaWmeS4pOWIl+eVmeepuu+8jOS4jeaMieaWsOinhOWImeWbnuWhq++8m+mHjeaWsOiuoeeul+S8mueUn+aIkOW4puinkuaWmeeahOaWsOiusOW9leOAggoKIyMjIOS/neeVmQoKLSDljZXmrKHkuI7mibnph4/orqHnrpfjgIHnrKwgMS8yLzMg5aWX5Y2V6YeN5YWs5byP44CB5Y+C5pWw5L+u6K6i5Y+36ZSB44CB5Y6G5Y+y5aSH5Lu95LiO5ZCI5bm25oGi5aSN44CB56a757q/6L+Q6KGM44CCCi0gdjAuMi4wIOWujOaVtOeJiOeahOS+m+W6lOWVhuS4juadkOaWmeWNleaNrua6kOeggee7p+e7reS/neeVmeWcqOS7k+W6kyBgZGVza3RvcC9g44CBYG91dHB1dHMvcHJldmlldy1zaXRlL2DjgIFgZG9jcy9gIOS4re+8jOS4jiB2MS4xLjAg6K6h566X5bel5YW35pWw5o2u54us56uL44CCCgojIyB2MC4yLjAg4oCUIDIwMjYtMTAtMDkKCiMjIyDmlrDlop4KCi0g5L6b5bqU5ZWG6LWE5paZ44CB6IGU57O75Lq644CB55S16K+d44CB5Zyw5Z2A44CB5aSH5rOo44CB5pyf5Yid5qyg5qy+44CB5ZCv55So5ZKM5YGc55So566h55CG44CCCi0g5p2Q5paZ6K6i6LSn44CB5pS26LSn44CB5LuY5qy+44CB5L6b5bqU5ZWG5a+56LSm5Zub57G75Y2V5o2u77yM5pSv5oyB5aSa6KeE5qC844CB5aSa5o2G6YeN6YeP44CB6YCA5beu5ZKM5pel5pyf5Yy66Ze05L2Z6aKd44CCCi0g6K6i6LSn5YWz6IGU5pS26LSn5p+l6K+i44CB5Y2V5o2u6K+m5oOF44CB6L+U5Zue6K6i6LSn44CB57yW6L6R44CB5L2c5bqf44CB5p2Q5paZSlNPTuWkh+S7veS4juWQiOW5tuaBouWkjeOAggoKIyMjIOS8mOWMlgoKLSDlt6bkvqfmjInkvpvlupTllYbnrqHnkIbjgIHmnZDmlpnnrqHnkIbjgIHmlbDmja7nrqHnkIbmjpLluo/vvIzmlK/mjIHlsZXlvIDlkozmlLbotbfjgIIKLSDlm5vnsbvljZXmja7ph4fnlKjljZXlpLTjgIHmmI7nu4booajmoLzjgIHlupXpg6jmsYfmgLvluIPlsYDvvIznu5/kuIDor6bmg4XlkozmiZPljbDjgIIKLSDku5PlupPmlLnlkI3kuLogTWF0TWFuYWdlcu+8jOabtOaWsOajgOafpeWPiuS4i+i9vemTvuaOpeWQjOatpeiwg+aVtO+8m+S/neeVmeWOn+ahjOmdouWuieijheWSjOeUqOaIt+aVsOaNruagh+ivhuOAggoKIyMjIOS/neeVmQoKLSDljZXmrKHkuI7mibnph4/lhrLniYforqHnrpfjgIFDU1YvWExTWOWvvOWFpeWvvOWHuuOAgeWOhuWPsuOAgeWPguaVsOWPiuaJk+WNsOWKn+iDveOAggoK6L656KeS5paZ5Zue5pS2566h55CG5bCa5pyq5a6e546w44CC5pys54mI5pys5LuN5Li65pys5py656a757q/5bqU55So77yM572R6aG15ZKM5qGM6Z2i5LmL6Ze05L2/55So5aSH5Lu95paH5Lu25omL5Yqo6L+B56e744CCCg==
+# 更新记录
+
+## v1.1.0 — 2026-11-14
+
+### 新增
+
+- 计算结果新增角料重量：双排 = 材料重量 × 0.12，单排 = 材料重量 × 0.22，与所选单重公式无关。
+- 参数维护新增「单排角料比例系数」「双排角料比例系数」两项（共 13 项），范围 0–1。
+- 批量逐行表、历史详情、复制文本、CSV / XLSX 导出（23 列）与打印全部包含角料数据。
+- Windows 桌面版改为单文件便携 EXE（Electron），双击运行，无需安装 Node.js 或联网。
+- 新增微信小程序版工程（圆片算量），与网页/桌面共用公式与参数口径。
+
+### 优化
+
+- 旧参数缓存与旧参数备份缺少角料字段时自动补默认值，不再报「参数格式异常」。
+- CSV/XLSX 表头在「可用重量」后插入「角料比例系数」「角料重量(kg)」，打印标签按表头文本判断，避免列号漂移。
+- 桌面版中文菜单：文件 → 打开数据目录 / 退出；视图 → 重新加载、缩放、全屏；帮助 → 关于、项目主页、下载最新版。
+
+### 兼容
+
+- 公式版本 2.0.0 及更早的历史记录没有角料快照：详情标注「旧版本记录未含角料数据」，导出时角料两列留空，不按新规则回填；重新计算会生成带角料的新记录。
+
+### 保留
+
+- 单次与批量计算、第 1/2/3 套单重公式、参数修订号锁、历史备份与合并恢复、离线运行。
+- v0.2.0 完整版的供应商与材料单据源码继续保留在仓库 `desktop/`、`outputs/preview-site/`、`docs/` 中，与 v1.1.0 计算工具数据独立。
+
+## v0.2.0 — 2026-10-09
+
+### 新增
+
+- 供应商资料、联系人、电话、地址、备注、期初欠款、启用和停用管理。
+- 材料订货、收货、付款、供应商对账四类单据，支持多规格、多捆重量、退差和日期区间余额。
+- 订货关联收货查询、单据详情、返回订货、编辑、作废、材料JSON备份与合并恢复。
+
+### 优化
+
+- 左侧按供应商管理、材料管理、数据管理排序，支持展开和收起。
+- 四类单据采用单头、明细表格、底部汇总布局，统一详情和打印。
+- 仓库改名为 MatManager，更新检查及下载链接同步调整；保留原桌面安装和用户数据标识。
+
+### 保留
+
+- 单次与批量冲片计算、CSV/XLSX导入导出、历史、参数及打印功能。
+
+边角料回收管理尚未实现。本版本仍为本机离线应用，网页和桌面之间使用备份文件手动迁移。

@@ -1,1 +1,50 @@
-ewogICJwYWdlcyI6IFsKICAgICJwYWdlcy9zaW5nbGUvaW5kZXgiLAogICAgInBhZ2VzL2JhdGNoL2luZGV4IiwKICAgICJwYWdlcy9oaXN0b3J5L2luZGV4IiwKICAgICJwYWdlcy9wYXJhbWV0ZXJzL2luZGV4IgogIF0sCiAgIndpbmRvdyI6IHsKICAgICJiYWNrZ3JvdW5kVGV4dFN0eWxlIjogImxpZ2h0IiwKICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2Y0ZjVmMSIsCiAgICAibmF2aWdhdGlvbkJhckJhY2tncm91bmRDb2xvciI6ICIjMTczZTMwIiwKICAgICJuYXZpZ2F0aW9uQmFyVGl0bGVUZXh0IjogIuWchueJh+eul+mHjyIsCiAgICAibmF2aWdhdGlvbkJhclRleHRTdHlsZSI6ICJ3aGl0ZSIKICB9LAogICJ0YWJCYXIiOiB7CiAgICAiY29sb3IiOiAiIzdjOGE4MiIsCiAgICAic2VsZWN0ZWRDb2xvciI6ICIjMTczZTMwIiwKICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2ZmZmZmZiIsCiAgICAiYm9yZGVyU3R5bGUiOiAid2hpdGUiLAogICAgImxpc3QiOiBbCiAgICAgIHsKICAgICAgICAicGFnZVBhdGgiOiAicGFnZXMvc2luZ2xlL2luZGV4IiwKICAgICAgICAidGV4dCI6ICLljZXmrKHorqHnrpciLAogICAgICAgICJpY29uUGF0aCI6ICJpbWFnZXMvdGFiLXNpbmdsZS5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImltYWdlcy90YWItc2luZ2xlLW9uLnBuZyIKICAgICAgfSwKICAgICAgewogICAgICAgICJwYWdlUGF0aCI6ICJwYWdlcy9iYXRjaC9pbmRleCIsCiAgICAgICAgInRleHQiOiAi5om56YeP6K6h566XIiwKICAgICAgICAiaWNvblBhdGgiOiAiaW1hZ2VzL3RhYi1iYXRjaC5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImltYWdlcy90YWItYmF0Y2gtb24ucG5nIgogICAgICB9LAogICAgICB7CiAgICAgICAgInBhZ2VQYXRoIjogInBhZ2VzL2hpc3RvcnkvaW5kZXgiLAogICAgICAgICJ0ZXh0IjogIuWOhuWPsuiusOW9lSIsCiAgICAgICAgImljb25QYXRoIjogImltYWdlcy90YWItaGlzdG9yeS5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImltYWdlcy90YWItaGlzdG9yeS1vbi5wbmciCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAicGFnZVBhdGgiOiAicGFnZXMvcGFyYW1ldGVycy9pbmRleCIsCiAgICAgICAgInRleHQiOiAi5Y+C5pWw57u05oqkIiwKICAgICAgICAiaWNvblBhdGgiOiAiaW1hZ2VzL3RhYi1wYXJhbXMucG5nIiwKICAgICAgICAic2VsZWN0ZWRJY29uUGF0aCI6ICJpbWFnZXMvdGFiLXBhcmFtcy1vbi5wbmciCiAgICAgIH0KICAgIF0KICB9LAogICJzdHlsZSI6ICJ2MiIsCiAgInNpdGVtYXBMb2NhdGlvbiI6ICJzaXRlbWFwLmpzb24iLAogICJsYXp5Q29kZUxvYWRpbmciOiAicmVxdWlyZWRDb21wb25lbnRzIgp9Cg==
+{
+  "pages": [
+    "pages/single/index",
+    "pages/batch/index",
+    "pages/history/index",
+    "pages/parameters/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#f4f5f1",
+    "navigationBarBackgroundColor": "#173e30",
+    "navigationBarTitleText": "圆片算量",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#7c8a82",
+    "selectedColor": "#173e30",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/single/index",
+        "text": "单次计算",
+        "iconPath": "images/tab-single.png",
+        "selectedIconPath": "images/tab-single-on.png"
+      },
+      {
+        "pagePath": "pages/batch/index",
+        "text": "批量计算",
+        "iconPath": "images/tab-batch.png",
+        "selectedIconPath": "images/tab-batch-on.png"
+      },
+      {
+        "pagePath": "pages/history/index",
+        "text": "历史记录",
+        "iconPath": "images/tab-history.png",
+        "selectedIconPath": "images/tab-history-on.png"
+      },
+      {
+        "pagePath": "pages/parameters/index",
+        "text": "参数维护",
+        "iconPath": "images/tab-params.png",
+        "selectedIconPath": "images/tab-params-on.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

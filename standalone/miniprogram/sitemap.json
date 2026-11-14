@@ -1,1 +1,9 @@
-ewogICJkZXNjIjogIuWFs+S6juacrOaWh+S7tueahOabtOWkmuS/oeaBr++8jOivt+WPguiAg+aWh+ahoyBodHRwczovL2RldmVsb3BlcnMud2VpeGluLnFxLmNvbS9taW5pcHJvZ3JhbS9kZXYvZnJhbWV3b3JrL3NpdGVtYXAuaHRtbCIsCiAgInJ1bGVzIjogWwogICAgewogICAgICAiYWN0aW9uIjogImFsbG93IiwKICAgICAgInBhZ2UiOiAiKiIKICAgIH0KICBdCn0K
+{
+  "desc": "关于本文件的更多信息，请参考文档 https://developers.weixin.qq.com/miniprogram/dev/framework/sitemap.html",
+  "rules": [
+    {
+      "action": "allow",
+      "page": "*"
+    }
+  ]
+}

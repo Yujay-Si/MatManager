@@ -1,1 +1,4 @@
-Lyog5Y2V5qyh6K6h566X6aG177ya5pW05L2T5qC35byP5rK/55SoIGFwcC53eHNzICovCi5jaG9pY2UtbGlzdCB7CiAgbWFyZ2luLWJvdHRvbTogNHJweDsKfQo=
+/* 单次计算页：整体样式沿用 app.wxss */
+.choice-list {
+  margin-bottom: 4rpx;
+}

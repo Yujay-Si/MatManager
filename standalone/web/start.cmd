@@ -1,1 +1,12 @@
-QGVjaG8gb2ZmCnNldGxvY2FsCmNkIC9kICIlfmRwMCIKd2hlcmUgbm9kZSA+bnVsIDI+bnVsCmlmIGVycm9ybGV2ZWwgMSAoCiAgZWNobyDmnKrmib7liLAgTm9kZS5qc+OAguivt+WFiOWuieijhSBOb2RlLmpzIDE4IOaIluabtOmrmOeJiOacrO+8jOaIluebtOaOpeWPjOWHuyBpbmRleC5odG1sIOS9v+eUqOemu+e6v+eJiOOAggogIHBhdXNlCiAgZXhpdCAvYiAxCikKbm9kZSBzZXJ2ZXIuanMgLS1vcGVuCmlmIGVycm9ybGV2ZWwgMSBwYXVzZQplbmRsb2NhbAo=
+@echo off
+setlocal
+cd /d "%~dp0"
+where node >nul 2>nul
+if errorlevel 1 (
+  echo 未找到 Node.js。请先安装 Node.js 18 或更高版本，或直接双击 index.html 使用离线版。
+  pause
+  exit /b 1
+)
+node server.js --open
+if errorlevel 1 pause
+endlocal

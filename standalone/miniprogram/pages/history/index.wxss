@@ -1,1 +1,9 @@
-LmRldGFpbC10b2dnbGUgewogIG1hcmdpbi10b3A6IDEycnB4OwogIGNvbG9yOiAjNTc5MjdhOwogIGZvbnQtc2l6ZTogMjJycHg7Cn0KCi5saXN0LWl0ZW0gLml0ZW0tYWN0aW9ucyAuYnRuIHsKICBwYWRkaW5nOiAwIDIwcnB4Owp9Cg==
+.detail-toggle {
+  margin-top: 12rpx;
+  color: #57927a;
+  font-size: 22rpx;
+}
+
+.list-item .item-actions .btn {
+  padding: 0 20rpx;
+}

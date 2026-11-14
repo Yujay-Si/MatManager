@@ -1,1 +1,10 @@
-U2hlZXRKUyBDb21tdW5pdHkgRWRpdGlvbiAwLjIwLjMKaHR0cHM6Ly9zaGVldGpzLmNvbS8KQ29weXJpZ2h0IChDKSAyMDEyLXByZXNlbnQgU2hlZXRKUyBMTEMKTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMC4KClRoZSBidW5kbGVkIHhsc3guZnVsbC5taW4uanMgd2FzIG9idGFpbmVkIGZyb206Cmh0dHBzOi8vY2RuLnNoZWV0anMuY29tL3hsc3gtMC4yMC4zL3BhY2thZ2UvZGlzdC94bHN4LmZ1bGwubWluLmpzClNIQS0yNTY6IENDMDE1MTMwQUE4NTIxRTdGMDg4Rjg4ODk4RUJBOTQ5Q0NEQ0JGQjM4REYwQkQxMjlCNDRCNzI3M0MzQTZGNDEKClRoZSBmdWxsIGxpY2Vuc2UgdGV4dCBpcyBpbmNsdWRlZCBpbiBTSEVFVEpTLUxJQ0VOU0UudHh0Lgo=
+SheetJS Community Edition 0.20.3
+https://sheetjs.com/
+Copyright (C) 2012-present SheetJS LLC
+Licensed under the Apache License, Version 2.0.
+
+The bundled xlsx.full.min.js was obtained from:
+https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js
+SHA-256: CC015130AA8521E7F088F88898EBA949CCDCBFB38DF0BD129B44B7273C3A6F41
+
+The full license text is included in SHEETJS-LICENSE.txt.

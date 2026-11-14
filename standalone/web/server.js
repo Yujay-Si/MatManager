@@ -1,1 +1,93 @@
-J3VzZSBzdHJpY3QnOwoKY29uc3QgaHR0cCA9IHJlcXVpcmUoJ25vZGU6aHR0cCcpOwpjb25zdCBmcyA9IHJlcXVpcmUoJ25vZGU6ZnMnKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoJ25vZGU6cGF0aCcpOwpjb25zdCB7IHNwYXduIH0gPSByZXF1aXJlKCdub2RlOmNoaWxkX3Byb2Nlc3MnKTsKCmNvbnN0IFJPT1QgPSBfX2Rpcm5hbWU7CmNvbnN0IEhPU1QgPSBwcm9jZXNzLmVudi5IT1NUIHx8ICcxMjcuMC4wLjEnOwpjb25zdCBQT1JUID0gTnVtYmVyKHByb2Nlc3MuZW52LlBPUlQgfHwgNDE3Myk7CmNvbnN0IE1JTUUgPSB7CiAgJy5odG1sJzogJ3RleHQvaHRtbDsgY2hhcnNldD11dGYtOCcsCiAgJy5jc3MnOiAndGV4dC9jc3M7IGNoYXJzZXQ9dXRmLTgnLAogICcuanMnOiAndGV4dC9qYXZhc2NyaXB0OyBjaGFyc2V0PXV0Zi04JywKICAnLnN2Zyc6ICdpbWFnZS9zdmcreG1sJywKICAnLnBuZyc6ICdpbWFnZS9wbmcnLAogICcuanNvbic6ICdhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04JywKICAnLm1kJzogJ3RleHQvbWFya2Rvd247IGNoYXJzZXQ9dXRmLTgnLAogICcudHh0JzogJ3RleHQvcGxhaW47IGNoYXJzZXQ9dXRmLTgnCn07CmNvbnN0IFNFQ1VSSVRZX0hFQURFUlMgPSB7CiAgJ0NhY2hlLUNvbnRyb2wnOiAnbm8tc3RvcmUnLAogICdYLUNvbnRlbnQtVHlwZS1PcHRpb25zJzogJ25vc25pZmYnLAogICdYLUZyYW1lLU9wdGlvbnMnOiAnREVOWScsCiAgJ1JlZmVycmVyLVBvbGljeSc6ICduby1yZWZlcnJlcicsCiAgJ0NvbnRlbnQtU2VjdXJpdHktUG9saWN5JzogImRlZmF1bHQtc3JjICdzZWxmJzsgc2NyaXB0LXNyYyAnc2VsZic7IHN0eWxlLXNyYyAnc2VsZic7IGltZy1zcmMgJ3NlbGYnIGRhdGE6OyBjb25uZWN0LXNyYyAnbm9uZSc7IG9iamVjdC1zcmMgJ25vbmUnOyBiYXNlLXVyaSAnbm9uZSc7IGZvcm0tYWN0aW9uICdub25lJyIKfTsKCmZ1bmN0aW9uIHNlbmQocmVzcG9uc2UsIHN0YXR1cywgYm9keSwgdHlwZSA9ICd0ZXh0L3BsYWluOyBjaGFyc2V0PXV0Zi04JykgewogIHJlc3BvbnNlLndyaXRlSGVhZChzdGF0dXMsIHsgLi4uU0VDVVJJVFlfSEVBREVSUywgJ0NvbnRlbnQtVHlwZSc6IHR5cGUgfSk7CiAgcmVzcG9uc2UuZW5kKGJvZHkpOwp9CgpmdW5jdGlvbiBzYWZlUGF0aChyZXF1ZXN0VXJsKSB7CiAgY29uc3QgdXJsID0gbmV3IFVSTChyZXF1ZXN0VXJsLCBgaHR0cDovLyR7SE9TVH06JHtQT1JUfWApOwogIGNvbnN0IHJlbGF0aXZlID0gZGVjb2RlVVJJQ29tcG9uZW50KHVybC5wYXRobmFtZSkucmVwbGFjZSgvXlwvKy8sICcnKSB8fCAnaW5kZXguaHRtbCc7CiAgY29uc3QgdGFyZ2V0ID0gcGF0aC5yZXNvbHZlKFJPT1QsIHJlbGF0aXZlKTsKICBpZiAodGFyZ2V0ICE9PSBST09UICYmICF0YXJnZXQuc3RhcnRzV2l0aChST09UICsgcGF0aC5zZXApKSByZXR1cm4gbnVsbDsKICByZXR1cm4gdGFyZ2V0Owp9Cgpjb25zdCBzZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcigocmVxdWVzdCwgcmVzcG9uc2UpID0+IHsKICBpZiAocmVxdWVzdC5tZXRob2QgIT09ICdHRVQnICYmIHJlcXVlc3QubWV0aG9kICE9PSAnSEVBRCcpIHsKICAgIHNlbmQocmVzcG9uc2UsIDQwNSwgJ01ldGhvZCBOb3QgQWxsb3dlZCcpOwogICAgcmV0dXJuOwogIH0KICBjb25zdCB0YXJnZXQgPSBzYWZlUGF0aChyZXF1ZXN0LnVybCk7CiAgaWYgKCF0YXJnZXQpIHsKICAgIHNlbmQocmVzcG9uc2UsIDQwMywgJ0ZvcmJpZGRlbicpOwogICAgcmV0dXJuOwogIH0KICBmcy5zdGF0KHRhcmdldCwgKHN0YXRFcnJvciwgc3RhdHMpID0+IHsKICAgIGlmIChzdGF0RXJyb3IgfHwgIXN0YXRzLmlzRmlsZSgpKSB7CiAgICAgIHNlbmQocmVzcG9uc2UsIDQwNCwgJ05vdCBGb3VuZCcpOwogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCB0eXBlID0gTUlNRVtwYXRoLmV4dG5hbWUodGFyZ2V0KS50b0xvd2VyQ2FzZSgpXSB8fCAnYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtJzsKICAgIHJlc3BvbnNlLndyaXRlSGVhZCgyMDAsIHsgLi4uU0VDVVJJVFlfSEVBREVSUywgJ0NvbnRlbnQtVHlwZSc6IHR5cGUgfSk7CiAgICBpZiAocmVxdWVzdC5tZXRob2QgPT09ICdIRUFEJykgewogICAgICByZXNwb25zZS5lbmQoKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgZnMuY3JlYXRlUmVhZFN0cmVhbSh0YXJnZXQpLm9uKCdlcnJvcicsICgpID0+IHsKICAgICAgaWYgKCFyZXNwb25zZS5oZWFkZXJzU2VudCkgc2VuZChyZXNwb25zZSwgNTAwLCAnSW50ZXJuYWwgU2VydmVyIEVycm9yJyk7CiAgICAgIGVsc2UgcmVzcG9uc2UuZGVzdHJveSgpOwogICAgfSkucGlwZShyZXNwb25zZSk7CiAgfSk7Cn0pOwoKZnVuY3Rpb24gb3BlbkJyb3dzZXIodXJsKSB7CiAgY29uc3QgY29tbWFuZCA9IHByb2Nlc3MucGxhdGZvcm0gPT09ICd3aW4zMicgPyAnY21kJyA6CiAgICBwcm9jZXNzLnBsYXRmb3JtID09PSAnZGFyd2luJyA/ICdvcGVuJyA6ICd4ZGctb3Blbic7CiAgY29uc3QgYXJncyA9IHByb2Nlc3MucGxhdGZvcm0gPT09ICd3aW4zMicgPyBbJy9jJywgJ3N0YXJ0JywgJycsIHVybF0gOiBbdXJsXTsKICBjb25zdCBjaGlsZCA9IHNwYXduKGNvbW1hbmQsIGFyZ3MsIHsgZGV0YWNoZWQ6IHRydWUsIHN0ZGlvOiAnaWdub3JlJyB9KTsKICBjaGlsZC51bnJlZigpOwp9CgpzZXJ2ZXIub24oJ2Vycm9yJywgZXJyb3IgPT4gewogIGlmIChlcnJvci5jb2RlID09PSAnRUFERFJJTlVTRScpIHsKICAgIGNvbnNvbGUuZXJyb3IoYOerr+WPoyAke1BPUlR9IOW3suiiq+WNoOeUqOOAguivt+WFs+mXreWNoOeUqOivpeerr+WPo+eahOeql+WPo++8jOaIluiuvue9riBQT1JUIOeOr+Wig+WPmOmHj+WQjumHjeivleOAgmApOwogIH0gZWxzZSB7CiAgICBjb25zb2xlLmVycm9yKCfpooTop4jmnI3liqHlkK/liqjlpLHotKXvvJonLCBlcnJvci5tZXNzYWdlKTsKICB9CiAgcHJvY2Vzcy5leGl0Q29kZSA9IDE7Cn0pOwoKc2VydmVyLmxpc3RlbihQT1JULCBIT1NULCAoKSA9PiB7CiAgY29uc3QgdXJsID0gYGh0dHA6Ly8ke0hPU1R9OiR7UE9SVH0vYDsKICBjb25zb2xlLmxvZyhg5p2Q5paZ5pWw5o2u6K6h566XIMK3IOeLrOeri+eJiOW3suWQr+WKqGApOwogIGNvbnNvbGUubG9nKGDorr/pl67lnLDlnYDvvJoke3VybH1gKTsKICBjb25zb2xlLmxvZygn5oyJIEN0cmwrQyDlgZzmraLmnI3liqHjgIInKTsKICBpZiAocHJvY2Vzcy5hcmd2LmluY2x1ZGVzKCctLW9wZW4nKSkgb3BlbkJyb3dzZXIodXJsKTsKfSk7Cg==
+'use strict';
+
+const http = require('node:http');
+const fs = require('node:fs');
+const path = require('node:path');
+const { spawn } = require('node:child_process');
+
+const ROOT = __dirname;
+const HOST = process.env.HOST || '127.0.0.1';
+const PORT = Number(process.env.PORT || 4173);
+const MIME = {
+  '.html': 'text/html; charset=utf-8',
+  '.css': 'text/css; charset=utf-8',
+  '.js': 'text/javascript; charset=utf-8',
+  '.svg': 'image/svg+xml',
+  '.png': 'image/png',
+  '.json': 'application/json; charset=utf-8',
+  '.md': 'text/markdown; charset=utf-8',
+  '.txt': 'text/plain; charset=utf-8'
+};
+const SECURITY_HEADERS = {
+  'Cache-Control': 'no-store',
+  'X-Content-Type-Options': 'nosniff',
+  'X-Frame-Options': 'DENY',
+  'Referrer-Policy': 'no-referrer',
+  'Content-Security-Policy': "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"
+};
+
+function send(response, status, body, type = 'text/plain; charset=utf-8') {
+  response.writeHead(status, { ...SECURITY_HEADERS, 'Content-Type': type });
+  response.end(body);
+}
+
+function safePath(requestUrl) {
+  const url = new URL(requestUrl, `http://${HOST}:${PORT}`);
+  const relative = decodeURIComponent(url.pathname).replace(/^\/+/, '') || 'index.html';
+  const target = path.resolve(ROOT, relative);
+  if (target !== ROOT && !target.startsWith(ROOT + path.sep)) return null;
+  return target;
+}
+
+const server = http.createServer((request, response) => {
+  if (request.method !== 'GET' && request.method !== 'HEAD') {
+    send(response, 405, 'Method Not Allowed');
+    return;
+  }
+  const target = safePath(request.url);
+  if (!target) {
+    send(response, 403, 'Forbidden');
+    return;
+  }
+  fs.stat(target, (statError, stats) => {
+    if (statError || !stats.isFile()) {
+      send(response, 404, 'Not Found');
+      return;
+    }
+    const type = MIME[path.extname(target).toLowerCase()] || 'application/octet-stream';
+    response.writeHead(200, { ...SECURITY_HEADERS, 'Content-Type': type });
+    if (request.method === 'HEAD') {
+      response.end();
+      return;
+    }
+    fs.createReadStream(target).on('error', () => {
+      if (!response.headersSent) send(response, 500, 'Internal Server Error');
+      else response.destroy();
+    }).pipe(response);
+  });
+});
+
+function openBrowser(url) {
+  const command = process.platform === 'win32' ? 'cmd' :
+    process.platform === 'darwin' ? 'open' : 'xdg-open';
+  const args = process.platform === 'win32' ? ['/c', 'start', '', url] : [url];
+  const child = spawn(command, args, { detached: true, stdio: 'ignore' });
+  child.unref();
+}
+
+server.on('error', error => {
+  if (error.code === 'EADDRINUSE') {
+    console.error(`端口 ${PORT} 已被占用。请关闭占用该端口的窗口，或设置 PORT 环境变量后重试。`);
+  } else {
+    console.error('预览服务启动失败：', error.message);
+  }
+  process.exitCode = 1;
+});
+
+server.listen(PORT, HOST, () => {
+  const url = `http://${HOST}:${PORT}/`;
+  console.log(`材料数据计算 · 独立版已启动`);
+  console.log(`访问地址：${url}`);
+  console.log('按 Ctrl+C 停止服务。');
+  if (process.argv.includes('--open')) openBrowser(url);
+});

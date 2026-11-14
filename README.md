@@ -1,1 +1,186 @@
-IyBNYXRNYW5hZ2VyIMK3IOadkOaWmeaVsOaNruiuoeeulwoK6Z2i5ZCR5LiN6ZSI6ZKi5Yay54mHL+eul+eJh+WcuuaZr+eahCoq56a757q/KirorqHnrpflt6XlhbfvvJrovpPlhaXmnZDotKjjgIHlhrLmlpnmlrnlvI/jgIHljprluqbjgIHlrr3luqbkuI7mnZDmlpnph43ph4/vvIzlvpfliLDpooTorqHlnIbniYfmlbDph4/vvIzlkIzml7bnu5nlh7ror6XmibnmnZDmlpnnlJ/kuqflrozmr5XlkI7nmoQqKuinkuaWmemHjemHjyoq44CC5o+Q5L6bIFdpbmRvd3Mg5qGM6Z2i54mI44CB56a757q/572R6aG154mI5ZKM5b6u5L+h5bCP56iL5bqP54mI77yM5LiJ56uv5YWx55So5ZCM5LiA5aWX5YWs5byP5LiO5Y+C5pWw44CCCgrlvZPliY3niYjmnKzvvJoqKnYxLjEuMCoq77yI5YWs5byP54mI5pysIDIuMS4w77yJCuS4iuS4gOS7o+WujOaVtOeJiO+8mioqdjAuMi4wKirvvIjkvpvlupTllYbjgIHorqLotKfjgIHmlLbotKfjgIHku5jmrL7jgIHlr7notKbnrqHnkIbvvIzmupDnoIHku43kv53nlZnlnKjmnKzku5PlupPvvIkKCiMjIDEuIOmhueebruino+WGs+S7gOS5iOmXrumimAoK5bel5Y6C5Yay54mH566X6YeP6ZW/5pyf6Z2g5omL566X5oiW6KGo5qC85Lyw566X77yM5a655piT5Ye6546w5LiJ57G76Zeu6aKY77yaCgp8IOmXrumimCB8IOacrOmhueebrueahOWBmuazlSB8CnwgLS0tIHwgLS0tIHwKfCDlnIbniYfmlbDph4/pnaDnu4/pqozkvLDnrpfvvIzmjaLmnZDotKjjgIHmjaLliarlj6PjgIHmjaLlhrLmlpnmlrnlvI/lsLHopoHph43nrpfvvIzlrrnmmJPnrpfplJkgfCDmiorkuKTlpZflnIbniYflr4bluqblhazlvI/jgIHkuIDlpZfmlrnniYflhazlvI/lm7rljJbmiJDnqIvluo/vvIzovpPlhaUgNSDkuKrlj4LmlbDljbPlh7rmlbDph48gfAp8IOadkOaWmeWIqeeUqOeOh+S4juinkuaWmeS4jemAj+aYju+8jOaKpeS7t+WSjOaIkOacrOaguOeul+e8uuWwkeS+neaNriB8IOavj+S4que7k+aenOWQjOaXtue7meWHuuinkuaWmemHjemHj++8iOWPjOaOkiAxMiXjgIHljZXmjpIgMjIlIOeahOadkOaWmeaAu+mHje+8iSB8Cnwg6L2m6Ze0572R57uc5LiN56iz5a6a44CB5Zyo57q/5bel5YW35omT5LiN5byA77yM5pWw5o2u6L+Y6KaB5LiK5LygIHwg5LiJ56uv5YWo56a757q/6L+Q6KGM77ya5qGM6Z2iIEVYReOAgeacrOWcsOe9kemhteOAgeWwj+eoi+W6j++8jOaVsOaNruWPquWtmOacrOacuiB8CgrorqHnrpfop4TliJnnu5/kuIDlnKjlhazlvI/lhoXmoLjph4zvvIzlj4LmlbDlj6/nu7TmiqTjgIHlj6/lpIfku73vvIzljoblj7Lnu5PmnpzmjInlvZPmrKHlj4LmlbDlv6vnhafkv53lrZjvvIzkvr/kuo7lpI3moLjkuI7ov73muq/jgIIKIyMgdjEuMS4wIOabtOaWsOimgeeCuQoKLSDorqHnrpfnu5PmnpzmlrDlop4qKuinkuaWmemHjemHjyoq77ya5Y+M5o6SID0g5p2Q5paZ6YeN6YePIMOXIDAuMTLvvIzljZXmjpIgPSDmnZDmlpnph43ph48gw5cgMC4yMuOAggotIOWPguaVsOe7tOaKpOaWsOWinuOAjOWNleaOkiAvIOWPjOaOkuinkuaWmeavlOS+i+ezu+aVsOOAje+8jOWPr+WcqCAw4oCTMSDkuYvpl7TosIPmlbTvvJvml6flj4LmlbDlkozml6flpIfku73oh6rliqjooaXpvZDpu5jorqTlgLzjgIIKLSDljZXmrKHnu5PmnpzjgIHmibnph4/ooajjgIHljoblj7Lor6bmg4XjgIHlpI3liLbmlofmnKzjgIFDU1YgLyBYTFNYIOWvvOWHuuS4juaJk+WNsO+8jOWFqOmDqOWMheWQq+inkuaWmeaVsOaNruOAggotIOaWsOWinioq5Y+v5Y+M5Ye76L+Q6KGM55qEIFdpbmRvd3Mg5L6/5pC6IEVYRSoq77yI5YaF572u6aG16Z2i77yM5peg6ZyA5a6J6KOFIE5vZGUuanPjgIHml6DpnIDogZTnvZHvvInjgIIKLSDmlrDlop4qKuW+ruS/oeWwj+eoi+W6j+eJiCoq77yI5ZyG54mH566X6YeP77yJ77yM5LiO572R6aG1L+ahjOmdouWFseeUqOWQjOS4gOWll+WFrOW8j+OAggoKIyMgMi4g5Li76KaB5Yqf6IO9CgotICoq5Y2V5qyh6K6h566XKirvvJo0MTAgLyAyMDEgLyAzMDQgLyAzMTYg5Zub56eN5p2Q6LSo77yb5Y2V5o6S44CB5Y+M5o6S77yb56ysIDEg5aWX5ZyG54mH5a+G5bqm566X5rOV44CB56ysIDIg5aWX5ZyG54mH5a+G5bqm6auY57qn566X5rOV77yM5Y2V5o6S5Y+m5Y+v6YCJ56ysIDMg5aWX5pa554mH5a+G5bqm566X5rOV44CC6buY6K6kIDIwMSAvIOWPjOaOkiAvIOesrCAxIOWll+OAggotICoq5om56YeP6K6h566XKirvvJrnspjotLTooajmoLzmiJblr7zlhaUgQ1NWIC8gWExTWO+8m+mAkOihjOaYvuekuuaIkOWKn+aIlumUmeivr++8jOW5tuW4puinkuaWmemHjemHj+WIl+OAguWNleasoeacgOWkmiA1MDAg5p2h77yM5paH5Lu25LiN6LaF6L+HIDIgTULjgIIKLSAqKue7k+aenOWkhOeQhioq77ya5a+85Ye6IENTViAvIFhMU1jvvIgyMyDliJfvvIzlkKvop5Lmlpnmr5Tkvovns7vmlbDkuI7op5Lmlpnph43ph4/vvInjgIHmiZPljbDmiJblj6blrZjkuLogUERG44CCCi0gKirljoblj7LorrDlvZUqKu+8muacrOacuuS/neWtmOacgOWkmiA1MDAg5p2h5oiQ5Yqf57uT5p6c77yb5pSv5oyB562b6YCJ44CB5p+l55yL6K+m5oOF44CB5oyJ5b2T5YmN5Y+C5pWw6YeN5paw6K6h566X44CB5Yig6Zmk44CBSlNPTiDlpIfku73kuI7lkIjlubbmgaLlpI3jgILph43nrpfkuI3mlLnlhpnml6forrDlvZXjgIIKLSAqKuWPguaVsOe7tOaKpCoq77yaMTMg6aG55Y+v57yW6L6R5Y+C5pWw77yI5Zub56eN5p2Q6LSo5ZCE5Lik5aWX5a+G5bqm57O75pWw44CB5Y2V5o6SL+WPjOaOkuWchueJh+avlOS+i+ezu+aVsOOAgeWNleaOki/lj4zmjpLop5Lmlpnmr5Tkvovns7vmlbDjgIHlj4zmjpLliarlj6PmjaLnrpflgLzvvInvvJvkv53lrZjliY3mmL7npLrmlrDml6flgLzlubbnoa7orqTvvJvmlK/mjIEgSlNPTiDlpIfku73kuI7mgaLlpI3jgIIKLSAqKuemu+e6vyoq77ya5LiN6ZyA6KaB6LSm5Y+344CB5pyN5Yqh5Zmo5oiW572R57uc77yb5pWw5o2u5Y+q5L+d5a2Y5Zyo5pys5py644CCCgojIyDop5Lmlpnph43ph4/lj6PlvoQKCuinkuaWmemHjemHj+WPquS4juWGsuaWmeaWueW8j+WSjOadkOaWmeaAu+mHjeacieWFs++8jOS4jumAieeUqOesrOWHoOWll+WNlemHjeWFrOW8j+aXoOWFs++8mgoKfCDlhrLmlpnmlrnlvI8gfCDop5Lmlpnmr5Tkvovns7vmlbAgfCDop5Lmlpnph43ph48gfAp8IC0tLSB8IC0tLTogfCAtLS0gfAp8IOWPjOaOkiB8IDAuMTIgfCDmnZDmlpnph43ph48gw5cgMC4xMiB8Cnwg5Y2V5o6SIHwgMC4yMiB8IOadkOaWmemHjemHjyDDlyAwLjIyIHwKCi0g56ysIDMg5aWX5pa554mH5YWs5byP77yI5LuF5Y2V5o6S77yJ5ZCM5qC35oyJ5p2Q5paZ5oC76YeN6K6h566X6KeS5paZ44CCCi0g5Lik5Liq57O75pWw5Y+v5Zyo44CM5Y+C5pWw57u05oqk44CN5Lit5L+u5pS577yM6IyD5Zu0IDDigJMx77yb5L+u5pS55Y+q5b2x5ZON5LmL5ZCO55qE5paw6K6h566X77yM5Y6G5Y+y6K6w5b2V5L+d55WZ5ZCE6Ieq5b+r54Wn44CCCi0g5Y2H57qn5YmN77yI5YWs5byP54mI5pysIDIuMC4w77yJ55qE5Y6G5Y+y6K6w5b2V5rKh5pyJ6KeS5paZ5a2X5q6177ya6K+m5oOF5qCH5rOo44CM5pen54mI5pys6K6w5b2V5pyq5ZCr6KeS5paZ5pWw5o2u44CN77yM5a+85Ye65pe26KeS5paZ5Lik5YiX55WZ56m677yM5LiN5oyJ5paw6KeE5YiZ5Zue5aGr44CCCgojIyAzLiDlronoo4Xmlrnms5UNCg0KIyMjIOaWueW8j+S4gO+8mldpbmRvd3Mg5qGM6Z2i54mI77yI5YWN5a6J6KOF77yJCgrku44gW0dpdEh1YiBSZWxlYXNlc10oaHR0cHM6Ly9naXRodWIuY29tL1l1amF5LVNpL01hdE1hbmFnZXIvcmVsZWFzZXMvbGF0ZXN0KSDkuIvovb0gYFNTTWF0ZXJpYWxEYXRhQ2FsYy0xLjEuMC1wb3J0YWJsZS5leGVg77yM5Y+M5Ye75Y2z5Y+v6L+Q6KGM77yaCgotIOWNleaWh+S7tuS+v+aQuueJiO+8jOS4jemcgOimgeWuieijheOAgeS4jemcgOimgSBOb2RlLmpz44CB5LiN6IGU572R44CB5LiN6ZyA6KaB6LSm5Y+344CCCi0g5pWw5o2u5L+d5a2Y5ZyoIGAlQVBQREFUQSVcU1NNYXRlcmlhbERhdGFDYWxjYO+8m+iPnOWNlSAqKuaWh+S7tiDihpIg5omT5byA5pWw5o2u55uu5b2VKiog5Y+v55u05o6l5p+l55yL44CCCi0g6I+c5Y2V77ya5paH5Lu277yI5omT5byA5pWw5o2u55uu5b2V44CB6YCA5Ye677yJ44CB57yW6L6R44CB6KeG5Zu+77yI6YeN5paw5Yqg6L2944CB57yp5pS+44CB5YWo5bGP77yJ44CB5biu5Yqp77yI5YWz5LqO44CB6aG555uu5Li76aG144CB5LiL6L295pyA5paw54mI77yJ44CCCi0g56iL5bqP5pyq5YGa5Luj56CB562+5ZCN77yMV2luZG93cyBTbWFydFNjcmVlbiDlj6/og73mj5DnpLrjgIzmnKrnn6Xlj5HluIPogIXjgI3vvIzpgInmi6njgIzmm7TlpJrkv6Hmga8g4oaSIOS7jeimgei/kOihjOOAjeWNs+WPr+OAggotIOWkh+S7ve+8muWcqOOAjOWOhuWPsuiusOW9leOAjeOAjOWPguaVsOe7tOaKpOOAjemhteWIhuWIq+WvvOWHuiBKU09O77yb5o2i5py65pe25a+85YWl5ZCM5LiA5Lu95aSH5Lu944CCCgojIyMg5pa55byP5LqM77ya56a757q/572R6aG154mICgrnm67lvZUgYHN0YW5kYWxvbmUvd2ViL2DvvIzkv53mjIEgYGluZGV4Lmh0bWxg44CBYGFzc2V0cy9g44CBYHNyYy9g44CBYHZlbmRvci9gIOeahOebuOWvueS9jee9ru+8mgoKMS4g5Y+M5Ye7IGBzdGFuZGFsb25lL3dlYi9zdGFydC5jbWRg77yI6ZyA6KaBIE5vZGUuanMgMTgr77yJ77yM5rWP6KeI5Zmo6Ieq5Yqo5omT5byAIGBodHRwOi8vMTI3LjAuMC4xOjQxNzMvYO+8m+aIlgoyLiDnm7TmjqXlj4zlh7sgYHN0YW5kYWxvbmUvd2ViL2luZGV4Lmh0bWxg77yM55So546w5LujIENocm9taXVtIOa1j+iniOWZqOemu+e6v+aJk+W8gOOAggoK5Y6G5Y+y5LiO5Y+C5pWw5L+d5a2Y5Zyo5b2T5YmN5rWP6KeI5Zmo55qEIGxvY2FsU3RvcmFnZe+8jOaMieWcsOWdgOadpea6kOmalOemu+OAguabtOaNouerr+WPo+OAgea1j+iniOWZqOaIlua4heeQhuaVsOaNruWJje+8jOivt+WIhuWIq+WvvOWHuiBKU09OIOWkh+S7veOAggoKIyMjIOaWueW8j+S4ie+8muW+ruS/oeWwj+eoi+W6j+eJiAoK55uu5b2VIGBzdGFuZGFsb25lL21pbmlwcm9ncmFtL2DvvIznlKjlvq7kv6HlvIDlj5HogIXlt6Xlhbflr7zlhaXljbPlj6/vvJoKCjEuIOmmluasoeWvvOWFpeaKiiBgcHJvamVjdC5jb25maWcuanNvbmAg55qEIGBhcHBpZGAg5o2i5oiQ6Ieq5bex55qE5bCP56iL5bqPIEFwcElE77yI5b2T5YmN5paH5Lu25YaF5Li66aG555uuIEFwcElE77yJ44CCCjIuIOe8luivkeWQjuWcqOecn+acuumihOiniO+8jOmqjOivgSBDU1Yg5a+85Ye65LiO44CM5LuO6IGK5aSp6YCJ5oup5paH5Lu244CN5Lik6aG577yI5qih5ouf5Zmo5LiN5pSv5oyB5YiG5Lqr5paH5Lu277yJ44CCCjMuIOmDqOe9suOAgeWkh+ahiOS4juWuoeaguOa1geeoi+ingSBbYHN0YW5kYWxvbmUvbWluaXByb2dyYW0vZG9jcy/lvq7kv6HlsI/nqIvluo/pg6jnvbLmjIfljZcubWRgXShzdGFuZGFsb25lL21pbmlwcm9ncmFtL2RvY3Mv5b6u5L+h5bCP56iL5bqP6YOo572y5oyH5Y2XLm1kKeOAggoK5bCP56iL5bqP56uv5LiN6Kej5p6QIFhMU1gg5LqM6L+b5Yi277yb5Y6f5aeL5pWw5o2u5pivIEV4Y2VsIOaXtu+8jOivt+WPpuWtmOS4uuOAjENTViBVVEYtOOOAjeWQjue7j+OAjOaWh+S7tuS8oOi+k+WKqeaJi+OAjeWPkemAgeWIsOW+ruS/oeWGjeWvvOWFpeOAggoKIyMgNC4g6L6T5YWl6L6T5Ye656S65L6LCgrlnKjjgIzljZXmrKHorqHnrpfjgI3pgInmi6kgKioyMDEgLyDlj4zmjpIgLyDnrKwgMiDlpZflnIbniYflr4bluqbpq5jnuqfnrpfms5XlhazlvI8qKu+8jOi+k+WFpe+8mgoKfCDovpPlhaXpobkgfCDlgLwgfAp8IC0tLSB8IC0tLTogfAp8IOWOmuW6piB8IDAuMyBtbSB8Cnwg5a695bqmIHwgNjAwIG1tIHwKfCDmnZDmlpnph43ph48gfCAxMDAga2cgfAoK6buY6K6k5Y+C5pWw5LiL55qE5YWz6ZSu57uT5p6c77yaCgp8IOi+k+WHuumhuSB8IOWAvCB8CnwgLS0tIHwgLS0tOiB8Cnwg5Ymq5Y+jIHwgMzIwIG1tIHwKfCDmiYDpgInljZXph43ljp/lgLwgfCAwLjE5MTIzMiBrZy/kuKogfAp8IOWPjOaOkuWGsuaWmeWchueJh+avlOS+i+ezu+aVsCB8IDAuODI0IHwKfCDlj6/nlKjph43ph48gfCA4Mi40IGtnIHwKfCDlj4zmjpLop5Lmlpnmr5Tkvovns7vmlbAgfCAwLjEyIHwKfCDop5Lmlpnph43ph48gfCAqKjEyIGtnKiogfAp8IOmihOiuoeWchueJh+aVsOmHjyB8ICoqNDMwIOS4qioqIHwKCuaVsOmHj+aMieacquiIjeWFpeWNlemHjeiuoeeul+WQjuWQkeS4i+WPluaVtO+8mmBmbG9vcigxMDAgw5cgMC44MjQgw7cgMC4xOTEyMzIpID0gNDMwYOOAguinkuaWmeaMieadkOaWmeaAu+mHjeiuoeeul++8mmAxMDAgw5cgMC4xMiA9IDEyIGtnYOOAggoK5om56YeP5a+85YWl5qih5p2/6KGo5aS077yaCgpgYGBjc3YK5p2Q6LSoLOWOmuW6pihtbSks5a695bqmKG1tKSzmnZDmlpnph43ph48oa2cpLOWGsuaWmeaWueW8jyzljZXph43lhazlvI8KMjAxLDAuMyw2MDAsMTAwLOWPjOaOkiwyCmBgYAoK5YWs5byP57yW5Y+377yaYDFgIOWchueJh+WvhuW6pueul+azle+8jGAyYCDlnIbniYflr4bluqbpq5jnuqfnrpfms5XvvIxgM2Ag5pa554mH5a+G5bqm566X5rOV77yI5LuF5Y2V5o6S77yJ44CC5pen54mI5om56YeP5paH5Lu255qE5YWs5byPIDHjgIEyIOe8luWPt+S4juW9k+WJjeeJiOacrOebuOWPje+8jOWvvOWFpeWJjemcgOS6kuaNouOAggoKIyMg5Zu65a6a6K6h566X6KeE5YiZCgotIOWJquWPo++8muWPjOaOkiA9IOWuveW6piDDtyAxLjg377yM5Y2V5o6SID0g5a695bqm77yb57uT5p6c5ZCR5LiL5Y+W5YiwIDUgbW0g55qE5YCN5pWw44CCCi0g56ysIDEg5aWX5Y2V6YeN77yI5ZyG54mH77yJ77yaYCjliarlj6MvMinCsiDDlyAzLjE0IMOXIOWOmuW6piDDlyDnrKwgMSDlpZflr4bluqbns7vmlbAgw7cgMTAwMDAwYOOAggotIOesrCAyIOWll+WNlemHje+8iOaWueeJh++8ie+8mmDliarlj6PCsiDDlyDljprluqYgw5cg56ysIDIg5aWX5a+G5bqm57O75pWwIMO3IDEwMDAwMDBg44CCCi0g56ysIDMg5aWX5Y2V6YeN77yI5pa554mH77yM5LuF5Y2V5o6S77yJ77yaYOWJquWPo8KyIMOXIOWOmuW6piDDlyDnrKwgMSDlpZflr4bluqbns7vmlbAgw7cgMTAwMDAwYO+8jOaVsOmHj+ebtOaOpeeUqOadkOaWmeaAu+mHjeaNoueul++8jOS4jeS5mOWchueJh+avlOS+i+ezu+aVsOOAggotIOWchuWRqOeOh+WPguaVsOWbuuWumiAzLjE077yM5Ymq5Y+j5q2l6ZW/5Zu65a6aIDUgbW3jgIIKCiMjIOS7k+W6k+e7k+aehAoKYGBgdGV4dAouCuKUnOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAgICAjIOacrOaWh+S7tu+8iHYxLjEuMCDorqHnrpflt6Xlhbfor7TmmI7vvIkK4pSc4pSAIENIQU5HRUxPRy5tZCAgICAgICAgICAgICAgICAgICMg54mI5pys5pu05paw6K6w5b2VCuKUnOKUgCBzdGFuZGFsb25lLwrilIIgIOKUnOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAjIOeLrOeri+eJiOebruW9leivtOaYjgrilIIgIOKUnOKUgCB3ZWIvICAgICAgICAgICAgICAgICAgICAgICAjIOemu+e6v+e9kemhteeJiO+8iOmbtuS+nei1lumdmeaAgeermeeCuSArIOacrOWcsOacjeWKoeWZqO+8iQrilIIgIOKUnOKUgCBkZXNrdG9wLyAgICAgICAgICAgICAgICAgICAjIFdpbmRvd3Mg5qGM6Z2i54mI5p6E5bu65bel56iL77yIRWxlY3Ryb27vvIkK4pSCICDilJTilIAgbWluaXByb2dyYW0vICAgICAgICAgICAgICAgIyDlvq7kv6HlsI/nqIvluo/niYjlt6XnqIsK4pSc4pSAIGRlc2t0b3AvICAgICAgICAgICAgICAgICAgICAgICMgdjAuMi4wIOWujOaVtOeJiO+8iOS+m+W6lOWVhi/mnZDmlpnnrqHnkIbvvIlFbGVjdHJvbiDkuLvov5vnqIsK4pSc4pSAIG91dHB1dHMvcHJldmlldy1zaXRlLyAgICAgICAgICMgdjAuMi4wIOWujOaVtOeJiOemu+e6v+e9kemhtQrilJzilIAgb3V0cHV0cy9zY3JpcHRzLyAgICAgICAgICAgICAgIyB2MC4yLjAg5p6E5bu65LiO6Ieq5qOA6ISa5pysCuKUnOKUgCBkb2NzLyAgICAgICAgICAgICAgICAgICAgICAgICAjIHYwLjIuMCDkvb/nlKjor7TmmI7kuI7pqozmlLborrDlvZUK4pSc4pSAIGZvcmdlLmNvbmZpZy5qcyAgICAgICAgICAgICAgICMgdjAuMi4wIEVsZWN0cm9uIEZvcmdlIOmFjee9rgrilJTilIAgcGFja2FnZS5qc29uICAgICAgICAgICAgICAgICAgIyB2MC4yLjAg5bel56iL6YWN572uCmBgYAoKdjEuMS4wIOiuoeeul+W3peWFt+S4jiB2MC4yLjAg5a6M5pW054mI5piv5Lik5p2h54us56uL55qE5Lqn5ZOB57q/77ya6K6h566X6KeE5YiZ5ZCM5rqQ77yM5L2G5pWw5o2u5LqS5LiN6Ieq5Yqo5ZCM5q2l77yM55WM6Z2i5LiO5pWw5o2u55uu5b2V5YiG5byA44CCdjAuMi4wIOeahOS+m+W6lOWVhuS4juadkOaWmeWNleaNruWKn+iDveacquWMheWQq+WcqCB2MS4xLjAg5qGM6Z2i54mI5Lit44CCCgojIyMg5pa55byP5Zub77ya5LuO5rqQ56CB5p6E5bu6CgojIyMgV2luZG93cyDmoYzpnaLniYgKCmBgYHBvd2Vyc2hlbGwKY2Qgc3RhbmRhbG9uZS9kZXNrdG9wCm5wbSBpbnN0YWxsCm5wbSBydW4gZGlzdApgYGAKCuS6p+eJqe+8mmBzdGFuZGFsb25lL2Rlc2t0b3AvZGlzdC9TU01hdGVyaWFsRGF0YUNhbGMtMS4xLjAtcG9ydGFibGUuZXhlYOOAgummluasoeaehOW7uuS8muS7jiBucG0g6ZWc5YOP5LiL6L29IEVsZWN0cm9u77yb5Zu95YaF572R57uc5Y+v6K6+572uIGBFTEVDVFJPTl9NSVJST1I9aHR0cHM6Ly9ucG1taXJyb3IuY29tL21pcnJvcnMvZWxlY3Ryb24vYOOAggoKIyMjIOe9kemhteeJiOiHquajgAoKYGBgcG93ZXJzaGVsbApjZCBzdGFuZGFsb25lL3dlYgpub2RlIHRlc3Qvc21va2UuanMKYGBgCgojIyMg5bCP56iL5bqP6Ieq5qOACgpgYGBwb3dlcnNoZWxsCmNkIHN0YW5kYWxvbmUvbWluaXByb2dyYW0Kbm9kZSB0ZXN0L3Ntb2tlLmpzCm5vZGUgdGVzdC9wYWdlcy5qcwpub2RlIHRvb2xzL3ZlcmlmeS5qcwpgYGAKCiMjIOeJiOacrOWOhuWPsgoKfCDniYjmnKwgfCDml6XmnJ8gfCDlhoXlrrkgfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgdjEuMS4wIHwgMjAyNi0xMS0xNCB8IOinkuaWmemHjemHj+OAgeinkuaWmeavlOS+i+WPguaVsOOAgeeLrOeri+ahjOmdoiBFWEXjgIHlvq7kv6HlsI/nqIvluo/niYggfAp8IHYxLjAuMCB8IDIwMjYtMTAgfCDorqHnrpfmqKHlnZfku44gTWF0TWFuYWdlciDmj5Dlj5bkuLrnprvnur/ni6znq4vniYjvvIjnvZHpobXvvIkgfAp8IHYwLjIuMCB8IDIwMjYtMTAtMDkgfCDkvpvlupTllYbkuI7mnZDmlpnljZXmja7nrqHnkIbvvIjorqLotKfjgIHmlLbotKfjgIHku5jmrL7jgIHlr7notKbvvIkgfAp8IHYwLjEuNSB8IDIwMjYtMDktMjggfCDmoYzpnaLoj5zljZXkvJjljJYgfAp8IHYwLjEuNCB8IDIwMjYtMDktMjggfCDmiYvliqjmo4Dmn6Xmm7TmlrAgfAp8IHYwLjEuMyB8IDIwMjYtMDktMjggfCDkv67lpI3lronoo4XlkK/liqjkuI7kuK3mlofoj5zljZUgfAp8IHYwLjEuMiB8IDIwMjYtMDktMjggfCDmoYzpnaLoh6rliqjmm7TmlrAgfAp8IHYwLjEuMSB8IDIwMjYtMDktMjcgfCBXaW5kb3dzIOahjOmdoueJiCB8CnwgdjAuMS4wIHwgMjAyNi0wOS0yNyB8IOmmluS4quemu+e6v+e9kemhteeJiCB8CgojIyDorrjlj68KCumhueebruiHquacieS7o+eggeWSjOaWh+aho+mHh+eUqCBbTUlUIExpY2Vuc2VdKExJQ0VOU0Up44CC6ZqP6ZmE55qEIFNoZWV0SlMgWExTWCDlupPkv53nlZkgQXBhY2hlIDIuMCDorrjlj6/lj4rniYjmnYPlo7DmmI7vvIzor6bop4EgYHN0YW5kYWxvbmUvd2ViL3ZlbmRvci9USElSRC1QQVJUWS1OT1RJQ0VTLnR4dGDjgIIK
+# MatManager · 材料数据计算
+
+面向不锈钢冲片/算片场景的**离线**计算工具：输入材质、冲料方式、厚度、宽度与材料重量，得到预计圆片数量，同时给出该批材料生产完毕后的**角料重量**。提供 Windows 桌面版、离线网页版和微信小程序版，三端共用同一套公式与参数。
+
+当前版本：**v1.1.0**（公式版本 2.1.0）
+上一代完整版：**v0.2.0**（供应商、订货、收货、付款、对账管理，源码仍保留在本仓库）
+
+## 1. 项目解决什么问题
+
+工厂冲片算量长期靠手算或表格估算，容易出现三类问题：
+
+| 问题 | 本项目的做法 |
+| --- | --- |
+| 圆片数量靠经验估算，换材质、换剪口、换冲料方式就要重算，容易算错 | 把两套圆片密度公式、一套方片公式固化成程序，输入 5 个参数即出数量 |
+| 材料利用率与角料不透明，报价和成本核算缺少依据 | 每个结果同时给出角料重量（双排 12%、单排 22% 的材料总重） |
+| 车间网络不稳定、在线工具打不开，数据还要上传 | 三端全离线运行：桌面 EXE、本地网页、小程序，数据只存本机 |
+
+计算规则统一在公式内核里，参数可维护、可备份，历史结果按当次参数快照保存，便于复核与追溯。
+## v1.1.0 更新要点
+
+- 计算结果新增**角料重量**：双排 = 材料重量 × 0.12，单排 = 材料重量 × 0.22。
+- 参数维护新增「单排 / 双排角料比例系数」，可在 0–1 之间调整；旧参数和旧备份自动补齐默认值。
+- 单次结果、批量表、历史详情、复制文本、CSV / XLSX 导出与打印，全部包含角料数据。
+- 新增**可双击运行的 Windows 便携 EXE**（内置页面，无需安装 Node.js、无需联网）。
+- 新增**微信小程序版**（圆片算量），与网页/桌面共用同一套公式。
+
+## 2. 主要功能
+
+- **单次计算**：410 / 201 / 304 / 316 四种材质；单排、双排；第 1 套圆片密度算法、第 2 套圆片密度高级算法，单排另可选第 3 套方片密度算法。默认 201 / 双排 / 第 1 套。
+- **批量计算**：粘贴表格或导入 CSV / XLSX；逐行显示成功或错误，并带角料重量列。单次最多 500 条，文件不超过 2 MB。
+- **结果处理**：导出 CSV / XLSX（23 列，含角料比例系数与角料重量）、打印或另存为 PDF。
+- **历史记录**：本机保存最多 500 条成功结果；支持筛选、查看详情、按当前参数重新计算、删除、JSON 备份与合并恢复。重算不改写旧记录。
+- **参数维护**：13 项可编辑参数（四种材质各两套密度系数、单排/双排圆片比例系数、单排/双排角料比例系数、双排剪口换算值）；保存前显示新旧值并确认；支持 JSON 备份与恢复。
+- **离线**：不需要账号、服务器或网络；数据只保存在本机。
+
+## 角料重量口径
+
+角料重量只与冲料方式和材料总重有关，与选用第几套单重公式无关：
+
+| 冲料方式 | 角料比例系数 | 角料重量 |
+| --- | ---: | --- |
+| 双排 | 0.12 | 材料重量 × 0.12 |
+| 单排 | 0.22 | 材料重量 × 0.22 |
+
+- 第 3 套方片公式（仅单排）同样按材料总重计算角料。
+- 两个系数可在「参数维护」中修改，范围 0–1；修改只影响之后的新计算，历史记录保留各自快照。
+- 升级前（公式版本 2.0.0）的历史记录没有角料字段：详情标注「旧版本记录未含角料数据」，导出时角料两列留空，不按新规则回填。
+
+## 3. 安装方法
+
+### 方式一：Windows 桌面版（免安装）
+
+从 [GitHub Releases](https://github.com/Yujay-Si/MatManager/releases/latest) 下载 `SSMaterialDataCalc-1.1.0-portable.exe`，双击即可运行：
+
+- 单文件便携版，不需要安装、不需要 Node.js、不联网、不需要账号。
+- 数据保存在 `%APPDATA%\SSMaterialDataCalc`；菜单 **文件 → 打开数据目录** 可直接查看。
+- 菜单：文件（打开数据目录、退出）、编辑、视图（重新加载、缩放、全屏）、帮助（关于、项目主页、下载最新版）。
+- 程序未做代码签名，Windows SmartScreen 可能提示「未知发布者」，选择「更多信息 → 仍要运行」即可。
+- 备份：在「历史记录」「参数维护」页分别导出 JSON；换机时导入同一份备份。
+
+### 方式二：离线网页版
+
+目录 `standalone/web/`，保持 `index.html`、`assets/`、`src/`、`vendor/` 的相对位置：
+
+1. 双击 `standalone/web/start.cmd`（需要 Node.js 18+），浏览器自动打开 `http://127.0.0.1:4173/`；或
+2. 直接双击 `standalone/web/index.html`，用现代 Chromium 浏览器离线打开。
+
+历史与参数保存在当前浏览器的 localStorage，按地址来源隔离。更换端口、浏览器或清理数据前，请分别导出 JSON 备份。
+
+### 方式三：微信小程序版
+
+目录 `standalone/miniprogram/`，用微信开发者工具导入即可：
+
+1. 首次导入把 `project.config.json` 的 `appid` 换成自己的小程序 AppID（当前文件内为项目 AppID）。
+2. 编译后在真机预览，验证 CSV 导出与「从聊天选择文件」两项（模拟器不支持分享文件）。
+3. 部署、备案与审核流程见 [`standalone/miniprogram/docs/微信小程序部署指南.md`](standalone/miniprogram/docs/微信小程序部署指南.md)。
+
+小程序端不解析 XLSX 二进制；原始数据是 Excel 时，请另存为「CSV UTF-8」后经「文件传输助手」发送到微信再导入。
+
+## 4. 输入输出示例
+
+在「单次计算」选择 **201 / 双排 / 第 2 套圆片密度高级算法公式**，输入：
+
+| 输入项 | 值 |
+| --- | ---: |
+| 厚度 | 0.3 mm |
+| 宽度 | 600 mm |
+| 材料重量 | 100 kg |
+
+默认参数下的关键结果：
+
+| 输出项 | 值 |
+| --- | ---: |
+| 剪口 | 320 mm |
+| 所选单重原值 | 0.191232 kg/个 |
+| 双排冲料圆片比例系数 | 0.824 |
+| 可用重量 | 82.4 kg |
+| 双排角料比例系数 | 0.12 |
+| 角料重量 | **12 kg** |
+| 预计圆片数量 | **430 个** |
+
+数量按未舍入单重计算后向下取整：`floor(100 × 0.824 ÷ 0.191232) = 430`。角料按材料总重计算：`100 × 0.12 = 12 kg`。
+
+批量导入模板表头：
+
+```csv
+材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式
+201,0.3,600,100,双排,2
+```
+
+公式编号：`1` 圆片密度算法，`2` 圆片密度高级算法，`3` 方片密度算法（仅单排）。旧版批量文件的公式 1、2 编号与当前版本相反，导入前需互换。
+
+## 固定计算规则
+
+- 剪口：双排 = 宽度 ÷ 1.87，单排 = 宽度；结果向下取到 5 mm 的倍数。
+- 第 1 套单重（圆片）：`(剪口/2)² × 3.14 × 厚度 × 第 1 套密度系数 ÷ 100000`。
+- 第 2 套单重（方片）：`剪口² × 厚度 × 第 2 套密度系数 ÷ 1000000`。
+- 第 3 套单重（方片，仅单排）：`剪口² × 厚度 × 第 1 套密度系数 ÷ 100000`，数量直接用材料总重换算，不乘圆片比例系数。
+- 圆周率参数固定 3.14，剪口步长固定 5 mm。
+
+## 仓库结构
+
+```text
+.
+├─ README.md                     # 本文件（v1.1.0 计算工具说明）
+├─ CHANGELOG.md                  # 版本更新记录
+├─ standalone/
+│  ├─ README.md                  # 独立版目录说明
+│  ├─ web/                       # 离线网页版（零依赖静态站点 + 本地服务器）
+│  ├─ desktop/                   # Windows 桌面版构建工程（Electron）
+│  └─ miniprogram/               # 微信小程序版工程
+├─ desktop/                      # v0.2.0 完整版（供应商/材料管理）Electron 主进程
+├─ outputs/preview-site/         # v0.2.0 完整版离线网页
+├─ outputs/scripts/              # v0.2.0 构建与自检脚本
+├─ docs/                         # v0.2.0 使用说明与验收记录
+├─ forge.config.js               # v0.2.0 Electron Forge 配置
+└─ package.json                  # v0.2.0 工程配置
+```
+
+v1.1.0 计算工具与 v0.2.0 完整版是两条独立的产品线：计算规则同源，但数据互不自动同步，界面与数据目录分开。v0.2.0 的供应商与材料单据功能未包含在 v1.1.0 桌面版中。
+
+### 方式四：从源码构建
+
+### Windows 桌面版
+
+```powershell
+cd standalone/desktop
+npm install
+npm run dist
+```
+
+产物：`standalone/desktop/dist/SSMaterialDataCalc-1.1.0-portable.exe`。首次构建会从 npm 镜像下载 Electron；国内网络可设置 `ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/`。
+
+### 网页版自检
+
+```powershell
+cd standalone/web
+node test/smoke.js
+```
+
+### 小程序自检
+
+```powershell
+cd standalone/miniprogram
+node test/smoke.js
+node test/pages.js
+node tools/verify.js
+```
+
+## 版本历史
+
+| 版本 | 日期 | 内容 |
+| --- | --- | --- |
+| v1.1.0 | 2026-11-14 | 角料重量、角料比例参数、独立桌面 EXE、微信小程序版 |
+| v1.0.0 | 2026-10 | 计算模块从 MatManager 提取为离线独立版（网页） |
+| v0.2.0 | 2026-10-09 | 供应商与材料单据管理（订货、收货、付款、对账） |
+| v0.1.5 | 2026-09-28 | 桌面菜单优化 |
+| v0.1.4 | 2026-09-28 | 手动检查更新 |
+| v0.1.3 | 2026-09-28 | 修复安装启动与中文菜单 |
+| v0.1.2 | 2026-09-28 | 桌面自动更新 |
+| v0.1.1 | 2026-09-27 | Windows 桌面版 |
+| v0.1.0 | 2026-09-27 | 首个离线网页版 |
+
+## 许可
+
+项目自有代码和文档采用 [MIT License](LICENSE)。随附的 SheetJS XLSX 库保留 Apache 2.0 许可及版权声明，详见 `standalone/web/vendor/THIRD-PARTY-NOTICES.txt`。

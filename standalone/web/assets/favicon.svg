@@ -1,1 +1,13 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMxNzNlMzAiLz4KICA8cmVjdCB4PSIxNSIgeT0iMTAiIHdpZHRoPSIzNCIgaGVpZ2h0PSI0NCIgcng9IjUiIGZpbGw9IiNmNGY1ZjEiLz4KICA8cmVjdCB4PSIyMSIgeT0iMTYiIHdpZHRoPSIyMiIgaGVpZ2h0PSI5IiByeD0iMiIgZmlsbD0iI2E5YzhhZCIvPgogIDxnIGZpbGw9IiMxNzNlMzAiPgogICAgPGNpcmNsZSBjeD0iMjMiIGN5PSIzNCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iMzIiIGN5PSIzNCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNDEiIGN5PSIzNCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iMjMiIGN5PSI0MyIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iMzIiIGN5PSI0MyIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNDEiIGN5PSI0MyIgcj0iMyIvPgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#173e30"/>
+  <rect x="15" y="10" width="34" height="44" rx="5" fill="#f4f5f1"/>
+  <rect x="21" y="16" width="22" height="9" rx="2" fill="#a9c8ad"/>
+  <g fill="#173e30">
+    <circle cx="23" cy="34" r="3"/>
+    <circle cx="32" cy="34" r="3"/>
+    <circle cx="41" cy="34" r="3"/>
+    <circle cx="23" cy="43" r="3"/>
+    <circle cx="32" cy="43" r="3"/>
+    <circle cx="41" cy="43" r="3"/>
+  </g>
+</svg>

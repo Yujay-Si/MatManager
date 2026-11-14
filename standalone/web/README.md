@@ -1,1 +1,141 @@
-IyDmnZDmlpnmlbDmja7orqHnrpcgwrcg54us56uL54mICgrku44gTWF0TWFuYWdlcu+8iOadkOaWmeaVsOaNruiuoeeul+W3peWFt++8ieS4reWNleeLrOaPkOWPlueahOemu+e6v+adkOaWmeWGsueJh+iuoeeul+mhueebruOAguWPquS/neeVmeKAnOaVsOaNruiuoeeul+KAneaooeWdl++8jOS4jeWMheWQq+adkOaWmeeuoeeQhuOAgeS+m+W6lOWVhuOAgei/m+mUgOWtmOOAgeWOn+adkOaWmeWNleaNruWSjOahjOmdouabtOaWsOmAu+i+keOAggoKIyMg5Yqf6IO9CgotICoq5Y2V5qyh6K6h566XKirvvJo0MTAgLyAyMDEgLyAzMDQgLyAzMTYg5Zub56eN5p2Q6LSo77yb5Y2V5o6S44CB5Y+M5o6S77yb56ysIDEg5aWX5ZyG54mH5YWs5byP44CB56ysIDIg5aWX5ZyG54mH6auY57qn5YWs5byP77yM5Y2V5o6S5Y+m5Y+v6YCJ56ysIDMg5aWX5pa554mH5YWs5byP44CC57uT5p6c5ZCM5pe257uZ5Ye66aKE6K6h5ZyG54mH5pWw6YeP5LiO6KeS5paZ6YeN6YeP44CCCi0gKirmibnph4/orqHnrpcqKu+8mueymOi0tCBDU1YgLyBFeGNlbCDooajmoLzvvIzmiJblr7zlhaUgQ1NWIC8gWExTWO+8m+mAkOihjOaYvuekuuaIkOWKn+aIlumUmeivr++8jOW5tuW4puinkuaWmemHjemHj+WIl++8m+WNleasoeacgOWkmiA1MDAg5p2h77yM5paH5Lu25LiN6LaF6L+HIDIgTULjgIIKLSAqKue7k+aenOWkhOeQhioq77ya5a+85Ye6IENTVuOAgVhMU1jvvIjlkKvop5Lmlpnmr5Tkvovns7vmlbDjgIHop5Lmlpnph43ph4/kuKTliJfvvInvvIzmiJbmiZPljbAgLyDlj6blrZjkuLogUERG44CCCi0gKirljoblj7LorrDlvZUqKu+8muacrOacuuacgOWkmuS/neWtmCA1MDAg5p2h5oiQ5Yqf57uT5p6c77yb5pSv5oyB562b6YCJ44CB6YeN5paw6K6h566X44CB5Yig6Zmk44CBSlNPTiDlpIfku73kuI7lkIjlubbmgaLlpI3vvJvor6bmg4Xph4zog73nnIvliLDlvZPmrKHnmoTop5Lmlpnmr5TkvovkuI7op5Lmlpnph43ph4/jgIIKLSAqKuWPguaVsOe7tOaKpCoq77ya5L+u5pS55Zub56eN5p2Q6LSo55qE5Lik5aWX5a+G5bqm57O75pWw44CB5Y2V5o6SL+WPjOaOkuWchueJh+avlOS+i+ezu+aVsOOAgeWNleaOki/lj4zmjpLop5Lmlpnmr5Tkvovns7vmlbDvvIjpu5jorqQgMC4yMiAvIDAuMTLvvInjgIHlj4zmjpLliarlj6PmjaLnrpflgLzvvIzlhbEgMTMg6aG577yb5pSv5oyB5Y+C5pWwIEpTT04g5aSH5Lu95LiO5oGi5aSN44CCCgojIyDlkK/liqgKCiMjIyDmlrnlvI/kuIDvvJrlj4zlh7vlkK/liqjvvIjmjqjojZDvvIkKCuWPjOWHuyBgc3RhcnQuY21kYOOAguiEmuacrOS8muWQr+WKqOacrOacuumdmeaAgeacjeWKoeWZqOW5tuiHquWKqOaJk+W8gOa1j+iniOWZqOOAggoK6ZyA6KaBIE5vZGUuanMgMTgg5oiW5pu06auY54mI5pys44CC6aG555uu5rKh5pyJ56ys5LiJ5pa56L+Q6KGM5L6d6LWW77yM5LiN6ZyA6KaB5omn6KGMIGBucG0gaW5zdGFsbGDjgIIKCiMjIyDmlrnlvI/kuozvvJrlkb3ku6TooYwKCmBgYHBvd2Vyc2hlbGwKY2QgbWF0bWFuYWdlci1jYWxjdWxhdG9yCm5wbSBzdGFydApgYGAKCuaIluWPquWQr+WKqOacjeWKoeOAgeS4jeiHquWKqOaJk+W8gOa1j+iniOWZqO+8mgoKYGBgcG93ZXJzaGVsbApucG0gcnVuIHNlcnZlCmBgYAoK6buY6K6k5Zyw5Z2A77yaYGh0dHA6Ly8xMjcuMC4wLjE6NDE3My9gCgojIyMg5pa55byP5LiJ77ya55u05o6l5omT5byA56a757q/6aG16Z2iCgrnm7TmjqXlj4zlh7sgYGluZGV4Lmh0bWxgIOS5n+WPr+S7peS9v+eUqOOAgueOsOS7oyBDaHJvbWl1bSDmtY/op4jlmajkuIvlt7Lpqozor4EgYGZpbGU6Ly9gIOaWueW8j+WPr+S7peaJk+W8gCBJbmRleGVkRELjgILoi6XmtY/op4jlmajpmZDliLbmnKzlnLDmlofku7blrZjlgqjvvIzor7fmlLnnlKggYHN0YXJ0LmNtZGAg5oiWIGBucG0gc3RhcnRg44CCCgojIyDmlbDmja7kv53lrZgKCnwg5pWw5o2uIHwg5a2Y5YKo5L2N572uIHwKfC0tLXwtLS18Cnwg5Y6G5Y+y6K6w5b2VIHwg5rWP6KeI5ZmoIGBsb2NhbFN0b3JhZ2Vg77yaYG1hdGVyaWFsLWNhbGN1bGF0b3ItaGlzdG9yeS12MWAgfAp8IOiHquWumuS5ieWPguaVsCB8IOa1j+iniOWZqCBgbG9jYWxTdG9yYWdlYO+8mmBtYXRlcmlhbC1jYWxjdWxhdG9yLXBhcmFtZXRlcnMtdjFgIHwKCuWOhuWPsuiusOW9leWSjOWPguaVsOmDveS7pSBKU09OIOaWh+S7tuWkh+S7vS/mgaLlpI3vvIzlpIfku73moLzlvI/kuI4gTWF0TWFuYWdlciDljp/orqHnrpfmqKHlnZflhbzlrrnjgIIKCj4gKirph43opoEqKu+8mua1j+iniOWZqOacrOWcsOaVsOaNruaMieKAnOWcsOWdgOadpea6kOKAnemalOemu+OAguWbuuWumuS9v+eUqCBgaHR0cDovLzEyNy4wLjAuMTo0MTczL2DvvIzkuI3opoHlnKjkuI3lkIznq6/lj6PjgIFgZmlsZTovL2Ag5ZKMIGBodHRwOi8vYCDkuYvpl7TmnaXlm57liIfmjaLvvIzlkKbliJnkvJrnnIvliLDkuI3lkIznmoTmlbDmja7jgILmm7TmjaLnlLXohJHmiJbmtY/op4jlmajliY3vvIzor7fliIbliKvlr7zlh7rljoblj7LorrDlvZXlkozlj4LmlbDlpIfku73jgIIKCiMjIOekuuS+iwoK6YCJ5oupICoqMjAxIC8g5Y+M5o6SIC8g56ysIDIg5aWX5ZyG54mH5a+G5bqm6auY57qn566X5rOVKirvvIzovpPlhaXvvJoKCnwg6L6T5YWlIHwg5YC8IHwKfC0tLXwtLS06fAp8IOWOmuW6piB8IDAuMyBtbSB8Cnwg5a695bqmIHwgNjAwIG1tIHwKfCDmnZDmlpnph43ph48gfCAxMDAga2cgfAoK6buY6K6k5Y+C5pWw5LiL57uT5p6c77yaCgotIOWJquWPo++8mioqMzIwIG1tKioKLSDnrKwgMiDlpZfljZXph43vvJoqKjAuMTkxMiBrZy/kuKoqKgotIOmihOiuoeWchueJh+aVsOmHj++8mioqNDMwIOS4qioqCi0g6KeS5paZ5q+U5L6L57O75pWw77yaKiowLjEyKirvvIjlj4zmjpLvvIkKLSDop5Lmlpnph43ph4/vvJoqKjEyIGtnKirvvIgxMDAga2cgw5cgMC4xMu+8iQoKIyMg6KeS5paZ6YeN6YeP5Y+j5b6ECgrop5Lmlpnph43ph4/lj6rot5/lhrLmlpnmlrnlvI/lkozmnZDmlpnmgLvph43mnInlhbPvvIzkuI7pgInlk6rlpZfljZXph43lhazlvI/ml6DlhbPvvJoKCnwg5Yay5paZ5pa55byPIHwg6KeS5paZ5q+U5L6L57O75pWwIHwg6KeS5paZ6YeN6YeP5YWs5byPIHwKfCAtLS0gfCAtLS06IHwgLS0tIHwKfCDlj4zmjpIgfCAwLjEyIHwg5p2Q5paZ6YeN6YePIMOXIDAuMTIgfAp8IOWNleaOkiB8IDAuMjIgfCDmnZDmlpnph43ph48gw5cgMC4yMiB8CgotIOesrCAzIOWll+aWueeJh+WFrOW8j++8iOS7heWNleaOku+8ieWQjOagt+aMieadkOaWmeaAu+mHjeeul+inkuaWme+8jOS+i+WmgiAxMDAga2cg5Y2V5o6S5p2Q5paZ6KeS5paZIDIyIGtn44CCCi0g5Lik5Liq57O75pWw5Zyo44CM5Y+C5pWw57u05oqk44CN6YeM5Y+v5Lul5pS577yM6IyD5Zu0IDAg5YiwIDHvvJvmlLnlrozlj6rlvbHlk43kuYvlkI7nmoTorqHnrpfvvIzljoblj7LorrDlvZXkv53nlZnlkIToh6rnmoTlv6vnhafjgIIKLSDljYfnuqfliY3vvIjlhazlvI/niYjmnKwgMi4wLjDvvInnmoTljoblj7LorrDlvZXmsqHmnInop5LmlpnlrZfmrrXvvIzor6bmg4XmmL7npLrjgIzml6fniYjmnKzorrDlvZXmnKrlkKvop5LmlpnmlbDmja7jgI3vvIzlr7zlh7rml7bop5LmlpnkuKTliJfnlZnnqbrvvIzkuI3mjInmlrDop4TliJnlm57loavjgIIKCuaJuemHj+aooeadv+ihqOWktO+8mgoKYGBgY3N2CuadkOi0qCzljprluqYobW0pLOWuveW6pihtbSks5p2Q5paZ6YeN6YePKGtnKSzlhrLmlpnmlrnlvI8s5Y2V6YeN5YWs5byPCjIwMSwwLjMsNjAwLDEwMCzlj4zmjpIsMgpgYGAKCuWFrOW8j+e8luWPt++8mmAxYCDkuLrlnIbniYflr4bluqbnrpfms5XvvIxgMmAg5Li65ZyG54mH5a+G5bqm6auY57qn566X5rOV77yMYDNgIOS7heeUqOS6juWNleaOkueahOaWueeJh+WvhuW6pueul+azleOAggoKIyMg55uu5b2V57uT5p6ECgpgYGB0ZXh0Cm1hdG1hbmFnZXItY2FsY3VsYXRvci8K4pSc4pSAIGluZGV4Lmh0bWwgICAgICAgICAgICAgICAgICMg54us56uL6aG16Z2iCuKUnOKUgCBhc3NldHMvCuKUgiAg4pSc4pSAIGJhc2UuY3NzICAgICAgICAgICAgICAgICMg5Y6f6K6h566X5qih5Z2X5qC35byPCuKUgiAg4pSc4pSAIHN0YW5kYWxvbmUuY3NzICAgICAgICAgICMg54us56uL54mI5aSW5aOz5qC35byPCuKUgiAg4pSU4pSAIGZhdmljb24uc3ZnCuKUnOKUgCBzcmMvCuKUgiAg4pSc4pSAIGNhbGN1bGF0aW9uLmpzICAgICAgICAgICMg5YWs5byP5LiO5qCh6aqMCuKUgiAg4pSc4pSAIHBhcmFtZXRlci1zdG9yZS5qcyAgICAgICMg5Y+C5pWw5a2Y5YKoCuKUgiAg4pSc4pSAIHBhcmFtZXRlci11aS5qcyAgICAgICAgICMg5Y+C5pWw57u05oqk55WM6Z2iCuKUgiAg4pSc4pSAIGJhdGNoLWRhdGEuanMgICAgICAgICAgICMg5om56YeP6Kej5p6Q5LiO6K6h566XCuKUgiAg4pSc4pSAIGhpc3Rvcnktc3RvcmUuanMgICAgICAgICMg5Y6G5Y+y6K6w5b2V5a2Y5YKoCuKUgiAg4pSc4pSAIHJlc3VsdC1vdXRwdXQuanMgICAgICAgICMgQ1NWL1hMU1gv5omT5Y2wCuKUgiAg4pSc4pSAIHdvcmtmbG93LmpzICAgICAgICAgICAgICMg6aG16Z2i5rWB56iLCuKUgiAg4pSU4pSAIGFwcC5qcyAgICAgICAgICAgICAgICAgICMg5Y2V5qyh6K6h566X5YWl5Y+jCuKUnOKUgCB2ZW5kb3IvCuKUgiAg4pSc4pSAIHhsc3guZnVsbC5taW4uanMgICAgICAgICMgU2hlZXRKUyAwLjIwLjMK4pSCICDilJzilIAgU0hFRVRKUy1MSUNFTlNFLnR4dArilIIgIOKUlOKUgCBUSElSRC1QQVJUWS1OT1RJQ0VTLnR4dArilJzilIAgdGVzdC9zbW9rZS5qcyAgICAgICAgICAgICAgIyDml6DmtY/op4jlmajlhpLng5/mtYvor5UK4pSc4pSAIHNlcnZlci5qcyAgICAgICAgICAgICAgICAgICMg6Zu25L6d6LWW6Z2Z5oCB5pyN5Yqh5ZmoCuKUnOKUgCBzdGFydC5jbWQK4pSc4pSAIHBhY2thZ2UuanNvbgrilJTilIAgUkVBRE1FLm1kCmBgYAoKIyMg5byA5Y+R5LiO6aqM6K+BCgpgYGBwb3dlcnNoZWxsCm5wbSB0ZXN0CmBgYAoK5rWL6K+V6KaG55uW77ya56S65L6L5Y2V5qyh6K6h566X44CB6KeS5paZ6YeN6YeP77yI5Y+M5o6SIDEyIGtnIC8g5Y2V5o6SIDIyIGtn77yJ44CB5om56YeP6K6h566X44CB56ysIDMg5aWX5YWs5byP6ZmQ5Yi244CBQ1NWIOaooeadv+ihqOWktOOAgeWvvOWHuuihqOWktOS4juaXp+iusOW9leWFvOWuueOAggoK5Lmf5Y+v5Lul55u05o6l55So5Y6f6aG555uu5rWP6KeI5Zmo6aqM5pS25pa55byP5qOA5p+l6aG16Z2i77ya5Y2V5qyh6K6h566X44CB5om56YeP5a+85YWl44CB5Y6G5Y+y5aSH5Lu9L+aBouWkjeOAgeWPguaVsOWkh+S7vS/mgaLlpI3jgIIKCiMjIOi+ueeVjAoKLSDmnKzpobnnm67lj6rljIXlkKvigJzmlbDmja7orqHnrpfigJ3vvIzkuI3ljIXlkKvmnZDmlpnnrqHnkIbjgIHkvpvlupTllYbjgIHov5vplIDlrZjjgIHorqLljZXjgIHlupPlrZjjgIHotKLliqHmiJbmoYzpnaLoh6rliqjmm7TmlrDjgIIKLSDorqHnrpfnu5PmnpznlKjkuo7kvLDnrpfvvIzkuI3mm7/ku6Plrp7pmYXnp7Dph43jgIHlt6XoibrmiJbotKLliqHmoLjnrpfjgIIKLSDmlbDmja7kv53lrZjlnKjmnKzmnLrmtY/op4jlmajvvIzkuI3mj5DkvpvotKblj7fjgIHmnYPpmZDjgIHlpJrkurrljY/kvZzmiJbmnI3liqHnq6/lkIzmraXjgIIKLSDorqHnrpfop4TliJnkuI4gTWF0TWFuYWdlciAwLjIuMCDnmoTni6znq4vorqHnrpfmqKHlnZfkv53mjIHkuIDoh7TvvJvmnKrlnKjmraTpobnnm67kuK3ph43mlrDlrprkuYnkuJrliqHlj6PlvoTvvIjop5Lmlpnmr5TkvovmjInluJ3lkJsgMjAyNi0xMS0xNCDnmoTlj6PlvoTmlrDlop7vvInjgIIKCiMjIOiuuOWPr+S4juadpea6kAoK6aG555uu6Ieq5pyJ5Luj56CB5ZKM5paH5qGj5rK/55SoIE1JVCBMaWNlbnNl44CC6ZqP6ZmE55qEIFNoZWV0SlMg5bqT5L+d55WZIEFwYWNoZSAyLjAg6K645Y+v5Y+K54mI5p2D5aOw5piO77yM6K+m6KeBIGB2ZW5kb3IvYCDkuIvnmoTorrjlj6/kuI7nrKzkuInmlrnlo7DmmI7jgIIKCuiuoeeul+aooeWdl+aPkOWPluiHqiBNYXRNYW5hZ2VyIDAuMi4w77yI5LuT5bqT77yaYFl1amF5LVNpL01hdE1hbmFnZXJg77yJ44CCCg==
+# 材料数据计算 · 独立版
+
+从 MatManager（材料数据计算工具）中单独提取的离线材料冲片计算项目。只保留“数据计算”模块，不包含材料管理、供应商、进销存、原材料单据和桌面更新逻辑。
+
+## 功能
+
+- **单次计算**：410 / 201 / 304 / 316 四种材质；单排、双排；第 1 套圆片公式、第 2 套圆片高级公式，单排另可选第 3 套方片公式。结果同时给出预计圆片数量与角料重量。
+- **批量计算**：粘贴 CSV / Excel 表格，或导入 CSV / XLSX；逐行显示成功或错误，并带角料重量列；单次最多 500 条，文件不超过 2 MB。
+- **结果处理**：导出 CSV、XLSX（含角料比例系数、角料重量两列），或打印 / 另存为 PDF。
+- **历史记录**：本机最多保存 500 条成功结果；支持筛选、重新计算、删除、JSON 备份与合并恢复；详情里能看到当次的角料比例与角料重量。
+- **参数维护**：修改四种材质的两套密度系数、单排/双排圆片比例系数、单排/双排角料比例系数（默认 0.22 / 0.12）、双排剪口换算值，共 13 项；支持参数 JSON 备份与恢复。
+
+## 启动
+
+### 方式一：双击启动（推荐）
+
+双击 `start.cmd`。脚本会启动本机静态服务器并自动打开浏览器。
+
+需要 Node.js 18 或更高版本。项目没有第三方运行依赖，不需要执行 `npm install`。
+
+### 方式二：命令行
+
+```powershell
+cd matmanager-calculator
+npm start
+```
+
+或只启动服务、不自动打开浏览器：
+
+```powershell
+npm run serve
+```
+
+默认地址：`http://127.0.0.1:4173/`
+
+### 方式三：直接打开离线页面
+
+直接双击 `index.html` 也可以使用。现代 Chromium 浏览器下已验证 `file://` 方式可以打开 IndexedDB。若浏览器限制本地文件存储，请改用 `start.cmd` 或 `npm start`。
+
+## 数据保存
+
+| 数据 | 存储位置 |
+|---|---|
+| 历史记录 | 浏览器 `localStorage`：`material-calculator-history-v1` |
+| 自定义参数 | 浏览器 `localStorage`：`material-calculator-parameters-v1` |
+
+历史记录和参数都以 JSON 文件备份/恢复，备份格式与 MatManager 原计算模块兼容。
+
+> **重要**：浏览器本地数据按“地址来源”隔离。固定使用 `http://127.0.0.1:4173/`，不要在不同端口、`file://` 和 `http://` 之间来回切换，否则会看到不同的数据。更换电脑或浏览器前，请分别导出历史记录和参数备份。
+
+## 示例
+
+选择 **201 / 双排 / 第 2 套圆片密度高级算法**，输入：
+
+| 输入 | 值 |
+|---|---:|
+| 厚度 | 0.3 mm |
+| 宽度 | 600 mm |
+| 材料重量 | 100 kg |
+
+默认参数下结果：
+
+- 剪口：**320 mm**
+- 第 2 套单重：**0.1912 kg/个**
+- 预计圆片数量：**430 个**
+- 角料比例系数：**0.12**（双排）
+- 角料重量：**12 kg**（100 kg × 0.12）
+
+## 角料重量口径
+
+角料重量只跟冲料方式和材料总重有关，与选哪套单重公式无关：
+
+| 冲料方式 | 角料比例系数 | 角料重量公式 |
+| --- | ---: | --- |
+| 双排 | 0.12 | 材料重量 × 0.12 |
+| 单排 | 0.22 | 材料重量 × 0.22 |
+
+- 第 3 套方片公式（仅单排）同样按材料总重算角料，例如 100 kg 单排材料角料 22 kg。
+- 两个系数在「参数维护」里可以改，范围 0 到 1；改完只影响之后的计算，历史记录保留各自的快照。
+- 升级前（公式版本 2.0.0）的历史记录没有角料字段，详情显示「旧版本记录未含角料数据」，导出时角料两列留空，不按新规则回填。
+
+批量模板表头：
+
+```csv
+材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式
+201,0.3,600,100,双排,2
+```
+
+公式编号：`1` 为圆片密度算法，`2` 为圆片密度高级算法，`3` 仅用于单排的方片密度算法。
+
+## 目录结构
+
+```text
+matmanager-calculator/
+├─ index.html                 # 独立页面
+├─ assets/
+│  ├─ base.css                # 原计算模块样式
+│  ├─ standalone.css          # 独立版外壳样式
+│  └─ favicon.svg
+├─ src/
+│  ├─ calculation.js          # 公式与校验
+│  ├─ parameter-store.js      # 参数存储
+│  ├─ parameter-ui.js         # 参数维护界面
+│  ├─ batch-data.js           # 批量解析与计算
+│  ├─ history-store.js        # 历史记录存储
+│  ├─ result-output.js        # CSV/XLSX/打印
+│  ├─ workflow.js             # 页面流程
+│  └─ app.js                  # 单次计算入口
+├─ vendor/
+│  ├─ xlsx.full.min.js        # SheetJS 0.20.3
+│  ├─ SHEETJS-LICENSE.txt
+│  └─ THIRD-PARTY-NOTICES.txt
+├─ test/smoke.js              # 无浏览器冒烟测试
+├─ server.js                  # 零依赖静态服务器
+├─ start.cmd
+├─ package.json
+└─ README.md
+```
+
+## 开发与验证
+
+```powershell
+npm test
+```
+
+测试覆盖：示例单次计算、角料重量（双排 12 kg / 单排 22 kg）、批量计算、第 3 套公式限制、CSV 模板表头、导出表头与旧记录兼容。
+
+也可以直接用原项目浏览器验收方式检查页面：单次计算、批量导入、历史备份/恢复、参数备份/恢复。
+
+## 边界
+
+- 本项目只包含“数据计算”，不包含材料管理、供应商、进销存、订单、库存、财务或桌面自动更新。
+- 计算结果用于估算，不替代实际称重、工艺或财务核算。
+- 数据保存在本机浏览器，不提供账号、权限、多人协作或服务端同步。
+- 计算规则与 MatManager 0.2.0 的独立计算模块保持一致；未在此项目中重新定义业务口径（角料比例按帝君 2026-11-14 的口径新增）。
+
+## 许可与来源
+
+项目自有代码和文档沿用 MIT License。随附的 SheetJS 库保留 Apache 2.0 许可及版权声明，详见 `vendor/` 下的许可与第三方声明。
+
+计算模块提取自 MatManager 0.2.0（仓库：`Yujay-Si/MatManager`）。

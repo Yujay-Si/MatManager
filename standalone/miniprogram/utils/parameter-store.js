@@ -1,1 +1,222 @@
-J3VzZSBzdHJpY3QnOwoKLyoqCiAqIOWPguaVsOe7tOaKpCDCtyDmnKzlnLDlj4LmlbDlrZjlgqjvvIjlvq7kv6HlsI/nqIvluo/niYjvvIkKICog5LiO5Y6fIFdlYiDniYggc3JjL3BhcmFtZXRlci1zdG9yZS5qcyDnrYnku7fvvIzlrZjlgqjku4votKjmjaLmiJAgd3gg5pys5Zyw57yT5a2Y44CCCiAqIOWFs+mUrue6puadn+S/neaMgeS4jeWPmO+8muS/ruiuouWPt+S5kOingumUgeOAgeWtl+auteiMg+WbtOagoemqjOOAgeWPmOabtOWJjeW/hemhu+aYvuekuuaWsOaXp+WAvOOAggogKi8KCnZhciBjYWxjdWxhdGlvbiA9IHJlcXVpcmUoJy4vY2FsY3VsYXRpb24nKTsKdmFyIHN0b3JhZ2UgPSByZXF1aXJlKCcuL3N0b3JhZ2UnKTsKCnZhciBTVE9SQUdFX0tFWSA9ICdtYXRlcmlhbC1jYWxjdWxhdG9yLXBhcmFtZXRlcnMtdjEnOwp2YXIgZGVmYXVsdHMgPSBjYWxjdWxhdGlvbi5ERUZBVUxUX1BBUkFNRVRFUlM7Cgp2YXIgRklFTERTID0gT2JqZWN0LmZyZWV6ZShbCiAgeyBrZXk6ICdtYXRlcmlhbHMuNDEwLnJhZGl1cycsIGxhYmVsOiAnNDEwIOesrCAxIOWll+WvhuW6puezu+aVsCcsIGtpbmQ6ICdtYXRlcmlhbCcgfSwKICB7IGtleTogJ21hdGVyaWFscy40MTAuc3F1YXJlJywgbGFiZWw6ICc0MTAg56ysIDIg5aWX5a+G5bqm57O75pWwJywga2luZDogJ21hdGVyaWFsJyB9LAogIHsga2V5OiAnbWF0ZXJpYWxzLjIwMS5yYWRpdXMnLCBsYWJlbDogJzIwMSDnrKwgMSDlpZflr4bluqbns7vmlbAnLCBraW5kOiAnbWF0ZXJpYWwnIH0sCiAgeyBrZXk6ICdtYXRlcmlhbHMuMjAxLnNxdWFyZScsIGxhYmVsOiAnMjAxIOesrCAyIOWll+WvhuW6puezu+aVsCcsIGtpbmQ6ICdtYXRlcmlhbCcgfSwKICB7IGtleTogJ21hdGVyaWFscy4zMDQucmFkaXVzJywgbGFiZWw6ICczMDQg56ysIDEg5aWX5a+G5bqm57O75pWwJywga2luZDogJ21hdGVyaWFsJyB9LAogIHsga2V5OiAnbWF0ZXJpYWxzLjMwNC5zcXVhcmUnLCBsYWJlbDogJzMwNCDnrKwgMiDlpZflr4bluqbns7vmlbAnLCBraW5kOiAnbWF0ZXJpYWwnIH0sCiAgeyBrZXk6ICdtYXRlcmlhbHMuMzE2LnJhZGl1cycsIGxhYmVsOiAnMzE2IOesrCAxIOWll+WvhuW6puezu+aVsCcsIGtpbmQ6ICdtYXRlcmlhbCcgfSwKICB7IGtleTogJ21hdGVyaWFscy4zMTYuc3F1YXJlJywgbGFiZWw6ICczMTYg56ysIDIg5aWX5a+G5bqm57O75pWwJywga2luZDogJ21hdGVyaWFsJyB9LAogIHsga2V5OiAnbW9kZXMuc2luZ2xlLnVzYWJsZUZhY3RvcicsIGxhYmVsOiAn5Y2V5o6S5Yay5paZ5ZyG54mH5q+U5L6L57O75pWwJywga2luZDogJ3VzYWJsZScgfSwKICB7IGtleTogJ21vZGVzLnNpbmdsZS5zY3JhcFJhdGlvJywgbGFiZWw6ICfljZXmjpLop5Lmlpnmr5Tkvovns7vmlbAnLCBraW5kOiAnc2NyYXAnIH0sCiAgeyBrZXk6ICdtb2Rlcy5kb3VibGUudXNhYmxlRmFjdG9yJywgbGFiZWw6ICflj4zmjpLlhrLmlpnlnIbniYfmr5Tkvovns7vmlbAnLCBraW5kOiAndXNhYmxlJyB9LAogIHsga2V5OiAnbW9kZXMuZG91YmxlLnNjcmFwUmF0aW8nLCBsYWJlbDogJ+WPjOaOkuinkuaWmeavlOS+i+ezu+aVsCcsIGtpbmQ6ICdzY3JhcCcgfSwKICB7IGtleTogJ21vZGVzLmRvdWJsZS53aWR0aERpdmlzb3InLCBsYWJlbDogJ+WPjOaOkuWJquWPo+aNoueul+WAvCcsIGtpbmQ6ICdkaXZpc29yJyB9Cl0pOwoKZnVuY3Rpb24gdmFsdWVBdChvYmplY3QsIGtleSkgewogIHJldHVybiBrZXkuc3BsaXQoJy4nKS5yZWR1Y2UoZnVuY3Rpb24gKHBhcnQsIG5hbWUpIHsKICAgIHJldHVybiBwYXJ0ICYmIHBhcnRbbmFtZV07CiAgfSwgb2JqZWN0KTsKfQoKZnVuY3Rpb24gZWRpdGFibGVWYWx1ZXMocGFyYW1ldGVycykgewogIHZhciB2YWx1ZXMgPSB7fTsKICBmb3IgKHZhciBpID0gMDsgaSA8IEZJRUxEUy5sZW5ndGg7IGkgKz0gMSkgewogICAgdmFsdWVzW0ZJRUxEU1tpXS5rZXldID0gdmFsdWVBdChwYXJhbWV0ZXJzLCBGSUVMRFNbaV0ua2V5KTsKICB9CiAgcmV0dXJuIHZhbHVlczsKfQoKZnVuY3Rpb24gdmFsaWRhdGVWYWx1ZXModmFsdWVzKSB7CiAgaWYgKCF2YWx1ZXMgfHwgdHlwZW9mIHZhbHVlcyAhPT0gJ29iamVjdCcpIHRocm93IG5ldyBFcnJvcign5Y+C5pWw5pWw5o2u57y65aSx44CCJyk7CiAgdmFyIGNsZWFuID0ge307CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBGSUVMRFMubGVuZ3RoOyBpICs9IDEpIHsKICAgIHZhciBmaWVsZCA9IEZJRUxEU1tpXTsKICAgIHZhciByYXcgPSB2YWx1ZXNbZmllbGQua2V5XTsKICAgIGlmIChyYXcgPT09ICcnIHx8IHJhdyA9PT0gbnVsbCB8fCByYXcgPT09IHVuZGVmaW5lZCB8fCB0eXBlb2YgcmF3ID09PSAnYm9vbGVhbicpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGZpZWxkLmxhYmVsICsgJ+S4jeiDveS4uuepuuOAgicpOwogICAgfQogICAgdmFyIG51bWJlciA9IE51bWJlcihyYXcpOwogICAgaWYgKCFpc0Zpbml0ZShudW1iZXIpKSB0aHJvdyBuZXcgRXJyb3IoZmllbGQubGFiZWwgKyAn5b+F6aG75piv5pyJ5pWI5pWw5a2X44CCJyk7CiAgICBpZiAoZmllbGQua2luZCA9PT0gJ21hdGVyaWFsJyAmJiAhKG51bWJlciA+IDAgJiYgbnVtYmVyIDw9IDEwMDApKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihmaWVsZC5sYWJlbCArICfpobvlpKfkuo4gMCDkuJTkuI3otoXov4cgMTAwMOOAgicpOwogICAgfQogICAgaWYgKGZpZWxkLmtpbmQgPT09ICd1c2FibGUnICYmICEobnVtYmVyID4gMCAmJiBudW1iZXIgPD0gMSkpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGZpZWxkLmxhYmVsICsgJ+mhu+Wkp+S6jiAwIOS4lOS4jei2hei/hyAx44CCJyk7CiAgICB9CiAgICBpZiAoZmllbGQua2luZCA9PT0gJ3NjcmFwJyAmJiAhKG51bWJlciA+PSAwICYmIG51bWJlciA8PSAxKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoZmllbGQubGFiZWwgKyAn6aG75ZyoIDAg5YiwIDEg5LmL6Ze044CCJyk7CiAgICB9CiAgICBpZiAoZmllbGQua2luZCA9PT0gJ2Rpdmlzb3InICYmICEobnVtYmVyID49IDEgJiYgbnVtYmVyIDw9IDEwMCkpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGZpZWxkLmxhYmVsICsgJ+mhu+WcqCAxIOWIsCAxMDAg5LmL6Ze044CCJyk7CiAgICB9CiAgICBjbGVhbltmaWVsZC5rZXldID0gbnVtYmVyOwogIH0KICByZXR1cm4gY2xlYW47Cn0KCmZ1bmN0aW9uIGJ1aWxkUGFyYW1ldGVycyh2YWx1ZXMsIHJldmlzaW9uLCB1cGRhdGVkQXQpIHsKICB2YXIgbWF0ZXJpYWxzID0ge307CiAgdmFyIGxpc3QgPSBbJzQxMCcsICcyMDEnLCAnMzA0JywgJzMxNiddOwogIGZvciAodmFyIGkgPSAwOyBpIDwgbGlzdC5sZW5ndGg7IGkgKz0gMSkgewogICAgdmFyIG1hdGVyaWFsID0gbGlzdFtpXTsKICAgIG1hdGVyaWFsc1ttYXRlcmlhbF0gPSB7CiAgICAgIHNxdWFyZTogdmFsdWVzWydtYXRlcmlhbHMuJyArIG1hdGVyaWFsICsgJy5zcXVhcmUnXSwKICAgICAgcmFkaXVzOiB2YWx1ZXNbJ21hdGVyaWFscy4nICsgbWF0ZXJpYWwgKyAnLnJhZGl1cyddCiAgICB9OwogIH0KICByZXR1cm4gewogICAgbWF0ZXJpYWxzOiBtYXRlcmlhbHMsCiAgICBtb2RlczogewogICAgICBzaW5nbGU6IHsKICAgICAgICB3aWR0aERpdmlzb3I6IDEsCiAgICAgICAgdXNhYmxlRmFjdG9yOiB2YWx1ZXNbJ21vZGVzLnNpbmdsZS51c2FibGVGYWN0b3InXSwKICAgICAgICBzY3JhcFJhdGlvOiB2YWx1ZXNbJ21vZGVzLnNpbmdsZS5zY3JhcFJhdGlvJ10KICAgICAgfSwKICAgICAgZG91YmxlOiB7CiAgICAgICAgd2lkdGhEaXZpc29yOiB2YWx1ZXNbJ21vZGVzLmRvdWJsZS53aWR0aERpdmlzb3InXSwKICAgICAgICB1c2FibGVGYWN0b3I6IHZhbHVlc1snbW9kZXMuZG91YmxlLnVzYWJsZUZhY3RvciddLAogICAgICAgIHNjcmFwUmF0aW86IHZhbHVlc1snbW9kZXMuZG91YmxlLnNjcmFwUmF0aW8nXQogICAgICB9CiAgICB9LAogICAgY3V0U3RlcDogZGVmYXVsdHMuY3V0U3RlcCwKICAgIHBpOiBkZWZhdWx0cy5waSwKICAgIHJldmlzaW9uOiByZXZpc2lvbiwKICAgIHVwZGF0ZWRBdDogdXBkYXRlZEF0CiAgfTsKfQoKLy8g5pen54mI5pys55qE5Y+C5pWw57yT5a2Y6YeM5rKh5pyJ6KeS5paZ5q+U5L6L5a2X5q6177ya6K+75Y+W5pe25YWI55So6buY6K6k5YC86KGl6b2Q77yM6YG/5YWN5Y2H57qn5ZCO5pW06aG15oqlIuWPguaVsOagvOW8j+W8guW4uCLjgIIKZnVuY3Rpb24gd2l0aERlZmF1bHRzKHZhbHVlcykgewogIHZhciBtZXJnZWQgPSBlZGl0YWJsZVZhbHVlcyhkZWZhdWx0cyk7CiAgaWYgKCF2YWx1ZXMgfHwgdHlwZW9mIHZhbHVlcyAhPT0gJ29iamVjdCcgfHwgT2JqZWN0LnByb3RvdHlwZS50b1N0cmluZy5jYWxsKHZhbHVlcykgPT09ICdbb2JqZWN0IEFycmF5XScpIHJldHVybiBtZXJnZWQ7CiAgT2JqZWN0LmtleXModmFsdWVzKS5mb3JFYWNoKGZ1bmN0aW9uIChrZXkpIHsKICAgIG1lcmdlZFtrZXldID0gdmFsdWVzW2tleV07CiAgfSk7CiAgcmV0dXJuIG1lcmdlZDsKfQoKZnVuY3Rpb24gcmVhZFN0YXRlKCkgewogIHZhciByYXc7CiAgdHJ5IHsKICAgIHJhdyA9IHN0b3JhZ2UuZ2V0SXRlbShTVE9SQUdFX0tFWSk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIHRocm93IG5ldyBFcnJvcign5peg5rOV6K+75Y+W5pys5Zyw5Y+C5pWw77yM6K+35qOA5p+l5bCP56iL5bqP55qE5a2Y5YKo5p2D6ZmQ44CCJyk7CiAgfQogIGlmIChyYXcgPT09IG51bGwgfHwgcmF3ID09PSB1bmRlZmluZWQgfHwgcmF3ID09PSAnJykgewogICAgcmV0dXJuIHsKICAgICAgcmV2aXNpb246IDAsCiAgICAgIHVwZGF0ZWRBdDogbnVsbCwKICAgICAgcGFyYW1ldGVyczogYnVpbGRQYXJhbWV0ZXJzKGVkaXRhYmxlVmFsdWVzKGRlZmF1bHRzKSwgMCwgbnVsbCkKICAgIH07CiAgfQogIHRyeSB7CiAgICB2YXIgc3RvcmVkID0gdHlwZW9mIHJhdyA9PT0gJ3N0cmluZycgPyBKU09OLnBhcnNlKHJhdykgOiByYXc7CiAgICBpZiAoIXN0b3JlZCB8fCBzdG9yZWQuc2NoZW1hICE9PSAxIHx8CiAgICAgICAgdHlwZW9mIHN0b3JlZC5yZXZpc2lvbiAhPT0gJ251bWJlcicgfHwgTWF0aC5mbG9vcihzdG9yZWQucmV2aXNpb24pICE9PSBzdG9yZWQucmV2aXNpb24gfHwgc3RvcmVkLnJldmlzaW9uIDwgMSB8fAogICAgICAgIHR5cGVvZiBzdG9yZWQudXBkYXRlZEF0ICE9PSAnc3RyaW5nJyB8fCBpc05hTihEYXRlLnBhcnNlKHN0b3JlZC51cGRhdGVkQXQpKSB8fAogICAgICAgICFzdG9yZWQudmFsdWVzIHx8IHR5cGVvZiBzdG9yZWQudmFsdWVzICE9PSAnb2JqZWN0JyB8fCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoc3RvcmVkLnZhbHVlcykgPT09ICdbb2JqZWN0IEFycmF5XScpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCdpbnZhbGlkJyk7CiAgICB9CiAgICB2YXIgdmFsdWVzID0gdmFsaWRhdGVWYWx1ZXMod2l0aERlZmF1bHRzKHN0b3JlZC52YWx1ZXMpKTsKICAgIHJldHVybiB7CiAgICAgIHJldmlzaW9uOiBzdG9yZWQucmV2aXNpb24sCiAgICAgIHVwZGF0ZWRBdDogc3RvcmVkLnVwZGF0ZWRBdCwKICAgICAgcGFyYW1ldGVyczogYnVpbGRQYXJhbWV0ZXJzKHZhbHVlcywgc3RvcmVkLnJldmlzaW9uLCBzdG9yZWQudXBkYXRlZEF0KQogICAgfTsKICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEVycm9yKCfmnKzlnLDlj4LmlbDmoLzlvI/lvILluLjjgILkuLrpgb/lhY3opobnm5bljp/mlbDmja7vvIzlt7LlgZzmraLorqHnrpflkozlj4LmlbDkv67mlLnjgIInKTsKICB9Cn0KCmZ1bmN0aW9uIHdyaXRlVmFsdWVzKHZhbHVlcywgZXhwZWN0ZWRSZXZpc2lvbikgewogIHZhciBjdXJyZW50ID0gcmVhZFN0YXRlKCk7CiAgaWYgKGN1cnJlbnQucmV2aXNpb24gIT09IGV4cGVjdGVkUmV2aXNpb24pIHsKICAgIHRocm93IG5ldyBFcnJvcign5Y+C5pWw5bey5Zyo5YW25LuW6aG16Z2i5pu05paw77yM6K+36L+U5Zue5Y+C5pWw57u05oqk6aG15Yi35paw5ZCO6YeN6K+V44CCJyk7CiAgfQogIHZhciBjbGVhbiA9IHZhbGlkYXRlVmFsdWVzKHZhbHVlcyk7CiAgdmFyIGJlZm9yZSA9IGVkaXRhYmxlVmFsdWVzKGN1cnJlbnQucGFyYW1ldGVycyk7CiAgdmFyIHVuY2hhbmdlZCA9IHRydWU7CiAgZm9yICh2YXIgaSA9IDA7IGkgPCBGSUVMRFMubGVuZ3RoOyBpICs9IDEpIHsKICAgIGlmIChjbGVhbltGSUVMRFNbaV0ua2V5XSAhPT0gYmVmb3JlW0ZJRUxEU1tpXS5rZXldKSB7CiAgICAgIHVuY2hhbmdlZCA9IGZhbHNlOwogICAgICBicmVhazsKICAgIH0KICB9CiAgaWYgKHVuY2hhbmdlZCkgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDmsqHmnInlj5jljJbjgIInKTsKCiAgdmFyIG5leHQgPSB7CiAgICBzY2hlbWE6IDEsCiAgICByZXZpc2lvbjogY3VycmVudC5yZXZpc2lvbiArIDEsCiAgICB1cGRhdGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgIHZhbHVlczogY2xlYW4KICB9OwogIHRyeSB7CiAgICBzdG9yYWdlLnNldEl0ZW0oU1RPUkFHRV9LRVksIEpTT04uc3RyaW5naWZ5KG5leHQpKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDkv53lrZjlpLHotKXvvJrmnKzlnLDlrZjlgqjkuI3lj6/nlKjmiJbnqbrpl7TkuI3otrPjgILljp/lj4LmlbDmnKrmlLnlj5jjgIInKTsKICB9CiAgcmV0dXJuIHJlYWRTdGF0ZSgpOwp9CgpmdW5jdGlvbiByZXN0b3JlRGVmYXVsdHMoZXhwZWN0ZWRSZXZpc2lvbikgewogIHJldHVybiB3cml0ZVZhbHVlcyhlZGl0YWJsZVZhbHVlcyhkZWZhdWx0cyksIGV4cGVjdGVkUmV2aXNpb24pOwp9CgpmdW5jdGlvbiBleHBvcnRCYWNrdXAoKSB7CiAgdmFyIHN0YXRlID0gcmVhZFN0YXRlKCk7CiAgcmV0dXJuIHsKICAgIGZvcm1hdDogJ21hdGVyaWFsLWNhbGN1bGF0b3ItcGFyYW1ldGVycycsCiAgICB2ZXJzaW9uOiAxLAogICAgZXhwb3J0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgdmFsdWVzOiBlZGl0YWJsZVZhbHVlcyhzdGF0ZS5wYXJhbWV0ZXJzKQogIH07Cn0KCmZ1bmN0aW9uIGltcG9ydEJhY2t1cChiYWNrdXAsIGV4cGVjdGVkUmV2aXNpb24pIHsKICBpZiAoIWJhY2t1cCB8fCBiYWNrdXAuZm9ybWF0ICE9PSAnbWF0ZXJpYWwtY2FsY3VsYXRvci1wYXJhbWV0ZXJzJyB8fCBiYWNrdXAudmVyc2lvbiAhPT0gMSkgewogICAgdGhyb3cgbmV3IEVycm9yKCflj4LmlbDlpIfku73moLzlvI/ml6DmlYjvvIzmnKrkv67mlLnlvZPliY3lj4LmlbDjgIInKTsKICB9CiAgcmV0dXJuIHdyaXRlVmFsdWVzKHZhbGlkYXRlVmFsdWVzKHdpdGhEZWZhdWx0cyhiYWNrdXAudmFsdWVzKSksIGV4cGVjdGVkUmV2aXNpb24pOwp9CgovKiog6KGo5Y2V5beu5byC5paH5qGI77yM55So5LqO5L+d5a2YL+aBouWkjeWJjeeahOehruiupOW8ueeql+OAgiAqLwpmdW5jdGlvbiBkZXNjcmliZUNoYW5nZXMoYmVmb3JlLCBhZnRlcikgewogIHZhciBsaW5lcyA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgRklFTERTLmxlbmd0aDsgaSArPSAxKSB7CiAgICB2YXIgZmllbGQgPSBGSUVMRFNbaV07CiAgICBpZiAoYmVmb3JlW2ZpZWxkLmtleV0gIT09IGFmdGVyW2ZpZWxkLmtleV0pIHsKICAgICAgbGluZXMucHVzaChmaWVsZC5sYWJlbCArICfvvJonICsgYmVmb3JlW2ZpZWxkLmtleV0gKyAnIOKGkiAnICsgYWZ0ZXJbZmllbGQua2V5XSk7CiAgICB9CiAgfQogIHJldHVybiBsaW5lczsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgU1RPUkFHRV9LRVk6IFNUT1JBR0VfS0VZLAogIEZJRUxEUzogRklFTERTLAogIHZhbHVlQXQ6IHZhbHVlQXQsCiAgZWRpdGFibGVWYWx1ZXM6IGVkaXRhYmxlVmFsdWVzLAogIHZhbGlkYXRlVmFsdWVzOiB2YWxpZGF0ZVZhbHVlcywKICByZWFkU3RhdGU6IHJlYWRTdGF0ZSwKICB3cml0ZVZhbHVlczogd3JpdGVWYWx1ZXMsCiAgcmVzdG9yZURlZmF1bHRzOiByZXN0b3JlRGVmYXVsdHMsCiAgZXhwb3J0QmFja3VwOiBleHBvcnRCYWNrdXAsCiAgaW1wb3J0QmFja3VwOiBpbXBvcnRCYWNrdXAsCiAgZGVzY3JpYmVDaGFuZ2VzOiBkZXNjcmliZUNoYW5nZXMKfTsK
+'use strict';
+
+/**
+ * 参数维护 · 本地参数存储（微信小程序版）
+ * 与原 Web 版 src/parameter-store.js 等价，存储介质换成 wx 本地缓存。
+ * 关键约束保持不变：修订号乐观锁、字段范围校验、变更前必须显示新旧值。
+ */
+
+var calculation = require('./calculation');
+var storage = require('./storage');
+
+var STORAGE_KEY = 'material-calculator-parameters-v1';
+var defaults = calculation.DEFAULT_PARAMETERS;
+
+var FIELDS = Object.freeze([
+  { key: 'materials.410.radius', label: '410 第 1 套密度系数', kind: 'material' },
+  { key: 'materials.410.square', label: '410 第 2 套密度系数', kind: 'material' },
+  { key: 'materials.201.radius', label: '201 第 1 套密度系数', kind: 'material' },
+  { key: 'materials.201.square', label: '201 第 2 套密度系数', kind: 'material' },
+  { key: 'materials.304.radius', label: '304 第 1 套密度系数', kind: 'material' },
+  { key: 'materials.304.square', label: '304 第 2 套密度系数', kind: 'material' },
+  { key: 'materials.316.radius', label: '316 第 1 套密度系数', kind: 'material' },
+  { key: 'materials.316.square', label: '316 第 2 套密度系数', kind: 'material' },
+  { key: 'modes.single.usableFactor', label: '单排冲料圆片比例系数', kind: 'usable' },
+  { key: 'modes.single.scrapRatio', label: '单排角料比例系数', kind: 'scrap' },
+  { key: 'modes.double.usableFactor', label: '双排冲料圆片比例系数', kind: 'usable' },
+  { key: 'modes.double.scrapRatio', label: '双排角料比例系数', kind: 'scrap' },
+  { key: 'modes.double.widthDivisor', label: '双排剪口换算值', kind: 'divisor' }
+]);
+
+function valueAt(object, key) {
+  return key.split('.').reduce(function (part, name) {
+    return part && part[name];
+  }, object);
+}
+
+function editableValues(parameters) {
+  var values = {};
+  for (var i = 0; i < FIELDS.length; i += 1) {
+    values[FIELDS[i].key] = valueAt(parameters, FIELDS[i].key);
+  }
+  return values;
+}
+
+function validateValues(values) {
+  if (!values || typeof values !== 'object') throw new Error('参数数据缺失。');
+  var clean = {};
+  for (var i = 0; i < FIELDS.length; i += 1) {
+    var field = FIELDS[i];
+    var raw = values[field.key];
+    if (raw === '' || raw === null || raw === undefined || typeof raw === 'boolean') {
+      throw new Error(field.label + '不能为空。');
+    }
+    var number = Number(raw);
+    if (!isFinite(number)) throw new Error(field.label + '必须是有效数字。');
+    if (field.kind === 'material' && !(number > 0 && number <= 1000)) {
+      throw new Error(field.label + '须大于 0 且不超过 1000。');
+    }
+    if (field.kind === 'usable' && !(number > 0 && number <= 1)) {
+      throw new Error(field.label + '须大于 0 且不超过 1。');
+    }
+    if (field.kind === 'scrap' && !(number >= 0 && number <= 1)) {
+      throw new Error(field.label + '须在 0 到 1 之间。');
+    }
+    if (field.kind === 'divisor' && !(number >= 1 && number <= 100)) {
+      throw new Error(field.label + '须在 1 到 100 之间。');
+    }
+    clean[field.key] = number;
+  }
+  return clean;
+}
+
+function buildParameters(values, revision, updatedAt) {
+  var materials = {};
+  var list = ['410', '201', '304', '316'];
+  for (var i = 0; i < list.length; i += 1) {
+    var material = list[i];
+    materials[material] = {
+      square: values['materials.' + material + '.square'],
+      radius: values['materials.' + material + '.radius']
+    };
+  }
+  return {
+    materials: materials,
+    modes: {
+      single: {
+        widthDivisor: 1,
+        usableFactor: values['modes.single.usableFactor'],
+        scrapRatio: values['modes.single.scrapRatio']
+      },
+      double: {
+        widthDivisor: values['modes.double.widthDivisor'],
+        usableFactor: values['modes.double.usableFactor'],
+        scrapRatio: values['modes.double.scrapRatio']
+      }
+    },
+    cutStep: defaults.cutStep,
+    pi: defaults.pi,
+    revision: revision,
+    updatedAt: updatedAt
+  };
+}
+
+// 旧版本的参数缓存里没有角料比例字段：读取时先用默认值补齐，避免升级后整页报"参数格式异常"。
+function withDefaults(values) {
+  var merged = editableValues(defaults);
+  if (!values || typeof values !== 'object' || Object.prototype.toString.call(values) === '[object Array]') return merged;
+  Object.keys(values).forEach(function (key) {
+    merged[key] = values[key];
+  });
+  return merged;
+}
+
+function readState() {
+  var raw;
+  try {
+    raw = storage.getItem(STORAGE_KEY);
+  } catch (error) {
+    throw new Error('无法读取本地参数，请检查小程序的存储权限。');
+  }
+  if (raw === null || raw === undefined || raw === '') {
+    return {
+      revision: 0,
+      updatedAt: null,
+      parameters: buildParameters(editableValues(defaults), 0, null)
+    };
+  }
+  try {
+    var stored = typeof raw === 'string' ? JSON.parse(raw) : raw;
+    if (!stored || stored.schema !== 1 ||
+        typeof stored.revision !== 'number' || Math.floor(stored.revision) !== stored.revision || stored.revision < 1 ||
+        typeof stored.updatedAt !== 'string' || isNaN(Date.parse(stored.updatedAt)) ||
+        !stored.values || typeof stored.values !== 'object' || Object.prototype.toString.call(stored.values) === '[object Array]') {
+      throw new Error('invalid');
+    }
+    var values = validateValues(withDefaults(stored.values));
+    return {
+      revision: stored.revision,
+      updatedAt: stored.updatedAt,
+      parameters: buildParameters(values, stored.revision, stored.updatedAt)
+    };
+  } catch (error) {
+    throw new Error('本地参数格式异常。为避免覆盖原数据，已停止计算和参数修改。');
+  }
+}
+
+function writeValues(values, expectedRevision) {
+  var current = readState();
+  if (current.revision !== expectedRevision) {
+    throw new Error('参数已在其他页面更新，请返回参数维护页刷新后重试。');
+  }
+  var clean = validateValues(values);
+  var before = editableValues(current.parameters);
+  var unchanged = true;
+  for (var i = 0; i < FIELDS.length; i += 1) {
+    if (clean[FIELDS[i].key] !== before[FIELDS[i].key]) {
+      unchanged = false;
+      break;
+    }
+  }
+  if (unchanged) throw new Error('参数没有变化。');
+
+  var next = {
+    schema: 1,
+    revision: current.revision + 1,
+    updatedAt: new Date().toISOString(),
+    values: clean
+  };
+  try {
+    storage.setItem(STORAGE_KEY, JSON.stringify(next));
+  } catch (error) {
+    throw new Error('参数保存失败：本地存储不可用或空间不足。原参数未改变。');
+  }
+  return readState();
+}
+
+function restoreDefaults(expectedRevision) {
+  return writeValues(editableValues(defaults), expectedRevision);
+}
+
+function exportBackup() {
+  var state = readState();
+  return {
+    format: 'material-calculator-parameters',
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    values: editableValues(state.parameters)
+  };
+}
+
+function importBackup(backup, expectedRevision) {
+  if (!backup || backup.format !== 'material-calculator-parameters' || backup.version !== 1) {
+    throw new Error('参数备份格式无效，未修改当前参数。');
+  }
+  return writeValues(validateValues(withDefaults(backup.values)), expectedRevision);
+}
+
+/** 表单差异文案，用于保存/恢复前的确认弹窗。 */
+function describeChanges(before, after) {
+  var lines = [];
+  for (var i = 0; i < FIELDS.length; i += 1) {
+    var field = FIELDS[i];
+    if (before[field.key] !== after[field.key]) {
+      lines.push(field.label + '：' + before[field.key] + ' → ' + after[field.key]);
+    }
+  }
+  return lines;
+}
+
+module.exports = {
+  STORAGE_KEY: STORAGE_KEY,
+  FIELDS: FIELDS,
+  valueAt: valueAt,
+  editableValues: editableValues,
+  validateValues: validateValues,
+  readState: readState,
+  writeValues: writeValues,
+  restoreDefaults: restoreDefaults,
+  exportBackup: exportBackup,
+  importBackup: importBackup,
+  describeChanges: describeChanges
+};

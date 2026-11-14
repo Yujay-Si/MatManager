@@ -1,1 +1,99 @@
-KGZ1bmN0aW9uIChnbG9iYWwpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IFNUT1JBR0VfS0VZID0gJ21hdGVyaWFsLWNhbGN1bGF0b3ItaGlzdG9yeS12MSc7CiAgY29uc3QgTUFYX1JFQ09SRFMgPSA1MDA7CgogIGZ1bmN0aW9uIHZhbGlkUmVjb3JkKHJlY29yZCkgewogICAgaWYgKCFyZWNvcmQgfHwgdHlwZW9mIHJlY29yZC5pZCAhPT0gJ3N0cmluZycgfHwgIXJlY29yZC5pZCB8fCByZWNvcmQuaWQubGVuZ3RoID4gMjAwIHx8ICFyZWNvcmQucmVzdWx0KSByZXR1cm4gZmFsc2U7CiAgICBjb25zdCByZXN1bHQgPSByZWNvcmQucmVzdWx0OwogICAgY29uc3QgaW5wdXQgPSByZXN1bHQuaW5wdXQ7CiAgICBjb25zdCBwYXJhbWV0ZXJzID0gcmVzdWx0LnBhcmFtZXRlcnM7CiAgICByZXR1cm4gaW5wdXQgJiYgcGFyYW1ldGVycyAmJgogICAgICBbJzQxMCcsICcyMDEnLCAnMzA0JywgJzMxNiddLmluY2x1ZGVzKGlucHV0Lm1hdGVyaWFsKSAmJgogICAgICBbJ3NpbmdsZScsICdkb3VibGUnXS5pbmNsdWRlcyhpbnB1dC5tb2RlKSAmJgogICAgICBbMSwgMiwgM10uaW5jbHVkZXMoTnVtYmVyKGlucHV0LmZvcm11bGEpKSAmJgogICAgICBOdW1iZXIuaXNGaW5pdGUoaW5wdXQudGhpY2tuZXNzKSAmJiBpbnB1dC50aGlja25lc3MgPiAwICYmCiAgICAgIE51bWJlci5pc0Zpbml0ZShpbnB1dC53aWR0aCkgJiYgaW5wdXQud2lkdGggPiAwICYmCiAgICAgIE51bWJlci5pc0Zpbml0ZShpbnB1dC53ZWlnaHQpICYmIGlucHV0LndlaWdodCA+IDAgJiYKICAgICAgdHlwZW9mIHJlc3VsdC5mb3JtdWxhVmVyc2lvbiA9PT0gJ3N0cmluZycgJiYgL15cZCtcLi8udGVzdChyZXN1bHQuZm9ybXVsYVZlcnNpb24pICYmCiAgICAgIHR5cGVvZiByZXN1bHQuY2FsY3VsYXRlZEF0ID09PSAnc3RyaW5nJyAmJiAhTnVtYmVyLmlzTmFOKERhdGUucGFyc2UocmVzdWx0LmNhbGN1bGF0ZWRBdCkpICYmCiAgICAgIE51bWJlci5pc1NhZmVJbnRlZ2VyKHJlc3VsdC5xdWFudGl0eSkgJiYgcmVzdWx0LnF1YW50aXR5ID49IDAgJiYKICAgICAgTnVtYmVyLmlzRmluaXRlKHJlc3VsdC5jdXQpICYmIHJlc3VsdC5jdXQgPiAwICYmCiAgICAgIE51bWJlci5pc0Zpbml0ZShyZXN1bHQuc2VsZWN0ZWRVbml0V2VpZ2h0KSAmJiByZXN1bHQuc2VsZWN0ZWRVbml0V2VpZ2h0ID4gMCAmJgogICAgICBbJ3NxdWFyZUZhY3RvcicsICdyYWRpdXNGYWN0b3InLCAnd2lkdGhEaXZpc29yJywgJ3VzYWJsZUZhY3RvcicsICdjdXRTdGVwJywgJ3BpJ10KICAgICAgICAuZXZlcnkoa2V5ID0+IE51bWJlci5pc0Zpbml0ZShwYXJhbWV0ZXJzW2tleV0pICYmIHBhcmFtZXRlcnNba2V5XSA+IDApOwogIH0KCiAgZnVuY3Rpb24gcmVhZFJlY29yZHMoKSB7CiAgICBsZXQgcmF3OwogICAgdHJ5IHsKICAgICAgcmF3ID0gZ2xvYmFsLmxvY2FsU3RvcmFnZS5nZXRJdGVtKFNUT1JBR0VfS0VZKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5peg5rOV6K+75Y+W5pys5Zyw5Y6G5Y+y5a2Y5YKo77yM6K+35qOA5p+l5b2T5YmN5bqU55So55qE5pys5Zyw5pWw5o2u5p2D6ZmQ44CCJyk7CiAgICB9CiAgICBpZiAocmF3ID09PSBudWxsKSByZXR1cm4gW107CiAgICB0cnkgewogICAgICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShyYXcpOwogICAgICBpZiAoIUFycmF5LmlzQXJyYXkoZGF0YSkgfHwgZGF0YS5sZW5ndGggPiBNQVhfUkVDT1JEUyB8fCAhZGF0YS5ldmVyeSh2YWxpZFJlY29yZCkpIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ2ludmFsaWQgaGlzdG9yeScpOwogICAgICB9CiAgICAgIHJldHVybiBkYXRhOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfljoblj7LmlbDmja7moLzlvI/lvILluLjjgILkuLrpgb/lhY3opobnm5bljp/mlbDmja7vvIzlt7LlgZzmraLljoblj7LlhpnlhaXjgIInKTsKICAgIH0KICB9CgogIGZ1bmN0aW9uIHdyaXRlUmVjb3JkcyhyZWNvcmRzKSB7CiAgICB0cnkgewogICAgICBnbG9iYWwubG9jYWxTdG9yYWdlLnNldEl0ZW0oU1RPUkFHRV9LRVksIEpTT04uc3RyaW5naWZ5KHJlY29yZHMpKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5Y6G5Y+y5L+d5a2Y5aSx6LSl77ya5pys5Zyw5a2Y5YKo5LiN5Y+v55So5oiW56m66Ze05LiN6Laz44CC6K6h566X57uT5p6c5LuN5Y+v5p+l55yL44CCJyk7CiAgICB9CiAgfQoKICBmdW5jdGlvbiBuZXdJZCgpIHsKICAgIGlmIChnbG9iYWwuY3J5cHRvICYmIHR5cGVvZiBnbG9iYWwuY3J5cHRvLnJhbmRvbVVVSUQgPT09ICdmdW5jdGlvbicpIHJldHVybiBnbG9iYWwuY3J5cHRvLnJhbmRvbVVVSUQoKTsKICAgIHJldHVybiBgJHtEYXRlLm5vdygpfS0ke01hdGgucmFuZG9tKCkudG9TdHJpbmcoMzYpLnNsaWNlKDIpfWA7CiAgfQoKICBmdW5jdGlvbiBhZGRSZXN1bHRzKHJlc3VsdHMpIHsKICAgIGlmICghQXJyYXkuaXNBcnJheShyZXN1bHRzKSB8fCByZXN1bHRzLmxlbmd0aCA9PT0gMCkgcmV0dXJuIDA7CiAgICBjb25zdCByZWNvcmRzID0gcmVhZFJlY29yZHMoKTsKICAgIGlmIChyZWNvcmRzLmxlbmd0aCArIHJlc3VsdHMubGVuZ3RoID4gTUFYX1JFQ09SRFMpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGDljoblj7LmnIDlpJrkv53lrZggJHtNQVhfUkVDT1JEU30g5p2h77yb5pys5qyh57uT5p6c5pyq5YaZ5YWl77yM6K+35YWI5aSH5Lu95bm25Yig6Zmk5LiN6ZyA6KaB55qE5pen6K6w5b2V44CCYCk7CiAgICB9CiAgICBjb25zdCBhZGRpdGlvbnMgPSByZXN1bHRzLm1hcChyZXN1bHQgPT4gKHsgaWQ6IG5ld0lkKCksIHJlc3VsdDogSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShyZXN1bHQpKSB9KSk7CiAgICB3cml0ZVJlY29yZHMoYWRkaXRpb25zLmNvbmNhdChyZWNvcmRzKSk7CiAgICByZXR1cm4gYWRkaXRpb25zLmxlbmd0aDsKICB9CgogIGZ1bmN0aW9uIHJlbW92ZShpZCkgewogICAgY29uc3QgcmVjb3JkcyA9IHJlYWRSZWNvcmRzKCk7CiAgICBjb25zdCBuZXh0ID0gcmVjb3Jkcy5maWx0ZXIocmVjb3JkID0+IHJlY29yZC5pZCAhPT0gaWQpOwogICAgaWYgKG5leHQubGVuZ3RoID09PSByZWNvcmRzLmxlbmd0aCkgdGhyb3cgbmV3IEVycm9yKCfmnKrmib7liLDopoHliKDpmaTnmoTljoblj7LorrDlvZXjgIInKTsKICAgIHdyaXRlUmVjb3JkcyhuZXh0KTsKICB9CgogIGZ1bmN0aW9uIGltcG9ydEJhY2t1cChiYWNrdXApIHsKICAgIGlmICghYmFja3VwIHx8IGJhY2t1cC5mb3JtYXQgIT09ICdtYXRlcmlhbC1jYWxjdWxhdG9yLWhpc3RvcnknIHx8IGJhY2t1cC52ZXJzaW9uICE9PSAxIHx8CiAgICAgICAgIUFycmF5LmlzQXJyYXkoYmFja3VwLnJlY29yZHMpIHx8IGJhY2t1cC5yZWNvcmRzLmxlbmd0aCA+IE1BWF9SRUNPUkRTIHx8ICFiYWNrdXAucmVjb3Jkcy5ldmVyeSh2YWxpZFJlY29yZCkpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfljoblj7LlpIfku73moLzlvI/ml6DmlYjvvIzmnKrlhpnlhaXku7vkvZXorrDlvZXjgIInKTsKICAgIH0KICAgIGNvbnN0IGV4aXN0aW5nID0gcmVhZFJlY29yZHMoKTsKICAgIGNvbnN0IGlkcyA9IG5ldyBTZXQoZXhpc3RpbmcubWFwKHJlY29yZCA9PiByZWNvcmQuaWQpKTsKICAgIGNvbnN0IGFkZGl0aW9ucyA9IFtdOwogICAgZm9yIChjb25zdCByZWNvcmQgb2YgYmFja3VwLnJlY29yZHMpIHsKICAgICAgaWYgKGlkcy5oYXMocmVjb3JkLmlkKSkgY29udGludWU7CiAgICAgIGlkcy5hZGQocmVjb3JkLmlkKTsKICAgICAgYWRkaXRpb25zLnB1c2gocmVjb3JkKTsKICAgIH0KICAgIGlmIChleGlzdGluZy5sZW5ndGggKyBhZGRpdGlvbnMubGVuZ3RoID4gTUFYX1JFQ09SRFMpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGDlr7zlhaXlkI7lsIbotoXov4cgJHtNQVhfUkVDT1JEU30g5p2h5Y6G5Y+y5LiK6ZmQ77yM5pyq5YaZ5YWl5Lu75L2V6K6w5b2V44CCYCk7CiAgICB9CiAgICBpZiAoYWRkaXRpb25zLmxlbmd0aCA+IDApIHdyaXRlUmVjb3JkcyhhZGRpdGlvbnMuY29uY2F0KGV4aXN0aW5nKSk7CiAgICByZXR1cm4geyBpbXBvcnRlZDogYWRkaXRpb25zLmxlbmd0aCwgc2tpcHBlZDogYmFja3VwLnJlY29yZHMubGVuZ3RoIC0gYWRkaXRpb25zLmxlbmd0aCB9OwogIH0KCiAgZ2xvYmFsLkhpc3RvcnlTdG9yZSA9IE9iamVjdC5mcmVlemUoeyByZWFkUmVjb3JkcywgYWRkUmVzdWx0cywgcmVtb3ZlLCBpbXBvcnRCYWNrdXAsIE1BWF9SRUNPUkRTLCBTVE9SQUdFX0tFWSB9KTsKfSkodHlwZW9mIHdpbmRvdyA9PT0gJ3VuZGVmaW5lZCcgPyBnbG9iYWxUaGlzIDogd2luZG93KTsK
+(function (global) {
+  'use strict';
+
+  const STORAGE_KEY = 'material-calculator-history-v1';
+  const MAX_RECORDS = 500;
+
+  function validRecord(record) {
+    if (!record || typeof record.id !== 'string' || !record.id || record.id.length > 200 || !record.result) return false;
+    const result = record.result;
+    const input = result.input;
+    const parameters = result.parameters;
+    return input && parameters &&
+      ['410', '201', '304', '316'].includes(input.material) &&
+      ['single', 'double'].includes(input.mode) &&
+      [1, 2, 3].includes(Number(input.formula)) &&
+      Number.isFinite(input.thickness) && input.thickness > 0 &&
+      Number.isFinite(input.width) && input.width > 0 &&
+      Number.isFinite(input.weight) && input.weight > 0 &&
+      typeof result.formulaVersion === 'string' && /^\d+\./.test(result.formulaVersion) &&
+      typeof result.calculatedAt === 'string' && !Number.isNaN(Date.parse(result.calculatedAt)) &&
+      Number.isSafeInteger(result.quantity) && result.quantity >= 0 &&
+      Number.isFinite(result.cut) && result.cut > 0 &&
+      Number.isFinite(result.selectedUnitWeight) && result.selectedUnitWeight > 0 &&
+      ['squareFactor', 'radiusFactor', 'widthDivisor', 'usableFactor', 'cutStep', 'pi']
+        .every(key => Number.isFinite(parameters[key]) && parameters[key] > 0);
+  }
+
+  function readRecords() {
+    let raw;
+    try {
+      raw = global.localStorage.getItem(STORAGE_KEY);
+    } catch (error) {
+      throw new Error('无法读取本地历史存储，请检查当前应用的本地数据权限。');
+    }
+    if (raw === null) return [];
+    try {
+      const data = JSON.parse(raw);
+      if (!Array.isArray(data) || data.length > MAX_RECORDS || !data.every(validRecord)) {
+        throw new Error('invalid history');
+      }
+      return data;
+    } catch (error) {
+      throw new Error('历史数据格式异常。为避免覆盖原数据，已停止历史写入。');
+    }
+  }
+
+  function writeRecords(records) {
+    try {
+      global.localStorage.setItem(STORAGE_KEY, JSON.stringify(records));
+    } catch (error) {
+      throw new Error('历史保存失败：本地存储不可用或空间不足。计算结果仍可查看。');
+    }
+  }
+
+  function newId() {
+    if (global.crypto && typeof global.crypto.randomUUID === 'function') return global.crypto.randomUUID();
+    return `${Date.now()}-${Math.random().toString(36).slice(2)}`;
+  }
+
+  function addResults(results) {
+    if (!Array.isArray(results) || results.length === 0) return 0;
+    const records = readRecords();
+    if (records.length + results.length > MAX_RECORDS) {
+      throw new Error(`历史最多保存 ${MAX_RECORDS} 条；本次结果未写入，请先备份并删除不需要的旧记录。`);
+    }
+    const additions = results.map(result => ({ id: newId(), result: JSON.parse(JSON.stringify(result)) }));
+    writeRecords(additions.concat(records));
+    return additions.length;
+  }
+
+  function remove(id) {
+    const records = readRecords();
+    const next = records.filter(record => record.id !== id);
+    if (next.length === records.length) throw new Error('未找到要删除的历史记录。');
+    writeRecords(next);
+  }
+
+  function importBackup(backup) {
+    if (!backup || backup.format !== 'material-calculator-history' || backup.version !== 1 ||
+        !Array.isArray(backup.records) || backup.records.length > MAX_RECORDS || !backup.records.every(validRecord)) {
+      throw new Error('历史备份格式无效，未写入任何记录。');
+    }
+    const existing = readRecords();
+    const ids = new Set(existing.map(record => record.id));
+    const additions = [];
+    for (const record of backup.records) {
+      if (ids.has(record.id)) continue;
+      ids.add(record.id);
+      additions.push(record);
+    }
+    if (existing.length + additions.length > MAX_RECORDS) {
+      throw new Error(`导入后将超过 ${MAX_RECORDS} 条历史上限，未写入任何记录。`);
+    }
+    if (additions.length > 0) writeRecords(additions.concat(existing));
+    return { imported: additions.length, skipped: backup.records.length - additions.length };
+  }
+
+  global.HistoryStore = Object.freeze({ readRecords, addResults, remove, importBackup, MAX_RECORDS, STORAGE_KEY });
+})(typeof window === 'undefined' ? globalThis : window);

@@ -1,1 +1,64 @@
-J3VzZSBzdHJpY3QnOwoKY29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnbm9kZTphc3NlcnQvc3RyaWN0Jyk7CnJlcXVpcmUoJy4uL3NyYy9jYWxjdWxhdGlvbi5qcycpOwpyZXF1aXJlKCcuLi9zcmMvYmF0Y2gtZGF0YS5qcycpOwpyZXF1aXJlKCcuLi9zcmMvcmVzdWx0LW91dHB1dC5qcycpOwoKY29uc3QgY2FsY3VsYXRvciA9IGdsb2JhbFRoaXMuTWF0ZXJpYWxDYWxjdWxhdG9yOwpjb25zdCBiYXRjaCA9IGdsb2JhbFRoaXMuQmF0Y2hEYXRhOwpjb25zdCBvdXRwdXQgPSBnbG9iYWxUaGlzLlJlc3VsdE91dHB1dDsKCmNvbnN0IGJhc2UgPSB7CiAgbWF0ZXJpYWw6ICcyMDEnLAogIHRoaWNrbmVzczogJzAuMycsCiAgd2lkdGg6ICc2MDAnLAogIHdlaWdodDogJzEwMCcsCiAgbW9kZTogJ2RvdWJsZScsCiAgZm9ybXVsYTogMgp9OwoKY29uc3QgcmVzdWx0ID0gY2FsY3VsYXRvci5jYWxjdWxhdGUoYmFzZSk7CmFzc2VydC5lcXVhbChyZXN1bHQuY3V0LCAzMjAsICflj4zmjpLliarlj6PlupTkuLogMzIwIG1tJyk7CmFzc2VydC5lcXVhbChyZXN1bHQuc3F1YXJlVW5pdFdlaWdodC50b0ZpeGVkKDQpLCAnMC4xOTEyJywgJ+esrCAyIOWll+WNlemHjeW6lOS/neeVmeWbm+S9jeWwj+aVsOS4uiAwLjE5MTInKTsKYXNzZXJ0LmVxdWFsKHJlc3VsdC5xdWFudGl0eSwgNDMwLCAn56S65L6L6aKE6K6h5pWw6YeP5bqU5Li6IDQzMCDkuKonKTsKYXNzZXJ0LmVxdWFsKHJlc3VsdC5zY3JhcFJhdGlvLCAwLjEyLCAn5Y+M5o6S6KeS5paZ5q+U5L6L5bqU5Li6IDEyJScpOwphc3NlcnQuZXF1YWwoTnVtYmVyKHJlc3VsdC5zY3JhcFdlaWdodC50b1ByZWNpc2lvbigxMikpLCAxMiwgJ+WPjOaOkiAxMDAga2cg5p2Q5paZ55qE6KeS5paZ6YeN6YeP5bqU5Li6IDEyIGtnJyk7Cgpjb25zdCBzaW5nbGVSZXN1bHQgPSBjYWxjdWxhdG9yLmNhbGN1bGF0ZSh7IC4uLmJhc2UsIG1vZGU6ICdzaW5nbGUnLCBmb3JtdWxhOiAxIH0pOwphc3NlcnQuZXF1YWwoc2luZ2xlUmVzdWx0LnNjcmFwUmF0aW8sIDAuMjIsICfljZXmjpLop5Lmlpnmr5TkvovlupTkuLogMjIlJyk7CmFzc2VydC5lcXVhbChOdW1iZXIoc2luZ2xlUmVzdWx0LnNjcmFwV2VpZ2h0LnRvUHJlY2lzaW9uKDEyKSksIDIyLCAn5Y2V5o6SIDEwMCBrZyDmnZDmlpnnmoTop5Lmlpnph43ph4/lupTkuLogMjIga2cnKTsKLy8g56ysIDMg5aWX5pa554mH5YWs5byP5ZCM5qC35oyJ5p2Q5paZ5oC76YeN566X6KeS5paZ44CCCmNvbnN0IHNoZWV0UmVzdWx0ID0gY2FsY3VsYXRvci5jYWxjdWxhdGUoeyAuLi5iYXNlLCBtb2RlOiAnc2luZ2xlJywgZm9ybXVsYTogMyB9KTsKYXNzZXJ0LmVxdWFsKE51bWJlcihzaGVldFJlc3VsdC5zY3JhcFdlaWdodC50b1ByZWNpc2lvbigxMikpLCAyMiwgJ+esrCAzIOWll+inkuaWmemHjemHj+S7jeaMieadkOaWmeaAu+mHjeiuoeeulycpOwoKYXNzZXJ0LnRocm93cygKICAoKSA9PiBjYWxjdWxhdG9yLmNhbGN1bGF0ZSh7IC4uLmJhc2UsIG1vZGU6ICdkb3VibGUnLCBmb3JtdWxhOiAzIH0pLAogIC/nrKwgMyDlpZcvLAogICfnrKwgMyDlpZflhazlvI/lj6rlhYHorrjljZXmjpInCik7Cgpjb25zdCByb3dzID0gYmF0Y2gucm93c0Zyb21UZXh0KAogICfmnZDotKgs5Y6a5bqmKG1tKSzlrr3luqYobW0pLOadkOaWmemHjemHjyhrZyks5Yay5paZ5pa55byPLOWNlemHjeWFrOW8j1xuMjAxLDAuMyw2MDAsMTAwLOWPjOaOkiwyJwopOwpjb25zdCBiYXRjaFJlc3VsdHMgPSBiYXRjaC5jYWxjdWxhdGVSb3dzKHJvd3MsIGlucHV0ID0+IGNhbGN1bGF0b3IuY2FsY3VsYXRlKGlucHV0KSk7CmFzc2VydC5lcXVhbChiYXRjaFJlc3VsdHMubGVuZ3RoLCAxKTsKYXNzZXJ0LmVxdWFsKGJhdGNoUmVzdWx0c1swXS5yZXN1bHQucXVhbnRpdHksIDQzMCwgJ+aJuemHj+iuoeeul+W6lOS4juWNleasoeiuoeeul+S4gOiHtCcpOwoKY29uc3QgdGVtcGxhdGUgPSBiYXRjaC50ZW1wbGF0ZUNzdigpOwphc3NlcnQubWF0Y2godGVtcGxhdGUsIC9e77u/5p2Q6LSoLOWOmuW6plwobW1cKSzlrr3luqZcKG1tXCks5p2Q5paZ6YeN6YePXChrZ1wpLOWGsuaWmeaWueW8jyzljZXph43lhazlvI8vKTsKCmFzc2VydC5vayhvdXRwdXQuSEVBREVSUy5pbmNsdWRlcygn6KeS5paZ6YeN6YePKGtnKScpLCAn5a+85Ye66KGo5aS05bqU5YyF5ZCr6KeS5paZ6YeN6YePJyk7CmNvbnN0IGV4cG9ydGVkUm93ID0gb3V0cHV0LnJlc3VsdFZhbHVlcyhyZXN1bHQpOwphc3NlcnQuZXF1YWwoZXhwb3J0ZWRSb3cubGVuZ3RoLCBvdXRwdXQuSEVBREVSUy5sZW5ndGgsICflr7zlh7rliJfmlbDlupTkuI7ooajlpLTkuIDoh7QnKTsKYXNzZXJ0LmVxdWFsKGV4cG9ydGVkUm93W291dHB1dC5IRUFERVJTLmluZGV4T2YoJ+inkuaWmeavlOS+i+ezu+aVsCcpXSwgMC4xMik7CmFzc2VydC5lcXVhbChOdW1iZXIoZXhwb3J0ZWRSb3dbb3V0cHV0LkhFQURFUlMuaW5kZXhPZign6KeS5paZ6YeN6YePKGtnKScpXS50b1ByZWNpc2lvbigxMikpLCAxMik7Ci8vIOaXp+eJiOacrO+8iDIuMC4w77yJ5Y6G5Y+y6K6w5b2V5rKh5pyJ6KeS5paZ5a2X5q6177ya5a+85Ye655WZ56m677yM5LiN5oyJ5paw6KeE5YiZ5Zue5aGr44CCCmNvbnN0IGxlZ2FjeSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkocmVzdWx0KSk7CmRlbGV0ZSBsZWdhY3kuc2NyYXBSYXRpbzsKZGVsZXRlIGxlZ2FjeS5zY3JhcFdlaWdodDsKZGVsZXRlIGxlZ2FjeS5wYXJhbWV0ZXJzLnNjcmFwUmF0aW87CmNvbnN0IGxlZ2FjeVJvdyA9IG91dHB1dC5yZXN1bHRWYWx1ZXMobGVnYWN5KTsKYXNzZXJ0LmVxdWFsKGxlZ2FjeVJvd1tvdXRwdXQuSEVBREVSUy5pbmRleE9mKCfop5Lmlpnph43ph48oa2cpJyldLCAnJywgJ+aXp+iusOW9leinkuaWmeWIl+W6lOS4uuepuicpOwoKY29uc29sZS5sb2coJ+eLrOeri+iuoeeul+aooeWdl+WGkueDn+a1i+ivlemAmui/h++8muWNleasoSA0MzAg5Liq44CB5om56YePIDQzMCDkuKrjgIHop5LmlpkgMTIvMjIga2fjgIHnrKwgMyDlpZfnuqbmnZ/kuI7mqKHmnb/ooajlpLTlnYfmraPluLjjgIInKTsK
+'use strict';
+
+const assert = require('node:assert/strict');
+require('../src/calculation.js');
+require('../src/batch-data.js');
+require('../src/result-output.js');
+
+const calculator = globalThis.MaterialCalculator;
+const batch = globalThis.BatchData;
+const output = globalThis.ResultOutput;
+
+const base = {
+  material: '201',
+  thickness: '0.3',
+  width: '600',
+  weight: '100',
+  mode: 'double',
+  formula: 2
+};
+
+const result = calculator.calculate(base);
+assert.equal(result.cut, 320, '双排剪口应为 320 mm');
+assert.equal(result.squareUnitWeight.toFixed(4), '0.1912', '第 2 套单重应保留四位小数为 0.1912');
+assert.equal(result.quantity, 430, '示例预计数量应为 430 个');
+assert.equal(result.scrapRatio, 0.12, '双排角料比例应为 12%');
+assert.equal(Number(result.scrapWeight.toPrecision(12)), 12, '双排 100 kg 材料的角料重量应为 12 kg');
+
+const singleResult = calculator.calculate({ ...base, mode: 'single', formula: 1 });
+assert.equal(singleResult.scrapRatio, 0.22, '单排角料比例应为 22%');
+assert.equal(Number(singleResult.scrapWeight.toPrecision(12)), 22, '单排 100 kg 材料的角料重量应为 22 kg');
+// 第 3 套方片公式同样按材料总重算角料。
+const sheetResult = calculator.calculate({ ...base, mode: 'single', formula: 3 });
+assert.equal(Number(sheetResult.scrapWeight.toPrecision(12)), 22, '第 3 套角料重量仍按材料总重计算');
+
+assert.throws(
+  () => calculator.calculate({ ...base, mode: 'double', formula: 3 }),
+  /第 3 套/,
+  '第 3 套公式只允许单排'
+);
+
+const rows = batch.rowsFromText(
+  '材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式\n201,0.3,600,100,双排,2'
+);
+const batchResults = batch.calculateRows(rows, input => calculator.calculate(input));
+assert.equal(batchResults.length, 1);
+assert.equal(batchResults[0].result.quantity, 430, '批量计算应与单次计算一致');
+
+const template = batch.templateCsv();
+assert.match(template, /^﻿材质,厚度\(mm\),宽度\(mm\),材料重量\(kg\),冲料方式,单重公式/);
+
+assert.ok(output.HEADERS.includes('角料重量(kg)'), '导出表头应包含角料重量');
+const exportedRow = output.resultValues(result);
+assert.equal(exportedRow.length, output.HEADERS.length, '导出列数应与表头一致');
+assert.equal(exportedRow[output.HEADERS.indexOf('角料比例系数')], 0.12);
+assert.equal(Number(exportedRow[output.HEADERS.indexOf('角料重量(kg)')].toPrecision(12)), 12);
+// 旧版本（2.0.0）历史记录没有角料字段：导出留空，不按新规则回填。
+const legacy = JSON.parse(JSON.stringify(result));
+delete legacy.scrapRatio;
+delete legacy.scrapWeight;
+delete legacy.parameters.scrapRatio;
+const legacyRow = output.resultValues(legacy);
+assert.equal(legacyRow[output.HEADERS.indexOf('角料重量(kg)')], '', '旧记录角料列应为空');
+
+console.log('独立计算模块冒烟测试通过：单次 430 个、批量 430 个、角料 12/22 kg、第 3 套约束与模板表头均正常。');

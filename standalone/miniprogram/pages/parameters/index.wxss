@@ -1,1 +1,3 @@
-LmZpeGVkLXJ1bGVzIHsKICBtYXJnaW46IDhycHggMCAyNnJweDsKfQo=
+.fixed-rules {
+  margin: 8rpx 0 26rpx;
+}

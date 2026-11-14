@@ -1,1 +1,237 @@
-J3VzZSBzdHJpY3QnOwoKdmFyIGNhbGN1bGF0aW9uID0gcmVxdWlyZSgnLi4vLi4vdXRpbHMvY2FsY3VsYXRpb24nKTsKdmFyIHBhcmFtZXRlclN0b3JlID0gcmVxdWlyZSgnLi4vLi4vdXRpbHMvcGFyYW1ldGVyLXN0b3JlJyk7CnZhciBoaXN0b3J5U3RvcmUgPSByZXF1aXJlKCcuLi8uLi91dGlscy9oaXN0b3J5LXN0b3JlJyk7CnZhciBiYXRjaERhdGEgPSByZXF1aXJlKCcuLi8uLi91dGlscy9iYXRjaC1kYXRhJyk7CnZhciByZXN1bHRPdXRwdXQgPSByZXF1aXJlKCcuLi8uLi91dGlscy9yZXN1bHQtb3V0cHV0Jyk7CnZhciBmb3JtYXQgPSByZXF1aXJlKCcuLi8uLi91dGlscy9mb3JtYXQnKTsKdmFyIGZpbGVTaGFyZSA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL2ZpbGUtc2hhcmUnKTsKCmZ1bmN0aW9uIHNpemVUZXh0KGJ5dGVzKSB7CiAgaWYgKGJ5dGVzIDwgMTAyNCkgcmV0dXJuIGJ5dGVzICsgJyBCJzsKICBpZiAoYnl0ZXMgPCAxMDI0ICogMTAyNCkgcmV0dXJuIChieXRlcyAvIDEwMjQpLnRvRml4ZWQoMSkgKyAnIEtCJzsKICByZXR1cm4gKGJ5dGVzIC8gMTAyNCAvIDEwMjQpLnRvRml4ZWQoMikgKyAnIE1CJzsKfQoKUGFnZSh7CiAgZGF0YTogewogICAgdGV4dDogJycsCiAgICBmaWxlTmFtZTogJycsCiAgICBmaWxlU2l6ZVRleHQ6ICcnLAogICAgcm93czogW10sCiAgICBzdW1tYXJ5OiAnJywKICAgIHN0YXR1czogJycsCiAgICBzdGF0dXNFcnJvcjogZmFsc2UKICB9LAoKICBpbXBvcnRlZFJvd3M6IG51bGwsCiAgdmFsaWRSZXN1bHRzOiBbXSwKICBpbnZhbGlkUm93czogW10sCgogIG9uVGV4dElucHV0OiBmdW5jdGlvbiAoZXZlbnQpIHsKICAgIHRoaXMuaW1wb3J0ZWRSb3dzID0gbnVsbDsKICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgIHRleHQ6IGV2ZW50LmRldGFpbC52YWx1ZSwKICAgICAgZmlsZU5hbWU6ICcnLAogICAgICBmaWxlU2l6ZVRleHQ6ICcnLAogICAgICBzdGF0dXM6ICcnLAogICAgICBzdGF0dXNFcnJvcjogZmFsc2UKICAgIH0pOwogIH0sCgogIG9uQ29weVRlbXBsYXRlOiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgdGVtcGxhdGUgPSBiYXRjaERhdGEudGVtcGxhdGVDc3YoKS5yZXBsYWNlKC9eXHVGRUZGLywgJycpOwogICAgZmlsZVNoYXJlLmNvcHlUZXh0KHRlbXBsYXRlLCAn5qih5p2/5bey5aSN5Yi2JykKICAgICAgLmNhdGNoKGZ1bmN0aW9uIChlcnJvcikgewogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiBlcnJvci5tZXNzYWdlLCBpY29uOiAnbm9uZScgfSk7CiAgICAgIH0pOwogIH0sCgogIG9uU2F2ZVRlbXBsYXRlOiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICBmaWxlU2hhcmUuZXhwb3J0VGV4dEZpbGUoJ+adkOaWmeaJuemHj+WvvOWFpeaooeadvy5jc3YnLCBiYXRjaERhdGEudGVtcGxhdGVDc3YoKSwgewogICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICgpIHsKICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6ICfmqKHmnb/mlofku7blt7Llj5HpgIHliLDogYrlpKnvvIzlj6/lnKjnlLXohJHnq6/kv53lrZjlkI7loavlhpnjgIInLCBzdGF0dXNFcnJvcjogZmFsc2UgfSk7CiAgICAgIH0sCiAgICAgIG9uQ2FuY2VsOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiAn5bey5Y+W5raI5a+85Ye644CCJywgc3RhdHVzRXJyb3I6IGZhbHNlIH0pOwogICAgICB9LAogICAgICBvbkVycm9yOiBmdW5jdGlvbiAoZXJyb3IpIHsKICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6IGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgICB9CiAgICB9KTsKICB9LAoKICBvbkNob29zZUZpbGU6IGZ1bmN0aW9uICgpIHsKICAgIHZhciBzZWxmID0gdGhpczsKICAgIGlmICh0eXBlb2Ygd3guY2hvb3NlTWVzc2FnZUZpbGUgIT09ICdmdW5jdGlvbicpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgc3RhdHVzOiAn5b2T5YmN5b6u5L+h54mI5pys5LiN5pSv5oyB6YCJ5oup5paH5Lu277yM6K+35pS555So57KY6LS05pWw5o2u44CCJywgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHd4LmNob29zZU1lc3NhZ2VGaWxlKHsKICAgICAgY291bnQ6IDEsCiAgICAgIHR5cGU6ICdmaWxlJywKICAgICAgZXh0ZW5zaW9uOiBbJ2NzdiddLAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgdmFyIGZpbGUgPSByZXN1bHQudGVtcEZpbGVzICYmIHJlc3VsdC50ZW1wRmlsZXNbMF07CiAgICAgICAgaWYgKCFmaWxlKSByZXR1cm47CiAgICAgICAgaWYgKGZpbGUuc2l6ZSA+IGJhdGNoRGF0YS5NQVhfRklMRV9CWVRFUykgewogICAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiAn5paH5Lu26LaF6L+HIDIgTUIg5LiK6ZmQ44CCJywgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICB2YXIgdGV4dCA9IHd4LmdldEZpbGVTeXN0ZW1NYW5hZ2VyKCkucmVhZEZpbGVTeW5jKGZpbGUucGF0aCwgJ3V0Zi04Jyk7CiAgICAgICAgICB2YXIgcm93cyA9IGJhdGNoRGF0YS5yb3dzRnJvbVRleHQodGV4dCk7CiAgICAgICAgICBzZWxmLmltcG9ydGVkUm93cyA9IHJvd3M7CiAgICAgICAgICBzZWxmLnNldERhdGEoewogICAgICAgICAgICB0ZXh0OiAnJywKICAgICAgICAgICAgZmlsZU5hbWU6IGZpbGUubmFtZSwKICAgICAgICAgICAgZmlsZVNpemVUZXh0OiBzaXplVGV4dChmaWxlLnNpemUpLAogICAgICAgICAgICBzdGF0dXM6ICflt7Lor7vlj5YgJyArIGZpbGUubmFtZSArICfvvIzngrnlh7vjgIzorqHnrpfmibnph4/mlbDmja7jgI3mn6XnnIvpgJDooYznu5PmnpzjgIInLAogICAgICAgICAgICBzdGF0dXNFcnJvcjogZmFsc2UKICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICBzZWxmLmltcG9ydGVkUm93cyA9IG51bGw7CiAgICAgICAgICBzZWxmLnNldERhdGEoewogICAgICAgICAgICBzdGF0dXM6IGVycm9yLm1lc3NhZ2UgfHwgJ+ivu+WPluaWh+S7tuWksei0pe+8jOivt+ehruiupOaWh+S7tuS4uiBVVEYtOCDnvJbnoIHnmoQgQ1NW44CCJywKICAgICAgICAgICAgc3RhdHVzRXJyb3I6IHRydWUKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfSwKICAgICAgZmFpbDogZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgdmFyIG1lc3NhZ2UgPSAoZXJyb3IgJiYgZXJyb3IuZXJyTXNnKSB8fCAnJzsKICAgICAgICBpZiAobWVzc2FnZS5pbmRleE9mKCdjYW5jZWwnKSAhPT0gLTEpIHJldHVybjsKICAgICAgICBzZWxmLnNldERhdGEoeyBzdGF0dXM6ICfpgInmi6nmlofku7blpLHotKXvvJonICsgbWVzc2FnZSwgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIH0KICAgIH0pOwogIH0sCgogIG9uUnVuOiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgcm93czsKICAgIHRyeSB7CiAgICAgIHJvd3MgPSB0aGlzLmltcG9ydGVkUm93cyB8fCBiYXRjaERhdGEucm93c0Zyb21UZXh0KHRoaXMuZGF0YS50ZXh0KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRoaXMuc2V0RGF0YSh7IHN0YXR1czogZXJyb3IubWVzc2FnZSwgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICB2YXIgcGFyYW1ldGVyczsKICAgIHRyeSB7CiAgICAgIHBhcmFtZXRlcnMgPSBwYXJhbWV0ZXJTdG9yZS5yZWFkU3RhdGUoKS5wYXJhbWV0ZXJzOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgc3RhdHVzOiBlcnJvci5tZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIHZhciBvdXRjb21lOwogICAgdHJ5IHsKICAgICAgb3V0Y29tZSA9IGJhdGNoRGF0YS5jYWxjdWxhdGVSb3dzKHJvd3MsIGZ1bmN0aW9uIChpbnB1dCkgewogICAgICAgIHJldHVybiBjYWxjdWxhdGlvbi5jYWxjdWxhdGUoaW5wdXQsIHBhcmFtZXRlcnMpOwogICAgICB9KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRoaXMuc2V0RGF0YSh7IHN0YXR1czogZXJyb3IubWVzc2FnZSwgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICB2YXIgdmFsaWQgPSBbXTsKICAgIHZhciBpbnZhbGlkID0gW107CiAgICB2YXIgdmlld1Jvd3MgPSBvdXRjb21lLm1hcChmdW5jdGlvbiAocm93KSB7CiAgICAgIGlmIChyb3cucmVzdWx0KSB7CiAgICAgICAgdmFsaWQucHVzaChyb3cucmVzdWx0KTsKICAgICAgICByZXR1cm4gewogICAgICAgICAgbGluZTogcm93LmxpbmUsCiAgICAgICAgICBtYXRlcmlhbDogcm93LnJlc3VsdC5pbnB1dC5tYXRlcmlhbCwKICAgICAgICAgIHRoaWNrbmVzczogcm93LnJlc3VsdC5pbnB1dC50aGlja25lc3MsCiAgICAgICAgICB3aWR0aDogcm93LnJlc3VsdC5pbnB1dC53aWR0aCwKICAgICAgICAgIHdlaWdodDogcm93LnJlc3VsdC5pbnB1dC53ZWlnaHQsCiAgICAgICAgICBtb2RlVGV4dDogcm93LnJlc3VsdC5pbnB1dC5tb2RlID09PSAnc2luZ2xlJyA/ICfljZXmjpInIDogJ+WPjOaOkicsCiAgICAgICAgICBjdXQ6IHJvdy5yZXN1bHQuY3V0LAogICAgICAgICAgcXVhbnRpdHlUZXh0OiBmb3JtYXQudGhvdXNhbmRzKHJvdy5yZXN1bHQucXVhbnRpdHkpLAogICAgICAgICAgc2NyYXBUZXh0OiBmb3JtYXQucHJlY2lzZShyb3cucmVzdWx0LnNjcmFwV2VpZ2h0KSwKICAgICAgICAgIHN0YXRlVGV4dDogcm93LnJlc3VsdC5pbnB1dC5mb3JtdWxhID09PSAzID8gJ+aIkOWKn8K35pa554mHJyA6ICfmiJDlip8nLAogICAgICAgICAgaXNFcnJvcjogZmFsc2UKICAgICAgICB9OwogICAgICB9CiAgICAgIGludmFsaWQucHVzaChyb3cpOwogICAgICByZXR1cm4gewogICAgICAgIGxpbmU6IHJvdy5saW5lLAogICAgICAgIG1hdGVyaWFsOiAocm93LnNvdXJjZSAmJiByb3cuc291cmNlWzBdKSB8fCAn4oCUJywKICAgICAgICB0aGlja25lc3M6IChyb3cuc291cmNlICYmIHJvdy5zb3VyY2VbMV0pIHx8ICfigJQnLAogICAgICAgIHdpZHRoOiAocm93LnNvdXJjZSAmJiByb3cuc291cmNlWzJdKSB8fCAn4oCUJywKICAgICAgICB3ZWlnaHQ6IChyb3cuc291cmNlICYmIHJvdy5zb3VyY2VbM10pIHx8ICfigJQnLAogICAgICAgIG1vZGVUZXh0OiAocm93LnNvdXJjZSAmJiByb3cuc291cmNlWzRdKSB8fCAn4oCUJywKICAgICAgICBjdXQ6ICfigJQnLAogICAgICAgIHF1YW50aXR5VGV4dDogJ+KAlCcsCiAgICAgICAgc2NyYXBUZXh0OiAn4oCUJywKICAgICAgICBzdGF0ZVRleHQ6IHJvdy5lcnJvciwKICAgICAgICBpc0Vycm9yOiB0cnVlCiAgICAgIH07CiAgICB9KTsKCiAgICB0aGlzLnZhbGlkUmVzdWx0cyA9IHZhbGlkOwogICAgdGhpcy5pbnZhbGlkUm93cyA9IGludmFsaWQ7CiAgICB0aGlzLnNldERhdGEoewogICAgICByb3dzOiB2aWV3Um93cywKICAgICAgc3VtbWFyeTogJ+aIkOWKnyAnICsgdmFsaWQubGVuZ3RoICsgJyDmnaEgLyDplJnor68gJyArIGludmFsaWQubGVuZ3RoICsgJyDmnaEnLAogICAgICBzdGF0dXM6ICcnLAogICAgICBzdGF0dXNFcnJvcjogZmFsc2UKICAgIH0pOwoKICAgIGlmICh2YWxpZC5sZW5ndGggPT09IDApIHsKICAgICAgdGhpcy5zZXREYXRhKHsgc3RhdHVzOiAn5rKh5pyJ5Y+v55So55qE5pyJ5pWI6KGM77yM6K+35oyJ6ZSZ6K+v5o+Q56S65L+u5q2j5ZCO6YeN6K+V44CCJywgc3RhdHVzRXJyb3I6IHRydWUgfSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICB0cnkgewogICAgICBoaXN0b3J5U3RvcmUuYWRkUmVzdWx0cyh2YWxpZCk7CiAgICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgICAgc3RhdHVzOiAn5bey5aSE55CGICcgKyBvdXRjb21lLmxlbmd0aCArICcg5p2h77yM5oiQ5Yqf6K6w5b2V5bey5L+d5a2Y5Yiw5Y6G5Y+y44CCJywKICAgICAgICBzdGF0dXNFcnJvcjogaW52YWxpZC5sZW5ndGggPiAwCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgc3RhdHVzOiAn5bey55Sf5oiQ57uT5p6c77yM5L2G5Y6G5Y+y5pyq5L+d5a2Y77yaJyArIGVycm9yLm1lc3NhZ2UsIHN0YXR1c0Vycm9yOiB0cnVlIH0pOwogICAgfQogIH0sCgogIG9uRXhwb3J0Q3N2OiBmdW5jdGlvbiAoKSB7CiAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICBpZiAoIXRoaXMudmFsaWRSZXN1bHRzLmxlbmd0aCkgewogICAgICB3eC5zaG93VG9hc3QoeyB0aXRsZTogJ+ayoeacieacieaViOihjOWPr+WvvOWHuicsIGljb246ICdub25lJyB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgdHJ5IHsKICAgICAgZmlsZVNoYXJlLmV4cG9ydFRleHRGaWxlKCfmibnph4/orqHnrpfnu5PmnpwuY3N2JywgcmVzdWx0T3V0cHV0LmNzdih0aGlzLnZhbGlkUmVzdWx0cyksIHsKICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogJ0NTViDlt7Llj5HpgIHliLDogYrlpKnvvIzlj6/lnKjnlLXohJHnq6/kv53lrZjlkI7nlKggRXhjZWwg5omT5byA44CCJywgc3RhdHVzRXJyb3I6IGZhbHNlIH0pOwogICAgICAgIH0sCiAgICAgICAgb25DYW5jZWw6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHNlbGYuc2V0RGF0YSh7IHN0YXR1czogJ+W3suWPlua2iOWvvOWHuuOAgicsIHN0YXR1c0Vycm9yOiBmYWxzZSB9KTsKICAgICAgICB9LAogICAgICAgIG9uRXJyb3I6IGZ1bmN0aW9uIChlcnJvcikgewogICAgICAgICAgc2VsZi5zZXREYXRhKHsgc3RhdHVzOiBlcnJvci5tZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgICAgICB9CiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgc3RhdHVzOiBlcnJvci5tZXNzYWdlLCBzdGF0dXNFcnJvcjogdHJ1ZSB9KTsKICAgIH0KICB9LAoKICBvbkNvcHlJbnZhbGlkOiBmdW5jdGlvbiAoKSB7CiAgICBpZiAoIXRoaXMuaW52YWxpZFJvd3MubGVuZ3RoKSB7CiAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAn5rKh5pyJ6ZSZ6K+v6KGMJywgaWNvbjogJ25vbmUnIH0pOwogICAgICByZXR1cm47CiAgICB9CiAgICB2YXIgbGluZXMgPSB0aGlzLmludmFsaWRSb3dzLm1hcChmdW5jdGlvbiAocm93KSB7CiAgICAgIHJldHVybiAn56ysICcgKyByb3cubGluZSArICcg6KGM77yaJyArIHJvdy5lcnJvcjsKICAgIH0pOwogICAgZmlsZVNoYXJlLmNvcHlUZXh0KGxpbmVzLmpvaW4oJ1xuJyksICflt7LlpI3liLYnKQogICAgICAuY2F0Y2goZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6IGVycm9yLm1lc3NhZ2UsIGljb246ICdub25lJyB9KTsKICAgICAgfSk7CiAgfSwKCiAgb25TaGFyZUFwcE1lc3NhZ2U6IGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB7IHRpdGxlOiAn5ZyG54mH566X6YePIMK3IOaJuemHj+eul+eJhycsIHBhdGg6ICcvcGFnZXMvYmF0Y2gvaW5kZXgnIH07CiAgfQp9KTsK
+'use strict';
+
+var calculation = require('../../utils/calculation');
+var parameterStore = require('../../utils/parameter-store');
+var historyStore = require('../../utils/history-store');
+var batchData = require('../../utils/batch-data');
+var resultOutput = require('../../utils/result-output');
+var format = require('../../utils/format');
+var fileShare = require('../../utils/file-share');
+
+function sizeText(bytes) {
+  if (bytes < 1024) return bytes + ' B';
+  if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+  return (bytes / 1024 / 1024).toFixed(2) + ' MB';
+}
+
+Page({
+  data: {
+    text: '',
+    fileName: '',
+    fileSizeText: '',
+    rows: [],
+    summary: '',
+    status: '',
+    statusError: false
+  },
+
+  importedRows: null,
+  validResults: [],
+  invalidRows: [],
+
+  onTextInput: function (event) {
+    this.importedRows = null;
+    this.setData({
+      text: event.detail.value,
+      fileName: '',
+      fileSizeText: '',
+      status: '',
+      statusError: false
+    });
+  },
+
+  onCopyTemplate: function () {
+    var template = batchData.templateCsv().replace(/^\uFEFF/, '');
+    fileShare.copyText(template, '模板已复制')
+      .catch(function (error) {
+        wx.showToast({ title: error.message, icon: 'none' });
+      });
+  },
+
+  onSaveTemplate: function () {
+    var self = this;
+    fileShare.exportTextFile('材料批量导入模板.csv', batchData.templateCsv(), {
+      onSuccess: function () {
+        self.setData({ status: '模板文件已发送到聊天，可在电脑端保存后填写。', statusError: false });
+      },
+      onCancel: function () {
+        self.setData({ status: '已取消导出。', statusError: false });
+      },
+      onError: function (error) {
+        self.setData({ status: error.message, statusError: true });
+      }
+    });
+  },
+
+  onChooseFile: function () {
+    var self = this;
+    if (typeof wx.chooseMessageFile !== 'function') {
+      this.setData({ status: '当前微信版本不支持选择文件，请改用粘贴数据。', statusError: true });
+      return;
+    }
+    wx.chooseMessageFile({
+      count: 1,
+      type: 'file',
+      extension: ['csv'],
+      success: function (result) {
+        var file = result.tempFiles && result.tempFiles[0];
+        if (!file) return;
+        if (file.size > batchData.MAX_FILE_BYTES) {
+          self.setData({ status: '文件超过 2 MB 上限。', statusError: true });
+          return;
+        }
+        try {
+          var text = wx.getFileSystemManager().readFileSync(file.path, 'utf-8');
+          var rows = batchData.rowsFromText(text);
+          self.importedRows = rows;
+          self.setData({
+            text: '',
+            fileName: file.name,
+            fileSizeText: sizeText(file.size),
+            status: '已读取 ' + file.name + '，点击「计算批量数据」查看逐行结果。',
+            statusError: false
+          });
+        } catch (error) {
+          self.importedRows = null;
+          self.setData({
+            status: error.message || '读取文件失败，请确认文件为 UTF-8 编码的 CSV。',
+            statusError: true
+          });
+        }
+      },
+      fail: function (error) {
+        var message = (error && error.errMsg) || '';
+        if (message.indexOf('cancel') !== -1) return;
+        self.setData({ status: '选择文件失败：' + message, statusError: true });
+      }
+    });
+  },
+
+  onRun: function () {
+    var rows;
+    try {
+      rows = this.importedRows || batchData.rowsFromText(this.data.text);
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+      return;
+    }
+
+    var parameters;
+    try {
+      parameters = parameterStore.readState().parameters;
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+      return;
+    }
+
+    var outcome;
+    try {
+      outcome = batchData.calculateRows(rows, function (input) {
+        return calculation.calculate(input, parameters);
+      });
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+      return;
+    }
+
+    var valid = [];
+    var invalid = [];
+    var viewRows = outcome.map(function (row) {
+      if (row.result) {
+        valid.push(row.result);
+        return {
+          line: row.line,
+          material: row.result.input.material,
+          thickness: row.result.input.thickness,
+          width: row.result.input.width,
+          weight: row.result.input.weight,
+          modeText: row.result.input.mode === 'single' ? '单排' : '双排',
+          cut: row.result.cut,
+          quantityText: format.thousands(row.result.quantity),
+          scrapText: format.precise(row.result.scrapWeight),
+          stateText: row.result.input.formula === 3 ? '成功·方片' : '成功',
+          isError: false
+        };
+      }
+      invalid.push(row);
+      return {
+        line: row.line,
+        material: (row.source && row.source[0]) || '—',
+        thickness: (row.source && row.source[1]) || '—',
+        width: (row.source && row.source[2]) || '—',
+        weight: (row.source && row.source[3]) || '—',
+        modeText: (row.source && row.source[4]) || '—',
+        cut: '—',
+        quantityText: '—',
+        scrapText: '—',
+        stateText: row.error,
+        isError: true
+      };
+    });
+
+    this.validResults = valid;
+    this.invalidRows = invalid;
+    this.setData({
+      rows: viewRows,
+      summary: '成功 ' + valid.length + ' 条 / 错误 ' + invalid.length + ' 条',
+      status: '',
+      statusError: false
+    });
+
+    if (valid.length === 0) {
+      this.setData({ status: '没有可用的有效行，请按错误提示修正后重试。', statusError: true });
+      return;
+    }
+
+    try {
+      historyStore.addResults(valid);
+      this.setData({
+        status: '已处理 ' + outcome.length + ' 条，成功记录已保存到历史。',
+        statusError: invalid.length > 0
+      });
+    } catch (error) {
+      this.setData({ status: '已生成结果，但历史未保存：' + error.message, statusError: true });
+    }
+  },
+
+  onExportCsv: function () {
+    var self = this;
+    if (!this.validResults.length) {
+      wx.showToast({ title: '没有有效行可导出', icon: 'none' });
+      return;
+    }
+    try {
+      fileShare.exportTextFile('批量计算结果.csv', resultOutput.csv(this.validResults), {
+        onSuccess: function () {
+          self.setData({ status: 'CSV 已发送到聊天，可在电脑端保存后用 Excel 打开。', statusError: false });
+        },
+        onCancel: function () {
+          self.setData({ status: '已取消导出。', statusError: false });
+        },
+        onError: function (error) {
+          self.setData({ status: error.message, statusError: true });
+        }
+      });
+    } catch (error) {
+      this.setData({ status: error.message, statusError: true });
+    }
+  },
+
+  onCopyInvalid: function () {
+    if (!this.invalidRows.length) {
+      wx.showToast({ title: '没有错误行', icon: 'none' });
+      return;
+    }
+    var lines = this.invalidRows.map(function (row) {
+      return '第 ' + row.line + ' 行：' + row.error;
+    });
+    fileShare.copyText(lines.join('\n'), '已复制')
+      .catch(function (error) {
+        wx.showToast({ title: error.message, icon: 'none' });
+      });
+  },
+
+  onShareAppMessage: function () {
+    return { title: '圆片算量 · 批量算片', path: '/pages/batch/index' };
+  }
+});

@@ -1,1 +1,68 @@
-J3VzZSBzdHJpY3QnOwoKLyoqCiAqIOacrOWcsOWtmOWCqOmAgumFjeWxgu+8mgogKiDlsI/nqIvluo/njq/looPotbAgd3guc2V0U3RvcmFnZVN5bmMgLyB3eC5nZXRTdG9yYWdlU3luY++8iOWNlei0puWPtyAxMCBNQu+8jOmaj+Wwj+eoi+W6j+WNuOi9vea4hemZpO+8ie+8jAogKiBOb2RlIOa1i+ivleeOr+Wig+iHquWKqOmAgOWMluS4uuWGheWtmOWtmOWCqO+8jOaWueS+v+WcqOeUteiEkeS4iui3keWGkueDn+a1i+ivleOAggogKi8KCnZhciBtZW1vcnkgPSBPYmplY3QuY3JlYXRlKG51bGwpOwoKZnVuY3Rpb24gaGFzV2VDaGF0U3RvcmFnZSgpIHsKICByZXR1cm4gdHlwZW9mIHd4ICE9PSAndW5kZWZpbmVkJyAmJiB3eCAmJiB0eXBlb2Ygd3guZ2V0U3RvcmFnZVN5bmMgPT09ICdmdW5jdGlvbic7Cn0KCmZ1bmN0aW9uIGdldEl0ZW0oa2V5KSB7CiAgaWYgKGhhc1dlQ2hhdFN0b3JhZ2UoKSkgewogICAgdmFyIHZhbHVlOwogICAgdHJ5IHsKICAgICAgdmFsdWUgPSB3eC5nZXRTdG9yYWdlU3luYyhrZXkpOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfml6Dms5Xor7vlj5bmnKzlnLDmlbDmja7vvIzor7fmo4Dmn6XlsI/nqIvluo/nmoTlrZjlgqjmnYPpmZDjgIInKTsKICAgIH0KICAgIHJldHVybiB2YWx1ZSA9PT0gJycgfHwgdmFsdWUgPT09IG51bGwgfHwgdmFsdWUgPT09IHVuZGVmaW5lZCA/IG51bGwgOiB2YWx1ZTsKICB9CiAgcmV0dXJuIE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChtZW1vcnksIGtleSkgPyBtZW1vcnlba2V5XSA6IG51bGw7Cn0KCmZ1bmN0aW9uIHNldEl0ZW0oa2V5LCB2YWx1ZSkgewogIGlmIChoYXNXZUNoYXRTdG9yYWdlKCkpIHsKICAgIHRyeSB7CiAgICAgIHd4LnNldFN0b3JhZ2VTeW5jKGtleSwgdmFsdWUpOwogICAgICByZXR1cm47CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+acrOWcsOS/neWtmOWksei0pe+8muWtmOWCqOepuumXtOS4jei2s+aIluS4jeWPr+eUqOOAguivt+WFiOWvvOWHuuWkh+S7veW5tua4heeQhuaXp+iusOW9leOAgicpOwogICAgfQogIH0KICBtZW1vcnlba2V5XSA9IHZhbHVlOwp9CgpmdW5jdGlvbiByZW1vdmVJdGVtKGtleSkgewogIGlmIChoYXNXZUNoYXRTdG9yYWdlKCkpIHsKICAgIHRyeSB7CiAgICAgIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKGtleSk7CiAgICAgIHJldHVybjsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5peg5rOV5Yig6Zmk5pys5Zyw5pWw5o2u44CCJyk7CiAgICB9CiAgfQogIGRlbGV0ZSBtZW1vcnlba2V5XTsKfQoKLyoqIOi/lOWbniB7IGN1cnJlbnRTaXplLCBsaW1pdFNpemUgfe+8iOWNleS9jSBLQu+8ie+8m+mdnuW+ruS/oeeOr+Wig+i/lOWbniBudWxs44CCICovCmZ1bmN0aW9uIGluZm8oKSB7CiAgaWYgKCFoYXNXZUNoYXRTdG9yYWdlKCkgfHwgdHlwZW9mIHd4LmdldFN0b3JhZ2VJbmZvU3luYyAhPT0gJ2Z1bmN0aW9uJykgcmV0dXJuIG51bGw7CiAgdHJ5IHsKICAgIHZhciBkYXRhID0gd3guZ2V0U3RvcmFnZUluZm9TeW5jKCk7CiAgICByZXR1cm4geyBjdXJyZW50U2l6ZTogZGF0YS5jdXJyZW50U2l6ZSwgbGltaXRTaXplOiBkYXRhLmxpbWl0U2l6ZSwga2V5czogZGF0YS5rZXlzIHx8IFtdIH07CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIHJldHVybiBudWxsOwogIH0KfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgZ2V0SXRlbTogZ2V0SXRlbSwKICBzZXRJdGVtOiBzZXRJdGVtLAogIHJlbW92ZUl0ZW06IHJlbW92ZUl0ZW0sCiAgaW5mbzogaW5mbwp9Owo=
+'use strict';
+
+/**
+ * 本地存储适配层：
+ * 小程序环境走 wx.setStorageSync / wx.getStorageSync（单账号 10 MB，随小程序卸载清除），
+ * Node 测试环境自动退化为内存存储，方便在电脑上跑冒烟测试。
+ */
+
+var memory = Object.create(null);
+
+function hasWeChatStorage() {
+  return typeof wx !== 'undefined' && wx && typeof wx.getStorageSync === 'function';
+}
+
+function getItem(key) {
+  if (hasWeChatStorage()) {
+    var value;
+    try {
+      value = wx.getStorageSync(key);
+    } catch (error) {
+      throw new Error('无法读取本地数据，请检查小程序的存储权限。');
+    }
+    return value === '' || value === null || value === undefined ? null : value;
+  }
+  return Object.prototype.hasOwnProperty.call(memory, key) ? memory[key] : null;
+}
+
+function setItem(key, value) {
+  if (hasWeChatStorage()) {
+    try {
+      wx.setStorageSync(key, value);
+      return;
+    } catch (error) {
+      throw new Error('本地保存失败：存储空间不足或不可用。请先导出备份并清理旧记录。');
+    }
+  }
+  memory[key] = value;
+}
+
+function removeItem(key) {
+  if (hasWeChatStorage()) {
+    try {
+      wx.removeStorageSync(key);
+      return;
+    } catch (error) {
+      throw new Error('无法删除本地数据。');
+    }
+  }
+  delete memory[key];
+}
+
+/** 返回 { currentSize, limitSize }（单位 KB）；非微信环境返回 null。 */
+function info() {
+  if (!hasWeChatStorage() || typeof wx.getStorageInfoSync !== 'function') return null;
+  try {
+    var data = wx.getStorageInfoSync();
+    return { currentSize: data.currentSize, limitSize: data.limitSize, keys: data.keys || [] };
+  } catch (error) {
+    return null;
+  }
+}
+
+module.exports = {
+  getItem: getItem,
+  setItem: setItem,
+  removeItem: removeItem,
+  info: info
+};

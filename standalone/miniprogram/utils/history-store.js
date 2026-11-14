@@ -1,1 +1,147 @@
-J3VzZSBzdHJpY3QnOwoKLyoqCiAqIOWOhuWPsuiusOW9lSDCtyDmnKzlnLDlrZjlgqjvvIjlvq7kv6HlsI/nqIvluo/niYjvvIkKICog5LiO5Y6fIFdlYiDniYggc3JjL2hpc3Rvcnktc3RvcmUuanMg562J5Lu377ya5pyA5aSaIDUwMCDmnaHjgIHlhpnlhaXliY3lhajph4/moKHpqozjgIEKICog5aSH5Lu95ZCI5bm25a+85YWl44CB6K6w5b2V5LiN5Y+v5Y+Y77yI6YeN5paw6K6h566X5Lya5paw5aKe5LiA5p2h77yJ44CCCiAqLwoKdmFyIHN0b3JhZ2UgPSByZXF1aXJlKCcuL3N0b3JhZ2UnKTsKCnZhciBTVE9SQUdFX0tFWSA9ICdtYXRlcmlhbC1jYWxjdWxhdG9yLWhpc3RvcnktdjEnOwp2YXIgTUFYX1JFQ09SRFMgPSA1MDA7CnZhciBQQVJBTUVURVJfS0VZUyA9IFsnc3F1YXJlRmFjdG9yJywgJ3JhZGl1c0ZhY3RvcicsICd3aWR0aERpdmlzb3InLCAndXNhYmxlRmFjdG9yJywgJ2N1dFN0ZXAnLCAncGknXTsKCmZ1bmN0aW9uIHZhbGlkUmVjb3JkKHJlY29yZCkgewogIGlmICghcmVjb3JkIHx8IHR5cGVvZiByZWNvcmQuaWQgIT09ICdzdHJpbmcnIHx8ICFyZWNvcmQuaWQgfHwgcmVjb3JkLmlkLmxlbmd0aCA+IDIwMCB8fCAhcmVjb3JkLnJlc3VsdCkgcmV0dXJuIGZhbHNlOwogIHZhciByZXN1bHQgPSByZWNvcmQucmVzdWx0OwogIHZhciBpbnB1dCA9IHJlc3VsdC5pbnB1dDsKICB2YXIgcGFyYW1ldGVycyA9IHJlc3VsdC5wYXJhbWV0ZXJzOwogIGlmICghaW5wdXQgfHwgIXBhcmFtZXRlcnMpIHJldHVybiBmYWxzZTsKCiAgaWYgKFsnNDEwJywgJzIwMScsICczMDQnLCAnMzE2J10uaW5kZXhPZihpbnB1dC5tYXRlcmlhbCkgPT09IC0xKSByZXR1cm4gZmFsc2U7CiAgaWYgKFsnc2luZ2xlJywgJ2RvdWJsZSddLmluZGV4T2YoaW5wdXQubW9kZSkgPT09IC0xKSByZXR1cm4gZmFsc2U7CiAgaWYgKFsxLCAyLCAzXS5pbmRleE9mKE51bWJlcihpbnB1dC5mb3JtdWxhKSkgPT09IC0xKSByZXR1cm4gZmFsc2U7CiAgaWYgKCFpc0Zpbml0ZShpbnB1dC50aGlja25lc3MpIHx8IGlucHV0LnRoaWNrbmVzcyA8PSAwKSByZXR1cm4gZmFsc2U7CiAgaWYgKCFpc0Zpbml0ZShpbnB1dC53aWR0aCkgfHwgaW5wdXQud2lkdGggPD0gMCkgcmV0dXJuIGZhbHNlOwogIGlmICghaXNGaW5pdGUoaW5wdXQud2VpZ2h0KSB8fCBpbnB1dC53ZWlnaHQgPD0gMCkgcmV0dXJuIGZhbHNlOwogIGlmICh0eXBlb2YgcmVzdWx0LmZvcm11bGFWZXJzaW9uICE9PSAnc3RyaW5nJyB8fCAhL15cZCtcLi8udGVzdChyZXN1bHQuZm9ybXVsYVZlcnNpb24pKSByZXR1cm4gZmFsc2U7CiAgaWYgKHR5cGVvZiByZXN1bHQuY2FsY3VsYXRlZEF0ICE9PSAnc3RyaW5nJyB8fCBpc05hTihEYXRlLnBhcnNlKHJlc3VsdC5jYWxjdWxhdGVkQXQpKSkgcmV0dXJuIGZhbHNlOwogIGlmICh0eXBlb2YgcmVzdWx0LnF1YW50aXR5ICE9PSAnbnVtYmVyJyB8fCBNYXRoLmZsb29yKHJlc3VsdC5xdWFudGl0eSkgIT09IHJlc3VsdC5xdWFudGl0eSB8fCByZXN1bHQucXVhbnRpdHkgPCAwKSByZXR1cm4gZmFsc2U7CiAgaWYgKCFpc0Zpbml0ZShyZXN1bHQuY3V0KSB8fCByZXN1bHQuY3V0IDw9IDApIHJldHVybiBmYWxzZTsKICBpZiAoIWlzRmluaXRlKHJlc3VsdC5zZWxlY3RlZFVuaXRXZWlnaHQpIHx8IHJlc3VsdC5zZWxlY3RlZFVuaXRXZWlnaHQgPD0gMCkgcmV0dXJuIGZhbHNlOwogIGZvciAodmFyIGkgPSAwOyBpIDwgUEFSQU1FVEVSX0tFWVMubGVuZ3RoOyBpICs9IDEpIHsKICAgIHZhciBrZXkgPSBQQVJBTUVURVJfS0VZU1tpXTsKICAgIGlmICghaXNGaW5pdGUocGFyYW1ldGVyc1trZXldKSB8fCBwYXJhbWV0ZXJzW2tleV0gPD0gMCkgcmV0dXJuIGZhbHNlOwogIH0KICByZXR1cm4gdHJ1ZTsKfQoKZnVuY3Rpb24gcmVhZFJlY29yZHMoKSB7CiAgdmFyIHJhdzsKICB0cnkgewogICAgcmF3ID0gc3RvcmFnZS5nZXRJdGVtKFNUT1JBR0VfS0VZKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEVycm9yKCfml6Dms5Xor7vlj5bmnKzlnLDljoblj7LlrZjlgqjvvIzor7fmo4Dmn6XlsI/nqIvluo/nmoTmnKzlnLDmlbDmja7mnYPpmZDjgIInKTsKICB9CiAgaWYgKHJhdyA9PT0gbnVsbCB8fCByYXcgPT09IHVuZGVmaW5lZCB8fCByYXcgPT09ICcnKSByZXR1cm4gW107CiAgdHJ5IHsKICAgIHZhciBkYXRhID0gdHlwZW9mIHJhdyA9PT0gJ3N0cmluZycgPyBKU09OLnBhcnNlKHJhdykgOiByYXc7CiAgICBpZiAoIUFycmF5LmlzQXJyYXkoZGF0YSkgfHwgZGF0YS5sZW5ndGggPiBNQVhfUkVDT1JEUykgdGhyb3cgbmV3IEVycm9yKCdpbnZhbGlkIGhpc3RvcnknKTsKICAgIGZvciAodmFyIGkgPSAwOyBpIDwgZGF0YS5sZW5ndGg7IGkgKz0gMSkgewogICAgICBpZiAoIXZhbGlkUmVjb3JkKGRhdGFbaV0pKSB0aHJvdyBuZXcgRXJyb3IoJ2ludmFsaWQgaGlzdG9yeScpOwogICAgfQogICAgcmV0dXJuIGRhdGE7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIHRocm93IG5ldyBFcnJvcign5Y6G5Y+y5pWw5o2u5qC85byP5byC5bi444CC5Li66YG/5YWN6KaG55uW5Y6f5pWw5o2u77yM5bey5YGc5q2i5Y6G5Y+y5YaZ5YWl44CCJyk7CiAgfQp9CgpmdW5jdGlvbiB3cml0ZVJlY29yZHMocmVjb3JkcykgewogIHRyeSB7CiAgICBzdG9yYWdlLnNldEl0ZW0oU1RPUkFHRV9LRVksIEpTT04uc3RyaW5naWZ5KHJlY29yZHMpKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEVycm9yKCfljoblj7Lkv53lrZjlpLHotKXvvJrmnKzlnLDlrZjlgqjkuI3lj6/nlKjmiJbnqbrpl7TkuI3otrPjgILorqHnrpfnu5Pmnpzku43lj6/mn6XnnIvjgIInKTsKICB9Cn0KCmZ1bmN0aW9uIG5ld0lkKCkgewogIHJldHVybiBEYXRlLm5vdygpLnRvU3RyaW5nKDM2KSArICctJyArCiAgICBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zbGljZSgyLCAxMCkgKwogICAgTWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc2xpY2UoMiwgMTApOwp9CgpmdW5jdGlvbiBhZGRSZXN1bHRzKHJlc3VsdHMpIHsKICBpZiAoIUFycmF5LmlzQXJyYXkocmVzdWx0cykgfHwgcmVzdWx0cy5sZW5ndGggPT09IDApIHJldHVybiAwOwogIHZhciByZWNvcmRzID0gcmVhZFJlY29yZHMoKTsKICBpZiAocmVjb3Jkcy5sZW5ndGggKyByZXN1bHRzLmxlbmd0aCA+IE1BWF9SRUNPUkRTKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+WOhuWPsuacgOWkmuS/neWtmCAnICsgTUFYX1JFQ09SRFMgKyAnIOadoe+8m+acrOasoee7k+aenOacquWGmeWFpe+8jOivt+WFiOWkh+S7veW5tuWIoOmZpOS4jemcgOimgeeahOaXp+iusOW9leOAgicpOwogIH0KICB2YXIgYWRkaXRpb25zID0gW107CiAgZm9yICh2YXIgaSA9IDA7IGkgPCByZXN1bHRzLmxlbmd0aDsgaSArPSAxKSB7CiAgICBhZGRpdGlvbnMucHVzaCh7IGlkOiBuZXdJZCgpLCByZXN1bHQ6IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkocmVzdWx0c1tpXSkpIH0pOwogIH0KICB3cml0ZVJlY29yZHMoYWRkaXRpb25zLmNvbmNhdChyZWNvcmRzKSk7CiAgcmV0dXJuIGFkZGl0aW9ucy5sZW5ndGg7Cn0KCmZ1bmN0aW9uIHJlbW92ZShpZCkgewogIHZhciByZWNvcmRzID0gcmVhZFJlY29yZHMoKTsKICB2YXIgbmV4dCA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwgcmVjb3Jkcy5sZW5ndGg7IGkgKz0gMSkgewogICAgaWYgKHJlY29yZHNbaV0uaWQgIT09IGlkKSBuZXh0LnB1c2gocmVjb3Jkc1tpXSk7CiAgfQogIGlmIChuZXh0Lmxlbmd0aCA9PT0gcmVjb3Jkcy5sZW5ndGgpIHRocm93IG5ldyBFcnJvcign5pyq5om+5Yiw6KaB5Yig6Zmk55qE5Y6G5Y+y6K6w5b2V44CCJyk7CiAgd3JpdGVSZWNvcmRzKG5leHQpOwp9CgpmdW5jdGlvbiBjbGVhckFsbCgpIHsKICB3cml0ZVJlY29yZHMoW10pOwp9CgpmdW5jdGlvbiBleHBvcnRCYWNrdXAoKSB7CiAgdmFyIHJlY29yZHMgPSByZWFkUmVjb3JkcygpOwogIHJldHVybiB7CiAgICBmb3JtYXQ6ICdtYXRlcmlhbC1jYWxjdWxhdG9yLWhpc3RvcnknLAogICAgdmVyc2lvbjogMSwKICAgIGV4cG9ydGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgIHJlY29yZHM6IHJlY29yZHMKICB9Owp9CgpmdW5jdGlvbiBpbXBvcnRCYWNrdXAoYmFja3VwKSB7CiAgaWYgKCFiYWNrdXAgfHwgYmFja3VwLmZvcm1hdCAhPT0gJ21hdGVyaWFsLWNhbGN1bGF0b3ItaGlzdG9yeScgfHwgYmFja3VwLnZlcnNpb24gIT09IDEgfHwKICAgICAgIUFycmF5LmlzQXJyYXkoYmFja3VwLnJlY29yZHMpIHx8IGJhY2t1cC5yZWNvcmRzLmxlbmd0aCA+IE1BWF9SRUNPUkRTKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+WOhuWPsuWkh+S7veagvOW8j+aXoOaViO+8jOacquWGmeWFpeS7u+S9leiusOW9leOAgicpOwogIH0KICB2YXIgaTsKICBmb3IgKGkgPSAwOyBpIDwgYmFja3VwLnJlY29yZHMubGVuZ3RoOyBpICs9IDEpIHsKICAgIGlmICghdmFsaWRSZWNvcmQoYmFja3VwLnJlY29yZHNbaV0pKSB0aHJvdyBuZXcgRXJyb3IoJ+WOhuWPsuWkh+S7veagvOW8j+aXoOaViO+8jOacquWGmeWFpeS7u+S9leiusOW9leOAgicpOwogIH0KICB2YXIgZXhpc3RpbmcgPSByZWFkUmVjb3JkcygpOwogIHZhciBpZHMgPSB7fTsKICBmb3IgKGkgPSAwOyBpIDwgZXhpc3RpbmcubGVuZ3RoOyBpICs9IDEpIGlkc1tleGlzdGluZ1tpXS5pZF0gPSB0cnVlOwogIHZhciBhZGRpdGlvbnMgPSBbXTsKICBmb3IgKGkgPSAwOyBpIDwgYmFja3VwLnJlY29yZHMubGVuZ3RoOyBpICs9IDEpIHsKICAgIHZhciByZWNvcmQgPSBiYWNrdXAucmVjb3Jkc1tpXTsKICAgIGlmIChpZHNbcmVjb3JkLmlkXSkgY29udGludWU7CiAgICBpZHNbcmVjb3JkLmlkXSA9IHRydWU7CiAgICBhZGRpdGlvbnMucHVzaChyZWNvcmQpOwogIH0KICBpZiAoZXhpc3RpbmcubGVuZ3RoICsgYWRkaXRpb25zLmxlbmd0aCA+IE1BWF9SRUNPUkRTKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+WvvOWFpeWQjuWwhui2hei/hyAnICsgTUFYX1JFQ09SRFMgKyAnIOadoeWOhuWPsuS4iumZkO+8jOacquWGmeWFpeS7u+S9leiusOW9leOAgicpOwogIH0KICBpZiAoYWRkaXRpb25zLmxlbmd0aCA+IDApIHdyaXRlUmVjb3JkcyhhZGRpdGlvbnMuY29uY2F0KGV4aXN0aW5nKSk7CiAgcmV0dXJuIHsgaW1wb3J0ZWQ6IGFkZGl0aW9ucy5sZW5ndGgsIHNraXBwZWQ6IGJhY2t1cC5yZWNvcmRzLmxlbmd0aCAtIGFkZGl0aW9ucy5sZW5ndGggfTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcmVhZFJlY29yZHM6IHJlYWRSZWNvcmRzLAogIGFkZFJlc3VsdHM6IGFkZFJlc3VsdHMsCiAgcmVtb3ZlOiByZW1vdmUsCiAgY2xlYXJBbGw6IGNsZWFyQWxsLAogIGV4cG9ydEJhY2t1cDogZXhwb3J0QmFja3VwLAogIGltcG9ydEJhY2t1cDogaW1wb3J0QmFja3VwLAogIE1BWF9SRUNPUkRTOiBNQVhfUkVDT1JEUywKICBTVE9SQUdFX0tFWTogU1RPUkFHRV9LRVkKfTsK
+'use strict';
+
+/**
+ * 历史记录 · 本地存储（微信小程序版）
+ * 与原 Web 版 src/history-store.js 等价：最多 500 条、写入前全量校验、
+ * 备份合并导入、记录不可变（重新计算会新增一条）。
+ */
+
+var storage = require('./storage');
+
+var STORAGE_KEY = 'material-calculator-history-v1';
+var MAX_RECORDS = 500;
+var PARAMETER_KEYS = ['squareFactor', 'radiusFactor', 'widthDivisor', 'usableFactor', 'cutStep', 'pi'];
+
+function validRecord(record) {
+  if (!record || typeof record.id !== 'string' || !record.id || record.id.length > 200 || !record.result) return false;
+  var result = record.result;
+  var input = result.input;
+  var parameters = result.parameters;
+  if (!input || !parameters) return false;
+
+  if (['410', '201', '304', '316'].indexOf(input.material) === -1) return false;
+  if (['single', 'double'].indexOf(input.mode) === -1) return false;
+  if ([1, 2, 3].indexOf(Number(input.formula)) === -1) return false;
+  if (!isFinite(input.thickness) || input.thickness <= 0) return false;
+  if (!isFinite(input.width) || input.width <= 0) return false;
+  if (!isFinite(input.weight) || input.weight <= 0) return false;
+  if (typeof result.formulaVersion !== 'string' || !/^\d+\./.test(result.formulaVersion)) return false;
+  if (typeof result.calculatedAt !== 'string' || isNaN(Date.parse(result.calculatedAt))) return false;
+  if (typeof result.quantity !== 'number' || Math.floor(result.quantity) !== result.quantity || result.quantity < 0) return false;
+  if (!isFinite(result.cut) || result.cut <= 0) return false;
+  if (!isFinite(result.selectedUnitWeight) || result.selectedUnitWeight <= 0) return false;
+  for (var i = 0; i < PARAMETER_KEYS.length; i += 1) {
+    var key = PARAMETER_KEYS[i];
+    if (!isFinite(parameters[key]) || parameters[key] <= 0) return false;
+  }
+  return true;
+}
+
+function readRecords() {
+  var raw;
+  try {
+    raw = storage.getItem(STORAGE_KEY);
+  } catch (error) {
+    throw new Error('无法读取本地历史存储，请检查小程序的本地数据权限。');
+  }
+  if (raw === null || raw === undefined || raw === '') return [];
+  try {
+    var data = typeof raw === 'string' ? JSON.parse(raw) : raw;
+    if (!Array.isArray(data) || data.length > MAX_RECORDS) throw new Error('invalid history');
+    for (var i = 0; i < data.length; i += 1) {
+      if (!validRecord(data[i])) throw new Error('invalid history');
+    }
+    return data;
+  } catch (error) {
+    throw new Error('历史数据格式异常。为避免覆盖原数据，已停止历史写入。');
+  }
+}
+
+function writeRecords(records) {
+  try {
+    storage.setItem(STORAGE_KEY, JSON.stringify(records));
+  } catch (error) {
+    throw new Error('历史保存失败：本地存储不可用或空间不足。计算结果仍可查看。');
+  }
+}
+
+function newId() {
+  return Date.now().toString(36) + '-' +
+    Math.random().toString(36).slice(2, 10) +
+    Math.random().toString(36).slice(2, 10);
+}
+
+function addResults(results) {
+  if (!Array.isArray(results) || results.length === 0) return 0;
+  var records = readRecords();
+  if (records.length + results.length > MAX_RECORDS) {
+    throw new Error('历史最多保存 ' + MAX_RECORDS + ' 条；本次结果未写入，请先备份并删除不需要的旧记录。');
+  }
+  var additions = [];
+  for (var i = 0; i < results.length; i += 1) {
+    additions.push({ id: newId(), result: JSON.parse(JSON.stringify(results[i])) });
+  }
+  writeRecords(additions.concat(records));
+  return additions.length;
+}
+
+function remove(id) {
+  var records = readRecords();
+  var next = [];
+  for (var i = 0; i < records.length; i += 1) {
+    if (records[i].id !== id) next.push(records[i]);
+  }
+  if (next.length === records.length) throw new Error('未找到要删除的历史记录。');
+  writeRecords(next);
+}
+
+function clearAll() {
+  writeRecords([]);
+}
+
+function exportBackup() {
+  var records = readRecords();
+  return {
+    format: 'material-calculator-history',
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    records: records
+  };
+}
+
+function importBackup(backup) {
+  if (!backup || backup.format !== 'material-calculator-history' || backup.version !== 1 ||
+      !Array.isArray(backup.records) || backup.records.length > MAX_RECORDS) {
+    throw new Error('历史备份格式无效，未写入任何记录。');
+  }
+  var i;
+  for (i = 0; i < backup.records.length; i += 1) {
+    if (!validRecord(backup.records[i])) throw new Error('历史备份格式无效，未写入任何记录。');
+  }
+  var existing = readRecords();
+  var ids = {};
+  for (i = 0; i < existing.length; i += 1) ids[existing[i].id] = true;
+  var additions = [];
+  for (i = 0; i < backup.records.length; i += 1) {
+    var record = backup.records[i];
+    if (ids[record.id]) continue;
+    ids[record.id] = true;
+    additions.push(record);
+  }
+  if (existing.length + additions.length > MAX_RECORDS) {
+    throw new Error('导入后将超过 ' + MAX_RECORDS + ' 条历史上限，未写入任何记录。');
+  }
+  if (additions.length > 0) writeRecords(additions.concat(existing));
+  return { imported: additions.length, skipped: backup.records.length - additions.length };
+}
+
+module.exports = {
+  readRecords: readRecords,
+  addResults: addResults,
+  remove: remove,
+  clearAll: clearAll,
+  exportBackup: exportBackup,
+  importBackup: importBackup,
+  MAX_RECORDS: MAX_RECORDS,
+  STORAGE_KEY: STORAGE_KEY
+};

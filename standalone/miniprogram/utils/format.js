@@ -1,1 +1,49 @@
-J3VzZSBzdHJpY3QnOwoKLyoqIOaVsOWtl+S4juaXtumXtOagvOW8j+WMlu+8iOS4jeS+nei1liBJbnRs77yM5YW85a65IGlPUyAvIEFuZHJvaWQg5bCP56iL5bqPIEpTIOW8leaTju+8ieOAgiAqLwoKZnVuY3Rpb24gdGhvdXNhbmRzKHZhbHVlKSB7CiAgdmFyIG51bWJlciA9IE51bWJlcih2YWx1ZSk7CiAgaWYgKCFpc0Zpbml0ZShudW1iZXIpKSByZXR1cm4gU3RyaW5nKHZhbHVlKTsKICB2YXIgbmVnYXRpdmUgPSBudW1iZXIgPCAwOwogIHZhciB0ZXh0ID0gU3RyaW5nKE1hdGguYWJzKG51bWJlcikpOwogIHZhciBwYXJ0cyA9IHRleHQuc3BsaXQoJy4nKTsKICB2YXIgaW50ZWdlciA9IHBhcnRzWzBdOwogIHZhciBkZWNpbWFscyA9IHBhcnRzLmxlbmd0aCA+IDEgPyAnLicgKyBwYXJ0c1sxXSA6ICcnOwogIHZhciBvdXRwdXQgPSAnJzsKICB2YXIgY291bnQgPSAwOwogIGZvciAodmFyIGkgPSBpbnRlZ2VyLmxlbmd0aCAtIDE7IGkgPj0gMDsgaSAtPSAxKSB7CiAgICBvdXRwdXQgPSBpbnRlZ2VyW2ldICsgb3V0cHV0OwogICAgY291bnQgKz0gMTsKICAgIGlmIChjb3VudCAlIDMgPT09IDAgJiYgaSA+IDApIG91dHB1dCA9ICcsJyArIG91dHB1dDsKICB9CiAgcmV0dXJuIChuZWdhdGl2ZSA/ICctJyA6ICcnKSArIG91dHB1dCArIGRlY2ltYWxzOwp9CgpmdW5jdGlvbiBwYWQodmFsdWUpIHsKICByZXR1cm4gdmFsdWUgPCAxMCA/ICcwJyArIHZhbHVlIDogU3RyaW5nKHZhbHVlKTsKfQoKZnVuY3Rpb24gZGF0ZVRpbWUodmFsdWUpIHsKICB2YXIgZGF0ZSA9IG5ldyBEYXRlKHZhbHVlKTsKICBpZiAoaXNOYU4oZGF0ZS5nZXRUaW1lKCkpKSByZXR1cm4gJ+aXtumXtOacquefpSc7CiAgcmV0dXJuIGRhdGUuZ2V0RnVsbFllYXIoKSArICctJyArIHBhZChkYXRlLmdldE1vbnRoKCkgKyAxKSArICctJyArIHBhZChkYXRlLmdldERhdGUoKSkgKwogICAgJyAnICsgcGFkKGRhdGUuZ2V0SG91cnMoKSkgKyAnOicgKyBwYWQoZGF0ZS5nZXRNaW51dGVzKCkpOwp9CgovKiog5Y+q5riF55CG5LqM6L+b5Yi25rWu54K55bC+5beu77yM5LiN5pS55Y+Y5Y+C5LiO6K6h566X55qE5Y6f5aeL5pWw5YC844CCICovCmZ1bmN0aW9uIHByZWNpc2UodmFsdWUpIHsKICBpZiAodHlwZW9mIHZhbHVlICE9PSAnbnVtYmVyJyB8fCAhaXNGaW5pdGUodmFsdWUpKSByZXR1cm4gdmFsdWU7CiAgcmV0dXJuIE51bWJlcih2YWx1ZS50b1ByZWNpc2lvbigxNSkpOwp9CgpmdW5jdGlvbiBmaXhlZDQodmFsdWUpIHsKICByZXR1cm4gTnVtYmVyKHZhbHVlKS50b0ZpeGVkKDQpOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICB0aG91c2FuZHM6IHRob3VzYW5kcywKICBkYXRlVGltZTogZGF0ZVRpbWUsCiAgcHJlY2lzZTogcHJlY2lzZSwKICBmaXhlZDQ6IGZpeGVkNAp9Owo=
+'use strict';
+
+/** 数字与时间格式化（不依赖 Intl，兼容 iOS / Android 小程序 JS 引擎）。 */
+
+function thousands(value) {
+  var number = Number(value);
+  if (!isFinite(number)) return String(value);
+  var negative = number < 0;
+  var text = String(Math.abs(number));
+  var parts = text.split('.');
+  var integer = parts[0];
+  var decimals = parts.length > 1 ? '.' + parts[1] : '';
+  var output = '';
+  var count = 0;
+  for (var i = integer.length - 1; i >= 0; i -= 1) {
+    output = integer[i] + output;
+    count += 1;
+    if (count % 3 === 0 && i > 0) output = ',' + output;
+  }
+  return (negative ? '-' : '') + output + decimals;
+}
+
+function pad(value) {
+  return value < 10 ? '0' + value : String(value);
+}
+
+function dateTime(value) {
+  var date = new Date(value);
+  if (isNaN(date.getTime())) return '时间未知';
+  return date.getFullYear() + '-' + pad(date.getMonth() + 1) + '-' + pad(date.getDate()) +
+    ' ' + pad(date.getHours()) + ':' + pad(date.getMinutes());
+}
+
+/** 只清理二进制浮点尾差，不改变参与计算的原始数值。 */
+function precise(value) {
+  if (typeof value !== 'number' || !isFinite(value)) return value;
+  return Number(value.toPrecision(15));
+}
+
+function fixed4(value) {
+  return Number(value).toFixed(4);
+}
+
+module.exports = {
+  thousands: thousands,
+  dateTime: dateTime,
+  precise: precise,
+  fixed4: fixed4
+};

@@ -1,1 +1,133 @@
-KGZ1bmN0aW9uIChnbG9iYWwpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IEZPUk1VTEFfVkVSU0lPTiA9ICcyLjEuMCc7CiAgY29uc3QgREVGQVVMVF9QQVJBTUVURVJTID0gT2JqZWN0LmZyZWV6ZSh7CiAgICBtYXRlcmlhbHM6IE9iamVjdC5mcmVlemUoewogICAgICAnNDEwJzogT2JqZWN0LmZyZWV6ZSh7IHNxdWFyZTogNi4xNjIsIHJhZGl1czogMC43ODUgfSksCiAgICAgICcyMDEnOiBPYmplY3QuZnJlZXplKHsgc3F1YXJlOiA2LjIyNSwgcmFkaXVzOiAwLjc5MyB9KSwKICAgICAgJzMwNCc6IE9iamVjdC5mcmVlemUoeyBzcXVhcmU6IDYuMjI1LCByYWRpdXM6IDAuNzkzIH0pLAogICAgICAnMzE2JzogT2JqZWN0LmZyZWV6ZSh7IHNxdWFyZTogNi4yNjQsIHJhZGl1czogMC43OTggfSkKICAgIH0pLAogICAgbW9kZXM6IE9iamVjdC5mcmVlemUoewogICAgICBzaW5nbGU6IE9iamVjdC5mcmVlemUoeyB3aWR0aERpdmlzb3I6IDEsIHVzYWJsZUZhY3RvcjogMC43NzYsIHNjcmFwUmF0aW86IDAuMjIgfSksCiAgICAgIGRvdWJsZTogT2JqZWN0LmZyZWV6ZSh7IHdpZHRoRGl2aXNvcjogMS44NywgdXNhYmxlRmFjdG9yOiAwLjgyNCwgc2NyYXBSYXRpbzogMC4xMiB9KQogICAgfSksCiAgICBjdXRTdGVwOiA1LAogICAgcGk6IDMuMTQKICB9KTsKCiAgZnVuY3Rpb24gcG9zaXRpdmVOdW1iZXIodmFsdWUsIGxhYmVsKSB7CiAgICBpZiAodHlwZW9mIHZhbHVlID09PSAnc3RyaW5nJyAmJiB2YWx1ZS50cmltKCkgPT09ICcnKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihg6K+36L6T5YWlJHtsYWJlbH3jgIJgKTsKICAgIH0KICAgIGNvbnN0IG51bWJlciA9IE51bWJlcih2YWx1ZSk7CiAgICBpZiAoIU51bWJlci5pc0Zpbml0ZShudW1iZXIpIHx8IG51bWJlciA8PSAwKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgJHtsYWJlbH3lv4XpobvmmK/lpKfkuo4gMCDnmoTmnInmlYjmlbDlrZfjgIJgKTsKICAgIH0KICAgIHJldHVybiBudW1iZXI7CiAgfQoKICBmdW5jdGlvbiBjYWxjdWxhdGUoaW5wdXQsIHBhcmFtZXRlcnMgPSBERUZBVUxUX1BBUkFNRVRFUlMpIHsKICAgIGlmICghaW5wdXQgfHwgdHlwZW9mIGlucHV0ICE9PSAnb2JqZWN0JykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+ivt+i+k+WFpeadkOaWmeaVsOaNruOAgicpOwogICAgfQogICAgaWYgKCFwYXJhbWV0ZXJzIHx8ICFwYXJhbWV0ZXJzLm1hdGVyaWFscyB8fCAhcGFyYW1ldGVycy5tb2RlcykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+iuoeeul+WPguaVsOe8uuWkseOAgicpOwogICAgfQoKICAgIGNvbnN0IG1hdGVyaWFsID0gU3RyaW5nKGlucHV0Lm1hdGVyaWFsID8/ICcnKTsKICAgIGNvbnN0IG1vZGUgPSBTdHJpbmcoaW5wdXQubW9kZSA/PyAnJyk7CiAgICBjb25zdCBzZWxlY3RlZEZvcm11bGEgPSBOdW1iZXIoaW5wdXQuZm9ybXVsYSk7CiAgICBjb25zdCBtYXRlcmlhbEZhY3RvcnMgPSBwYXJhbWV0ZXJzLm1hdGVyaWFsc1ttYXRlcmlhbF07CiAgICBjb25zdCBtb2RlRmFjdG9ycyA9IHBhcmFtZXRlcnMubW9kZXNbbW9kZV07CiAgICBpZiAoIU9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChERUZBVUxUX1BBUkFNRVRFUlMubWF0ZXJpYWxzLCBtYXRlcmlhbCkgfHwgIW1hdGVyaWFsRmFjdG9ycykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+ivt+mAieaLqeacieaViOadkOi0qOOAgicpOwogICAgfQogICAgaWYgKCFPYmplY3QucHJvdG90eXBlLmhhc093blByb3BlcnR5LmNhbGwoREVGQVVMVF9QQVJBTUVURVJTLm1vZGVzLCBtb2RlKSB8fCAhbW9kZUZhY3RvcnMpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfor7fpgInmi6nmnInmlYjlhrLmlpnmlrnlvI/jgIInKTsKICAgIH0KICAgIGlmICghWzEsIDIsIDNdLmluY2x1ZGVzKHNlbGVjdGVkRm9ybXVsYSkpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfor7fpgInmi6nmnInmlYjljZXph43lhazlvI/jgIInKTsKICAgIH0KICAgIGlmIChzZWxlY3RlZEZvcm11bGEgPT09IDMgJiYgbW9kZSAhPT0gJ3NpbmdsZScpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfnrKwgMyDlpZfmlrnniYflhazlvI/ku4XpgILnlKjkuo7ljZXmjpLjgIInKTsKICAgIH0KCiAgICBjb25zdCB0aGlja25lc3MgPSBwb3NpdGl2ZU51bWJlcihpbnB1dC50aGlja25lc3MsICfljprluqYnKTsKICAgIGNvbnN0IHdpZHRoID0gcG9zaXRpdmVOdW1iZXIoaW5wdXQud2lkdGgsICflrr3luqYnKTsKICAgIGNvbnN0IHdlaWdodCA9IHBvc2l0aXZlTnVtYmVyKGlucHV0LndlaWdodCwgJ+adkOaWmemHjemHjycpOwogICAgY29uc3Qgc3F1YXJlRmFjdG9yID0gcG9zaXRpdmVOdW1iZXIobWF0ZXJpYWxGYWN0b3JzLnNxdWFyZSwgJ+esrCAyIOWll+WvhuW6puezu+aVsCcpOwogICAgY29uc3QgcmFkaXVzRmFjdG9yID0gcG9zaXRpdmVOdW1iZXIobWF0ZXJpYWxGYWN0b3JzLnJhZGl1cywgJ+esrCAxIOWll+WvhuW6puezu+aVsCcpOwogICAgY29uc3Qgd2lkdGhEaXZpc29yID0gcG9zaXRpdmVOdW1iZXIobW9kZUZhY3RvcnMud2lkdGhEaXZpc29yLCAn5Ymq5Y+j5o2i566X5Y+C5pWwJyk7CiAgICBjb25zdCByYXRpb0xhYmVsID0gbW9kZSA9PT0gJ3NpbmdsZScgPyAn5Y2V5o6S5Yay5paZ5ZyG54mH5q+U5L6L57O75pWwJyA6ICflj4zmjpLlhrLmlpnlnIbniYfmr5Tkvovns7vmlbAnOwogICAgY29uc3QgdXNhYmxlRmFjdG9yID0gcG9zaXRpdmVOdW1iZXIobW9kZUZhY3RvcnMudXNhYmxlRmFjdG9yLCByYXRpb0xhYmVsKTsKICAgIGNvbnN0IGN1dFN0ZXAgPSBwb3NpdGl2ZU51bWJlcihwYXJhbWV0ZXJzLmN1dFN0ZXAsICfliarlj6Plj5bmlbTmraXplb8nKTsKICAgIGNvbnN0IHBpID0gcG9zaXRpdmVOdW1iZXIocGFyYW1ldGVycy5waSwgJ+WchuWRqOeOh+WPguaVsCcpOwogICAgaWYgKHVzYWJsZUZhY3RvciA+IDEpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGAke3JhdGlvTGFiZWx95LiN6IO95aSn5LqOIDHjgIJgKTsKICAgIH0KCiAgICBjb25zdCByYXdDdXQgPSB3aWR0aCAvIHdpZHRoRGl2aXNvcjsKICAgIGNvbnN0IGN1dCA9IE1hdGguZmxvb3IocmF3Q3V0IC8gY3V0U3RlcCkgKiBjdXRTdGVwOwogICAgaWYgKCFOdW1iZXIuaXNGaW5pdGUoY3V0KSB8fCBjdXQgPD0gMCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ+WuveW6pui/h+Wwj++8jOacgOe7iOWJquWPo+S4uiAwIG1t77yM5peg5rOV6K6h566X44CCJyk7CiAgICB9CgogICAgLy8g5pWw6YeP5L2/55So5pyq6IiN5YWl5Y2V6YeN77yb5Zub5L2N5bCP5pWw5LuF55So5LqO57uT5p6c5pi+56S644CCCiAgICBjb25zdCBzcXVhcmVVbml0V2VpZ2h0ID0gY3V0ICogY3V0ICogdGhpY2tuZXNzICogc3F1YXJlRmFjdG9yIC8gMTAwMDAwMDsKICAgIGNvbnN0IHJhZGl1cyA9IGN1dCAvIDI7CiAgICBjb25zdCByYWRpdXNVbml0V2VpZ2h0ID0gcmFkaXVzICogcmFkaXVzICogcGkgKiB0aGlja25lc3MgKiByYWRpdXNGYWN0b3IgLyAxMDAwMDA7CiAgICBjb25zdCBzaGVldFVuaXRXZWlnaHQgPSBzZWxlY3RlZEZvcm11bGEgPT09IDMgPyBjdXQgKiBjdXQgKiB0aGlja25lc3MgKiByYWRpdXNGYWN0b3IgLyAxMDAwMDAgOiBudWxsOwogICAgY29uc3Qgc2VsZWN0ZWRVbml0V2VpZ2h0ID0gc2VsZWN0ZWRGb3JtdWxhID09PSAxID8gcmFkaXVzVW5pdFdlaWdodCA6IHNlbGVjdGVkRm9ybXVsYSA9PT0gMiA/IHNxdWFyZVVuaXRXZWlnaHQgOiBzaGVldFVuaXRXZWlnaHQ7CiAgICAvLyDmlrnniYflhazlvI/mmI7noa7nlKjmnZDmlpnmgLvph43orqHnrpfvvIzkuI3lupTnlKjljZXmjpLlnIbniYflhazlvI/nmoQgMC43NzYg57O75pWw44CCCiAgICBjb25zdCBhcHBsaWVkVXNhYmxlRmFjdG9yID0gc2VsZWN0ZWRGb3JtdWxhID09PSAzID8gbnVsbCA6IHVzYWJsZUZhY3RvcjsKICAgIGNvbnN0IHVzYWJsZVdlaWdodCA9IHNlbGVjdGVkRm9ybXVsYSA9PT0gMyA/IHdlaWdodCA6IHdlaWdodCAqIHVzYWJsZUZhY3RvcjsKICAgIC8vIOinkuaWmemHjemHj+aMieadkOaWmeaAu+mHjeiuoeeul++8jOS4juaJgOmAieWNlemHjeWFrOW8j+aXoOWFs++8muWPjOaOkiAxMiXjgIHljZXmjpIgMjIl44CCCiAgICBjb25zdCBzY3JhcExhYmVsID0gbW9kZSA9PT0gJ3NpbmdsZScgPyAn5Y2V5o6S6KeS5paZ5q+U5L6L57O75pWwJyA6ICflj4zmjpLop5Lmlpnmr5Tkvovns7vmlbAnOwogICAgY29uc3Qgc2NyYXBSYXRpbyA9IG1vZGVGYWN0b3JzLnNjcmFwUmF0aW8gPT09IHVuZGVmaW5lZCB8fCBtb2RlRmFjdG9ycy5zY3JhcFJhdGlvID09PSBudWxsIHx8IG1vZGVGYWN0b3JzLnNjcmFwUmF0aW8gPT09ICcnCiAgICAgID8gREVGQVVMVF9QQVJBTUVURVJTLm1vZGVzW21vZGVdLnNjcmFwUmF0aW8KICAgICAgOiBOdW1iZXIobW9kZUZhY3RvcnMuc2NyYXBSYXRpbyk7CiAgICBpZiAoIU51bWJlci5pc0Zpbml0ZShzY3JhcFJhdGlvKSB8fCBzY3JhcFJhdGlvIDwgMCB8fCBzY3JhcFJhdGlvID4gMSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7c2NyYXBMYWJlbH3pobvkuLogMCDliLAgMSDkuYvpl7TnmoTmlbDlrZfjgIJgKTsKICAgIH0KICAgIGNvbnN0IHNjcmFwV2VpZ2h0ID0gd2VpZ2h0ICogc2NyYXBSYXRpbzsKICAgIGNvbnN0IHJhd1F1YW50aXR5ID0gdXNhYmxlV2VpZ2h0IC8gc2VsZWN0ZWRVbml0V2VpZ2h0OwogICAgaWYgKCFbc3F1YXJlVW5pdFdlaWdodCwgcmFkaXVzVW5pdFdlaWdodCwgdXNhYmxlV2VpZ2h0LCBzY3JhcFdlaWdodCwgcmF3UXVhbnRpdHldLmV2ZXJ5KE51bWJlci5pc0Zpbml0ZSkgfHwKICAgICAgICAhTnVtYmVyLmlzRmluaXRlKHNlbGVjdGVkVW5pdFdlaWdodCkgfHwgc2VsZWN0ZWRVbml0V2VpZ2h0IDw9IDAgfHwgcmF3UXVhbnRpdHkgPCAwIHx8IHJhd1F1YW50aXR5ID49IE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign6K6h566X57uT5p6c6LaF5Ye65pyJ5pWI6IyD5Zu077yM6K+35qOA5p+l6L6T5YWl5pWw5YC844CCJyk7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgZm9ybXVsYVZlcnNpb246IEZPUk1VTEFfVkVSU0lPTiwKICAgICAgcGFyYW1ldGVyVmVyc2lvbjogTnVtYmVyLmlzU2FmZUludGVnZXIocGFyYW1ldGVycy5yZXZpc2lvbikgJiYgcGFyYW1ldGVycy5yZXZpc2lvbiA+IDAgPyBg5pys5py65Y+C5pWwIHYke3BhcmFtZXRlcnMucmV2aXNpb259YCA6ICfpu5jorqTlj4LmlbAgdjAnLAogICAgICBwYXJhbWV0ZXJVcGRhdGVkQXQ6IHBhcmFtZXRlcnMudXBkYXRlZEF0IHx8IG51bGwsCiAgICAgIGNhbGN1bGF0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgICBpbnB1dDogeyBtYXRlcmlhbCwgdGhpY2tuZXNzLCB3aWR0aCwgd2VpZ2h0LCBtb2RlLCBmb3JtdWxhOiBzZWxlY3RlZEZvcm11bGEgfSwKICAgICAgcGFyYW1ldGVyczogeyBzcXVhcmVGYWN0b3IsIHJhZGl1c0ZhY3Rvciwgd2lkdGhEaXZpc29yLCB1c2FibGVGYWN0b3IsIHNjcmFwUmF0aW8sIGN1dFN0ZXAsIHBpIH0sCiAgICAgIHJhd0N1dCwKICAgICAgY3V0LAogICAgICBzcXVhcmVVbml0V2VpZ2h0LAogICAgICByYWRpdXNVbml0V2VpZ2h0LAogICAgICBzaGVldFVuaXRXZWlnaHQsCiAgICAgIHNlbGVjdGVkVW5pdFdlaWdodCwKICAgICAgYXBwbGllZFVzYWJsZUZhY3RvciwKICAgICAgdXNhYmxlV2VpZ2h0LAogICAgICBzY3JhcFJhdGlvLAogICAgICBzY3JhcFdlaWdodCwKICAgICAgcXVhbnRpdHk6IE1hdGguZmxvb3IocmF3UXVhbnRpdHkpCiAgICB9OwogIH0KCiAgZnVuY3Rpb24gY3VycmVudElucHV0RnJvbUhpc3RvcnkocmVzdWx0KSB7CiAgICBpZiAoIXJlc3VsdCB8fCAhcmVzdWx0LmlucHV0KSB0aHJvdyBuZXcgRXJyb3IoJ+WOhuWPsuiusOW9lee8uuWwkeiuoeeul+i+k+WFpeOAgicpOwogICAgY29uc3QgdmVyc2lvbiA9IFN0cmluZyhyZXN1bHQuZm9ybXVsYVZlcnNpb24gfHwgJycpOwogICAgY29uc3Qgb2xkTnVtYmVyaW5nID0gL14xXC4vLnRlc3QodmVyc2lvbik7CiAgICBjb25zdCBmb3JtdWxhID0gTnVtYmVyKHJlc3VsdC5pbnB1dC5mb3JtdWxhKTsKICAgIGlmICghdmVyc2lvbikgdGhyb3cgbmV3IEVycm9yKCfljoblj7LorrDlvZXnvLrlsJHlhazlvI/niYjmnKzvvIzml6Dms5Xlronlhajph43nrpfjgIInKTsKICAgIC8vIHYxIOeahCAxPeWJquWPo+W5s+aWueOAgTI95Ymq5Y+j5Y2K5b6E77ybdjIg6LW36L+Z5Lik5Liq5YWs5byA57yW5Y+35LqS5o2i44CCCiAgICByZXR1cm4geyAuLi5yZXN1bHQuaW5wdXQsIGZvcm11bGE6IG9sZE51bWJlcmluZyAmJiAoZm9ybXVsYSA9PT0gMSB8fCBmb3JtdWxhID09PSAyKSA/IDMgLSBmb3JtdWxhIDogZm9ybXVsYSB9OwogIH0KCiAgZ2xvYmFsLk1hdGVyaWFsQ2FsY3VsYXRvciA9IE9iamVjdC5mcmVlemUoeyBjYWxjdWxhdGUsIGN1cnJlbnRJbnB1dEZyb21IaXN0b3J5LCBERUZBVUxUX1BBUkFNRVRFUlMsIEZPUk1VTEFfVkVSU0lPTiB9KTsKfSkodHlwZW9mIHdpbmRvdyA9PT0gJ3VuZGVmaW5lZCcgPyBnbG9iYWxUaGlzIDogd2luZG93KTsK
+(function (global) {
+  'use strict';
+
+  const FORMULA_VERSION = '2.1.0';
+  const DEFAULT_PARAMETERS = Object.freeze({
+    materials: Object.freeze({
+      '410': Object.freeze({ square: 6.162, radius: 0.785 }),
+      '201': Object.freeze({ square: 6.225, radius: 0.793 }),
+      '304': Object.freeze({ square: 6.225, radius: 0.793 }),
+      '316': Object.freeze({ square: 6.264, radius: 0.798 })
+    }),
+    modes: Object.freeze({
+      single: Object.freeze({ widthDivisor: 1, usableFactor: 0.776, scrapRatio: 0.22 }),
+      double: Object.freeze({ widthDivisor: 1.87, usableFactor: 0.824, scrapRatio: 0.12 })
+    }),
+    cutStep: 5,
+    pi: 3.14
+  });
+
+  function positiveNumber(value, label) {
+    if (typeof value === 'string' && value.trim() === '') {
+      throw new Error(`请输入${label}。`);
+    }
+    const number = Number(value);
+    if (!Number.isFinite(number) || number <= 0) {
+      throw new Error(`${label}必须是大于 0 的有效数字。`);
+    }
+    return number;
+  }
+
+  function calculate(input, parameters = DEFAULT_PARAMETERS) {
+    if (!input || typeof input !== 'object') {
+      throw new Error('请输入材料数据。');
+    }
+    if (!parameters || !parameters.materials || !parameters.modes) {
+      throw new Error('计算参数缺失。');
+    }
+
+    const material = String(input.material ?? '');
+    const mode = String(input.mode ?? '');
+    const selectedFormula = Number(input.formula);
+    const materialFactors = parameters.materials[material];
+    const modeFactors = parameters.modes[mode];
+    if (!Object.prototype.hasOwnProperty.call(DEFAULT_PARAMETERS.materials, material) || !materialFactors) {
+      throw new Error('请选择有效材质。');
+    }
+    if (!Object.prototype.hasOwnProperty.call(DEFAULT_PARAMETERS.modes, mode) || !modeFactors) {
+      throw new Error('请选择有效冲料方式。');
+    }
+    if (![1, 2, 3].includes(selectedFormula)) {
+      throw new Error('请选择有效单重公式。');
+    }
+    if (selectedFormula === 3 && mode !== 'single') {
+      throw new Error('第 3 套方片公式仅适用于单排。');
+    }
+
+    const thickness = positiveNumber(input.thickness, '厚度');
+    const width = positiveNumber(input.width, '宽度');
+    const weight = positiveNumber(input.weight, '材料重量');
+    const squareFactor = positiveNumber(materialFactors.square, '第 2 套密度系数');
+    const radiusFactor = positiveNumber(materialFactors.radius, '第 1 套密度系数');
+    const widthDivisor = positiveNumber(modeFactors.widthDivisor, '剪口换算参数');
+    const ratioLabel = mode === 'single' ? '单排冲料圆片比例系数' : '双排冲料圆片比例系数';
+    const usableFactor = positiveNumber(modeFactors.usableFactor, ratioLabel);
+    const cutStep = positiveNumber(parameters.cutStep, '剪口取整步长');
+    const pi = positiveNumber(parameters.pi, '圆周率参数');
+    if (usableFactor > 1) {
+      throw new Error(`${ratioLabel}不能大于 1。`);
+    }
+
+    const rawCut = width / widthDivisor;
+    const cut = Math.floor(rawCut / cutStep) * cutStep;
+    if (!Number.isFinite(cut) || cut <= 0) {
+      throw new Error('宽度过小，最终剪口为 0 mm，无法计算。');
+    }
+
+    // 数量使用未舍入单重；四位小数仅用于结果显示。
+    const squareUnitWeight = cut * cut * thickness * squareFactor / 1000000;
+    const radius = cut / 2;
+    const radiusUnitWeight = radius * radius * pi * thickness * radiusFactor / 100000;
+    const sheetUnitWeight = selectedFormula === 3 ? cut * cut * thickness * radiusFactor / 100000 : null;
+    const selectedUnitWeight = selectedFormula === 1 ? radiusUnitWeight : selectedFormula === 2 ? squareUnitWeight : sheetUnitWeight;
+    // 方片公式明确用材料总重计算，不应用单排圆片公式的 0.776 系数。
+    const appliedUsableFactor = selectedFormula === 3 ? null : usableFactor;
+    const usableWeight = selectedFormula === 3 ? weight : weight * usableFactor;
+    // 角料重量按材料总重计算，与所选单重公式无关：双排 12%、单排 22%。
+    const scrapLabel = mode === 'single' ? '单排角料比例系数' : '双排角料比例系数';
+    const scrapRatio = modeFactors.scrapRatio === undefined || modeFactors.scrapRatio === null || modeFactors.scrapRatio === ''
+      ? DEFAULT_PARAMETERS.modes[mode].scrapRatio
+      : Number(modeFactors.scrapRatio);
+    if (!Number.isFinite(scrapRatio) || scrapRatio < 0 || scrapRatio > 1) {
+      throw new Error(`${scrapLabel}须为 0 到 1 之间的数字。`);
+    }
+    const scrapWeight = weight * scrapRatio;
+    const rawQuantity = usableWeight / selectedUnitWeight;
+    if (![squareUnitWeight, radiusUnitWeight, usableWeight, scrapWeight, rawQuantity].every(Number.isFinite) ||
+        !Number.isFinite(selectedUnitWeight) || selectedUnitWeight <= 0 || rawQuantity < 0 || rawQuantity >= Number.MAX_SAFE_INTEGER) {
+      throw new Error('计算结果超出有效范围，请检查输入数值。');
+    }
+
+    return {
+      formulaVersion: FORMULA_VERSION,
+      parameterVersion: Number.isSafeInteger(parameters.revision) && parameters.revision > 0 ? `本机参数 v${parameters.revision}` : '默认参数 v0',
+      parameterUpdatedAt: parameters.updatedAt || null,
+      calculatedAt: new Date().toISOString(),
+      input: { material, thickness, width, weight, mode, formula: selectedFormula },
+      parameters: { squareFactor, radiusFactor, widthDivisor, usableFactor, scrapRatio, cutStep, pi },
+      rawCut,
+      cut,
+      squareUnitWeight,
+      radiusUnitWeight,
+      sheetUnitWeight,
+      selectedUnitWeight,
+      appliedUsableFactor,
+      usableWeight,
+      scrapRatio,
+      scrapWeight,
+      quantity: Math.floor(rawQuantity)
+    };
+  }
+
+  function currentInputFromHistory(result) {
+    if (!result || !result.input) throw new Error('历史记录缺少计算输入。');
+    const version = String(result.formulaVersion || '');
+    const oldNumbering = /^1\./.test(version);
+    const formula = Number(result.input.formula);
+    if (!version) throw new Error('历史记录缺少公式版本，无法安全重算。');
+    // v1 的 1=剪口平方、2=剪口半径；v2 起这两个公开编号互换。
+    return { ...result.input, formula: oldNumbering && (formula === 1 || formula === 2) ? 3 - formula : formula };
+  }
+
+  global.MaterialCalculator = Object.freeze({ calculate, currentInputFromHistory, DEFAULT_PARAMETERS, FORMULA_VERSION });
+})(typeof window === 'undefined' ? globalThis : window);

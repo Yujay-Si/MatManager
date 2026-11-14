@@ -1,1 +1,30 @@
-J3VzZSBzdHJpY3QnOwoKdmFyIGNhbGN1bGF0aW9uID0gcmVxdWlyZSgnLi91dGlscy9jYWxjdWxhdGlvbicpOwoKQXBwKHsKICBnbG9iYWxEYXRhOiB7CiAgICBhcHBOYW1lOiAn5ZyG54mH566X6YePJywKICAgIHZlcnNpb246ICcxLjEuMCcsCiAgICBmb3JtdWxhVmVyc2lvbjogY2FsY3VsYXRpb24uRk9STVVMQV9WRVJTSU9OLAogICAgLyoqIOi3qOmhtemdoueahOS4tOaXtuS8oOmAku+8iOS+i+WmguS7juWOhuWPsumhtei3s+WbnuWNleasoemhteWbnuWhq+WPguaVsO+8ieOAgiAqLwogICAgcGVuZGluZ1NpbmdsZUlucHV0OiBudWxsCiAgfSwKCiAgb25MYXVuY2g6IGZ1bmN0aW9uICgpIHsKICAgIC8vIOe6r+emu+e6v+W3peWFt++8muS4jeeZu+W9leOAgeS4jeivt+axgue9kee7nOOAgeS4jeS4iuS8oOS7u+S9leaVsOaNruOAggogICAgLy8g6aaW5qyh5ZCv5Yqo5pe25omT5Y2w5LiA5qyh546v5aKD5L+h5oGv77yM5L6/5LqO5Zyo5byA5Y+R6ICF5bel5YW36YeM5o6S5p+l6Zeu6aKY44CCCiAgICBpZiAodHlwZW9mIHd4ICE9PSAndW5kZWZpbmVkJyAmJiB3eC5nZXREZXZpY2VJbmZvKSB7CiAgICAgIHRyeSB7CiAgICAgICAgdmFyIGRldmljZSA9IHd4LmdldERldmljZUluZm8oKTsKICAgICAgICBjb25zb2xlLmxvZygnW+WchueJh+eul+mHj10g5ZCv5YqoJywgdGhpcy5nbG9iYWxEYXRhLnZlcnNpb24sIGRldmljZS5wbGF0Zm9ybSwgZGV2aWNlLnN5c3RlbSk7CiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1vlnIbniYfnrpfph49dIOWQr+WKqCcsIHRoaXMuZ2xvYmFsRGF0YS52ZXJzaW9uKTsKICAgICAgfQogICAgfQogIH0sCgogIG9uRXJyb3I6IGZ1bmN0aW9uIChtZXNzYWdlKSB7CiAgICBjb25zb2xlLmVycm9yKCdb5ZyG54mH566X6YePXSDov5DooYzlvILluLgnLCBtZXNzYWdlKTsKICB9Cn0pOwo=
+'use strict';
+
+var calculation = require('./utils/calculation');
+
+App({
+  globalData: {
+    appName: '圆片算量',
+    version: '1.1.0',
+    formulaVersion: calculation.FORMULA_VERSION,
+    /** 跨页面的临时传递（例如从历史页跳回单次页回填参数）。 */
+    pendingSingleInput: null
+  },
+
+  onLaunch: function () {
+    // 纯离线工具：不登录、不请求网络、不上传任何数据。
+    // 首次启动时打印一次环境信息，便于在开发者工具里排查问题。
+    if (typeof wx !== 'undefined' && wx.getDeviceInfo) {
+      try {
+        var device = wx.getDeviceInfo();
+        console.log('[圆片算量] 启动', this.globalData.version, device.platform, device.system);
+      } catch (error) {
+        console.log('[圆片算量] 启动', this.globalData.version);
+      }
+    }
+  },
+
+  onError: function (message) {
+    console.error('[圆片算量] 运行异常', message);
+  }
+});

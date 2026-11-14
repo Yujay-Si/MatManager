@@ -1,1 +1,155 @@
-LyogU3RhbmRhbG9uZSBzaGVsbCBvbiB0b3Agb2YgdGhlIG9yaWdpbmFsIE1hdE1hbmFnZXIgY2FsY3VsYXRvciBzdHlsZXMuICovCmJvZHkuc3RhbmRhbG9uZSB7CiAgbWluLXdpZHRoOiAzMjBweDsKICBiYWNrZ3JvdW5kOgogICAgcmFkaWFsLWdyYWRpZW50KDExMDBweCA1MjBweCBhdCA1MCUgLTE4MHB4LCAjZGZlY2UxIDAlLCByZ2JhKDIyMywgMjM2LCAyMjUsIDApIDcwJSksCiAgICAjZjRmNWYxOwp9Cgpib2R5LnN0YW5kYWxvbmUgLnBhZ2UgewogIG1heC13aWR0aDogMTE4MHB4OwogIHBhZGRpbmctdG9wOiAxOHB4Owp9CgouYXBwLXRvcGJhciB7CiAgZGlzcGxheTogZmxleDsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICBnYXA6IDE4cHg7CiAgbWF4LXdpZHRoOiAxMTgwcHg7CiAgbWFyZ2luOiAwIGF1dG87CiAgcGFkZGluZzogMjRweCAyNHB4IDA7Cn0KCi5hcHAtYnJhbmQgewogIGRpc3BsYXk6IGZsZXg7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICBnYXA6IDEycHg7CiAgbWluLXdpZHRoOiAwOwp9CgouYXBwLW1hcmsgewogIGRpc3BsYXk6IGdyaWQ7CiAgZmxleDogMCAwIDQycHg7CiAgd2lkdGg6IDQycHg7CiAgaGVpZ2h0OiA0MnB4OwogIHBsYWNlLWl0ZW1zOiBjZW50ZXI7CiAgYm9yZGVyLXJhZGl1czogMTJweDsKICBiYWNrZ3JvdW5kOiAjMTczZTMwOwogIGNvbG9yOiAjZjRmNWYxOwogIGZvbnQtc2l6ZTogMjFweDsKICBmb250LXdlaWdodDogODAwOwogIGJveC1zaGFkb3c6IDAgOHB4IDIwcHggcmdiYSgyMywgNjIsIDQ4LCAuMTYpOwp9CgouYXBwLWJyYW5kIHN0cm9uZyB7CiAgZGlzcGxheTogYmxvY2s7CiAgY29sb3I6ICMxNzNlMzA7CiAgZm9udC1zaXplOiAxOHB4OwogIGxldHRlci1zcGFjaW5nOiAtLjAyZW07Cn0KCi5hcHAtYnJhbmQgc21hbGwgewogIGRpc3BsYXk6IGJsb2NrOwogIG1hcmdpbi10b3A6IDNweDsKICBjb2xvcjogIzY0NzE2ZDsKICBmb250LXNpemU6IDEycHg7Cn0KCi5hcHAtcGlsbCB7CiAgZmxleDogMCAwIGF1dG87CiAgcGFkZGluZzogOHB4IDEycHg7CiAgYm9yZGVyOiAxcHggc29saWQgI2NkZDljZDsKICBib3JkZXItcmFkaXVzOiA5OTlweDsKICBiYWNrZ3JvdW5kOiByZ2JhKDI1NSwgMjU1LCAyNTUsIC43OCk7CiAgY29sb3I6ICMzZDVhNDY7CiAgZm9udC1zaXplOiAxMnB4OwogIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0KCmJvZHkuc3RhbmRhbG9uZSAucGFnZS1oZWFkZXIgewogIG1hcmdpbjogMzBweCAwIDMwcHg7Cn0KCmJvZHkuc3RhbmRhbG9uZSAucGFnZS1oZWFkZXIgaDEgewogIG1hcmdpbjogMDsKICBmb250LXNpemU6IGNsYW1wKDMwcHgsIDR2dywgNDRweCk7CiAgbGV0dGVyLXNwYWNpbmc6IC0uMDM1ZW07CiAgbGluZS1oZWlnaHQ6IDEuMjsKfQoKLmFwcC1pbnRybyB7CiAgbWF4LXdpZHRoOiA3MDBweDsKICBtYXJnaW46IDE0cHggYXV0byAwOwogIGNvbG9yOiAjNWY2ZjY1OwogIGZvbnQtc2l6ZTogMTRweDsKICBsaW5lLWhlaWdodDogMS44Owp9Cgpib2R5LnN0YW5kYWxvbmUgI2NhbGN1bGF0b3ItbW9kdWxlIHsKICBtYXgtd2lkdGg6IDEwODBweDsKICBtYXJnaW46IDAgYXV0bzsKfQoKYm9keS5zdGFuZGFsb25lIC52aWV3LW5hdiB7CiAgbWFyZ2luOiAwIGF1dG8gMjBweDsKfQoKYm9keS5zdGFuZGFsb25lIC5jYXJkIHsKICBib3gtc2hhZG93OiAwIDE0cHggNDJweCByZ2JhKDI1LCA0OSwgMzksIC4wNTUpOwp9Cgpib2R5LnN0YW5kYWxvbmUgLmZlYXR1cmUtY2FyZCB7CiAgbWF4LXdpZHRoOiAxMDAlOwp9CgouYXBwLWZvb3RlciB7CiAgbWF4LXdpZHRoOiA3NjBweDsKICBtYXJnaW46IDQ2cHggYXV0byAwOwogIHBhZGRpbmctdG9wOiAyMHB4OwogIGJvcmRlci10b3A6IDFweCBzb2xpZCAjZGZlN2RmOwogIGNvbG9yOiAjN2E4NzdmOwogIGZvbnQtc2l6ZTogMTJweDsKICBsaW5lLWhlaWdodDogMS44OwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQoKLmFwcC1mb290ZXIgcCB7CiAgbWFyZ2luOiA2cHggMDsKfQoKLmFwcC1mb290ZXIgc3Ryb25nIHsKICBjb2xvcjogIzQ1NjA0ZDsKfQoKLm5vc2NyaXB0IHsKICBtYXJnaW46IDI0cHg7CiAgcGFkZGluZzogMTRweCAxNnB4OwogIGJvcmRlcjogMXB4IHNvbGlkICNkOGIzNmI7CiAgYm9yZGVyLXJhZGl1czogOHB4OwogIGJhY2tncm91bmQ6ICNmZmY2ZGY7CiAgY29sb3I6ICM2YjRlMWQ7Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA3NjBweCkgewogIC5hcHAtdG9wYmFyIHsKICAgIHBhZGRpbmc6IDE2cHggMTZweCAwOwogIH0KCiAgLmFwcC1waWxsIHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQoKICBib2R5LnN0YW5kYWxvbmUgLnBhZ2UgewogICAgcGFkZGluZy1yaWdodDogMTZweDsKICAgIHBhZGRpbmctbGVmdDogMTZweDsKICB9CgogIGJvZHkuc3RhbmRhbG9uZSAucGFnZS1oZWFkZXIgewogICAgbWFyZ2luLXRvcDogMjJweDsKICB9CgogIGJvZHkuc3RhbmRhbG9uZSAudmlldy1uYXYgewogICAgb3ZlcmZsb3cteDogYXV0bzsKICB9Cn0K
+/* Standalone shell on top of the original MatManager calculator styles. */
+body.standalone {
+  min-width: 320px;
+  background:
+    radial-gradient(1100px 520px at 50% -180px, #dfece1 0%, rgba(223, 236, 225, 0) 70%),
+    #f4f5f1;
+}
+
+body.standalone .page {
+  max-width: 1180px;
+  padding-top: 18px;
+}
+
+.app-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 24px 24px 0;
+}
+
+.app-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.app-mark {
+  display: grid;
+  flex: 0 0 42px;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border-radius: 12px;
+  background: #173e30;
+  color: #f4f5f1;
+  font-size: 21px;
+  font-weight: 800;
+  box-shadow: 0 8px 20px rgba(23, 62, 48, .16);
+}
+
+.app-brand strong {
+  display: block;
+  color: #173e30;
+  font-size: 18px;
+  letter-spacing: -.02em;
+}
+
+.app-brand small {
+  display: block;
+  margin-top: 3px;
+  color: #64716d;
+  font-size: 12px;
+}
+
+.app-pill {
+  flex: 0 0 auto;
+  padding: 8px 12px;
+  border: 1px solid #cdd9cd;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, .78);
+  color: #3d5a46;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+body.standalone .page-header {
+  margin: 30px 0 30px;
+}
+
+body.standalone .page-header h1 {
+  margin: 0;
+  font-size: clamp(30px, 4vw, 44px);
+  letter-spacing: -.035em;
+  line-height: 1.2;
+}
+
+.app-intro {
+  max-width: 700px;
+  margin: 14px auto 0;
+  color: #5f6f65;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+body.standalone #calculator-module {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+body.standalone .view-nav {
+  margin: 0 auto 20px;
+}
+
+body.standalone .card {
+  box-shadow: 0 14px 42px rgba(25, 49, 39, .055);
+}
+
+body.standalone .feature-card {
+  max-width: 100%;
+}
+
+.app-footer {
+  max-width: 760px;
+  margin: 46px auto 0;
+  padding-top: 20px;
+  border-top: 1px solid #dfe7df;
+  color: #7a877f;
+  font-size: 12px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.app-footer p {
+  margin: 6px 0;
+}
+
+.app-footer strong {
+  color: #45604d;
+}
+
+.noscript {
+  margin: 24px;
+  padding: 14px 16px;
+  border: 1px solid #d8b36b;
+  border-radius: 8px;
+  background: #fff6df;
+  color: #6b4e1d;
+}
+
+@media (max-width: 760px) {
+  .app-topbar {
+    padding: 16px 16px 0;
+  }
+
+  .app-pill {
+    display: none;
+  }
+
+  body.standalone .page {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  body.standalone .page-header {
+    margin-top: 22px;
+  }
+
+  body.standalone .view-nav {
+    overflow-x: auto;
+  }
+}

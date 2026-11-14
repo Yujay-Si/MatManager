@@ -1,1 +1,169 @@
-J3VzZSBzdHJpY3QnOwoKLyoqCiAqIOW+ruS/oeWwj+eoi+W6j+eJiCDCtyDpgLvovpHlhpLng5/mtYvor5XvvIhOb2RlIOeOr+Wig+i/kOihjO+8iQogKiDnm67nmoTvvJrnoa7orqTov4Hnp7vliLDlsI/nqIvluo/lkI7vvIzlhazlvI/jgIHlj4LmlbDjgIHljoblj7LjgIHmibnph4/jgIHlr7zlh7rkuI7ljp8gV2ViIOeJiOWujOWFqOS4gOiHtOOAggogKiDov5DooYzvvJpub2RlIHRlc3Qvc21va2UuanMKICovCgp2YXIgYXNzZXJ0ID0gcmVxdWlyZSgnbm9kZTphc3NlcnQvc3RyaWN0Jyk7Cgp2YXIgY2FsY3VsYXRpb24gPSByZXF1aXJlKCcuLi91dGlscy9jYWxjdWxhdGlvbicpOwp2YXIgcGFyYW1ldGVyU3RvcmUgPSByZXF1aXJlKCcuLi91dGlscy9wYXJhbWV0ZXItc3RvcmUnKTsKdmFyIGhpc3RvcnlTdG9yZSA9IHJlcXVpcmUoJy4uL3V0aWxzL2hpc3Rvcnktc3RvcmUnKTsKdmFyIGJhdGNoRGF0YSA9IHJlcXVpcmUoJy4uL3V0aWxzL2JhdGNoLWRhdGEnKTsKdmFyIHN0b3JhZ2UgPSByZXF1aXJlKCcuLi91dGlscy9zdG9yYWdlJyk7CnZhciByZXN1bHRPdXRwdXQgPSByZXF1aXJlKCcuLi91dGlscy9yZXN1bHQtb3V0cHV0Jyk7CnZhciBmb3JtYXQgPSByZXF1aXJlKCcuLi91dGlscy9mb3JtYXQnKTsKCnZhciBiYXNlID0gewogIG1hdGVyaWFsOiAnMjAxJywKICB0aGlja25lc3M6ICcwLjMnLAogIHdpZHRoOiAnNjAwJywKICB3ZWlnaHQ6ICcxMDAnLAogIG1vZGU6ICdkb3VibGUnLAogIGZvcm11bGE6IDIKfTsKCi8qIDEuIOWfuuacrOWFrOW8jyAqLwp2YXIgcmVzdWx0ID0gY2FsY3VsYXRpb24uY2FsY3VsYXRlKGJhc2UpOwphc3NlcnQuZXF1YWwocmVzdWx0LmN1dCwgMzIwLCAn5Y+M5o6S5Ymq5Y+j5bqU5Li6IDMyMCBtbScpOwphc3NlcnQuZXF1YWwocmVzdWx0LnNxdWFyZVVuaXRXZWlnaHQudG9GaXhlZCg0KSwgJzAuMTkxMicsICfnrKwgMiDlpZfljZXph43lupTkuLogMC4xOTEyJyk7CmFzc2VydC5lcXVhbChyZXN1bHQucXVhbnRpdHksIDQzMCwgJ+ekuuS+i+mihOiuoeaVsOmHj+W6lOS4uiA0MzAg5LiqJyk7CmFzc2VydC5lcXVhbChyZXN1bHQuZm9ybXVsYVZlcnNpb24sICcyLjEuMCcpOwphc3NlcnQuZXF1YWwocmVzdWx0LnBhcmFtZXRlclZlcnNpb24sICfpu5jorqTlj4LmlbAgdjAnKTsKYXNzZXJ0LmVxdWFsKHJlc3VsdC5zY3JhcFJhdGlvLCAwLjEyLCAn5Y+M5o6S6KeS5paZ5q+U5L6L5bqU5Li6IDEyJScpOwphc3NlcnQuZXF1YWwoTnVtYmVyKHJlc3VsdC5zY3JhcFdlaWdodC50b1ByZWNpc2lvbigxMikpLCAxMiwgJ+WPjOaOkiAxMDAga2cg5p2Q5paZ55qE6KeS5paZ6YeN6YeP5bqU5Li6IDEyIGtnJyk7CgovKiAyLiDlhazlvI/nuqbmnZ8gKi8KYXNzZXJ0LnRocm93cyhmdW5jdGlvbiAoKSB7IGNhbGN1bGF0aW9uLmNhbGN1bGF0ZShPYmplY3QuYXNzaWduKHt9LCBiYXNlLCB7IGZvcm11bGE6IDMgfSkpOyB9LCAv56ysIDMg5aWXLywgJ+esrCAzIOWll+WPquWFgeiuuOWNleaOkicpOwphc3NlcnQudGhyb3dzKGZ1bmN0aW9uICgpIHsgY2FsY3VsYXRpb24uY2FsY3VsYXRlKE9iamVjdC5hc3NpZ24oe30sIGJhc2UsIHsgdGhpY2tuZXNzOiAnJyB9KSk7IH0sIC/ljprluqYvLCAn56m65Y6a5bqm5bqU5oql6ZSZJyk7CmFzc2VydC50aHJvd3MoZnVuY3Rpb24gKCkgeyBjYWxjdWxhdGlvbi5jYWxjdWxhdGUoT2JqZWN0LmFzc2lnbih7fSwgYmFzZSwgeyBtYXRlcmlhbDogJzk5OScgfSkpOyB9LCAv5p2Q6LSoLywgJ+mdnuazleadkOi0qOW6lOaKpemUmScpOwoKLyogMy4g56ysIDMg5aWX77yI5Y2V5o6S5pa554mH77yJICovCnZhciBzaGVldCA9IGNhbGN1bGF0aW9uLmNhbGN1bGF0ZSh7IG1hdGVyaWFsOiAnMjAxJywgdGhpY2tuZXNzOiAwLjMsIHdpZHRoOiA2MDAsIHdlaWdodDogMTAwLCBtb2RlOiAnc2luZ2xlJywgZm9ybXVsYTogMyB9KTsKYXNzZXJ0LmVxdWFsKHNoZWV0LmN1dCwgNjAwLCAn5Y2V5o6S5Ymq5Y+j55u05o6l5Y+W5a695bqmJyk7CmFzc2VydC5lcXVhbChzaGVldC5hcHBsaWVkVXNhYmxlRmFjdG9yLCBudWxsLCAn56ysIDMg5aWX5LiN5LmY5q+U5L6L57O75pWwJyk7CmFzc2VydC5lcXVhbChzaGVldC51c2FibGVXZWlnaHQsIDEwMCwgJ+esrCAzIOWll+S9v+eUqOadkOaWmeaAu+mHjScpOwphc3NlcnQuZXF1YWwoc2hlZXQuc2NyYXBSYXRpbywgMC4yMiwgJ+WNleaOkuinkuaWmeavlOS+i+W6lOS4uiAyMiUnKTsKYXNzZXJ0LmVxdWFsKE51bWJlcihzaGVldC5zY3JhcFdlaWdodC50b1ByZWNpc2lvbigxMikpLCAyMiwgJ+WNleaOkiAxMDAga2cg5p2Q5paZ55qE6KeS5paZ6YeN6YeP5bqU5Li6IDIyIGtnJyk7CmFzc2VydC5vayhzaGVldC5xdWFudGl0eSA+IDApOwoKLyogNC4g5Y+C5pWw5a2Y5YKo77ya6buY6K6kIOKGkiDkv67mlLkg4oaSIOS5kOingumUgSDihpIg5qCh6aqMICovCnZhciBzdGF0ZTAgPSBwYXJhbWV0ZXJTdG9yZS5yZWFkU3RhdGUoKTsKYXNzZXJ0LmVxdWFsKHN0YXRlMC5yZXZpc2lvbiwgMCwgJ+WIneWni+WPguaVsOeJiOacrOW6lOS4uiAwJyk7CnZhciB2YWx1ZXMgPSBwYXJhbWV0ZXJTdG9yZS5lZGl0YWJsZVZhbHVlcyhzdGF0ZTAucGFyYW1ldGVycyk7CmFzc2VydC5lcXVhbCh2YWx1ZXNbJ21hdGVyaWFscy4yMDEucmFkaXVzJ10sIDAuNzkzKTsKYXNzZXJ0LmVxdWFsKHZhbHVlc1snbW9kZXMuZG91YmxlLndpZHRoRGl2aXNvciddLCAxLjg3KTsKYXNzZXJ0LmVxdWFsKHZhbHVlc1snbW9kZXMuc2luZ2xlLnNjcmFwUmF0aW8nXSwgMC4yMiwgJ+WNleaOkuinkuaWmeavlOS+i+m7mOiupOW6lOS4uiAwLjIyJyk7CmFzc2VydC5lcXVhbCh2YWx1ZXNbJ21vZGVzLmRvdWJsZS5zY3JhcFJhdGlvJ10sIDAuMTIsICflj4zmjpLop5Lmlpnmr5Tkvovpu5jorqTlupTkuLogMC4xMicpOwoKdmFyIGNoYW5nZWQgPSBPYmplY3QuYXNzaWduKHt9LCB2YWx1ZXMsIHsgJ21vZGVzLmRvdWJsZS51c2FibGVGYWN0b3InOiAwLjggfSk7CnZhciBzYXZlZCA9IHBhcmFtZXRlclN0b3JlLndyaXRlVmFsdWVzKGNoYW5nZWQsIDApOwphc3NlcnQuZXF1YWwoc2F2ZWQucmV2aXNpb24sIDEsICfkv53lrZjlkI7lj4LmlbDniYjmnKzlupTkuLogMScpOwphc3NlcnQudGhyb3dzKGZ1bmN0aW9uICgpIHsgcGFyYW1ldGVyU3RvcmUud3JpdGVWYWx1ZXMoY2hhbmdlZCwgMCk7IH0sIC/lhbbku5bpobXpnaJ85rKh5pyJ5Y+Y5YyWLywgJ+aXp+S/ruiuouWPt+S4jeiDveWGjeasoeWGmeWFpScpOwphc3NlcnQudGhyb3dzKGZ1bmN0aW9uICgpIHsgcGFyYW1ldGVyU3RvcmUud3JpdGVWYWx1ZXMoT2JqZWN0LmFzc2lnbih7fSwgY2hhbmdlZCwgeyAnbW9kZXMuZG91YmxlLndpZHRoRGl2aXNvcic6IDAgfSksIDEpOyB9LCAvMSDliLAgMTAwLywgJ+mZpOaVsOi2iueVjOW6lOaKpemUmScpOwoKdmFyIGN1c3RvbSA9IGNhbGN1bGF0aW9uLmNhbGN1bGF0ZShiYXNlLCBzYXZlZC5wYXJhbWV0ZXJzKTsKYXNzZXJ0LmVxdWFsKGN1c3RvbS5wYXJhbWV0ZXJWZXJzaW9uLCAn5pys5py65Y+C5pWwIHYxJyk7CmFzc2VydC5vayhjdXN0b20ucXVhbnRpdHkgPCByZXN1bHQucXVhbnRpdHksICfmr5Tkvovns7vmlbDosIPkvY7lkI7mlbDph4/lupTlh4/lsJEnKTsKCnZhciByZXN0b3JlZCA9IHBhcmFtZXRlclN0b3JlLnJlc3RvcmVEZWZhdWx0cygxKTsKYXNzZXJ0LmVxdWFsKHJlc3RvcmVkLnJldmlzaW9uLCAyKTsKYXNzZXJ0LmVxdWFsKHBhcmFtZXRlclN0b3JlLnJlYWRTdGF0ZSgpLnBhcmFtZXRlcnMubW9kZXMuZG91YmxlLnVzYWJsZUZhY3RvciwgMC44MjQpOwphc3NlcnQuZXF1YWwocGFyYW1ldGVyU3RvcmUucmVhZFN0YXRlKCkucGFyYW1ldGVycy5tb2Rlcy5kb3VibGUuc2NyYXBSYXRpbywgMC4xMik7CgovKiA0LjUg5pen5Y+C5pWw57yT5a2Y77yI5peg6KeS5paZ5a2X5q6177yJ5bqU6Ieq5Yqo6KGl6b2Q6buY6K6k5YC877yM6ICM5LiN5piv5pW06aG15oql6ZSZICovCnN0b3JhZ2Uuc2V0SXRlbSgnbWF0ZXJpYWwtY2FsY3VsYXRvci1wYXJhbWV0ZXJzLXYxJywgSlNPTi5zdHJpbmdpZnkoeyAgc2NoZW1hOiAxLCAgcmV2aXNpb246IDMsCiAgdXBkYXRlZEF0OiAnMjAyNi0xMC0yNlQxMDowMDowMC4wMDBaJywKICB2YWx1ZXM6IHsKICAgICdtYXRlcmlhbHMuNDEwLnJhZGl1cyc6IDAuNzg1LCAnbWF0ZXJpYWxzLjQxMC5zcXVhcmUnOiA2LjE2MiwKICAgICdtYXRlcmlhbHMuMjAxLnJhZGl1cyc6IDAuNzkzLCAnbWF0ZXJpYWxzLjIwMS5zcXVhcmUnOiA2LjIyNSwKICAgICdtYXRlcmlhbHMuMzA0LnJhZGl1cyc6IDAuNzkzLCAnbWF0ZXJpYWxzLjMwNC5zcXVhcmUnOiA2LjIyNSwKICAgICdtYXRlcmlhbHMuMzE2LnJhZGl1cyc6IDAuNzk4LCAnbWF0ZXJpYWxzLjMxNi5zcXVhcmUnOiA2LjI2NCwKICAgICdtb2Rlcy5zaW5nbGUudXNhYmxlRmFjdG9yJzogMC43NzYsICdtb2Rlcy5kb3VibGUudXNhYmxlRmFjdG9yJzogMC44MjQsCiAgICAnbW9kZXMuZG91YmxlLndpZHRoRGl2aXNvcic6IDEuODcKICB9Cn0pKTsKdmFyIHVwZ3JhZGVkID0gcGFyYW1ldGVyU3RvcmUucmVhZFN0YXRlKCk7CmFzc2VydC5lcXVhbCh1cGdyYWRlZC5yZXZpc2lvbiwgMyk7CmFzc2VydC5lcXVhbCh1cGdyYWRlZC5wYXJhbWV0ZXJzLm1vZGVzLnNpbmdsZS5zY3JhcFJhdGlvLCAwLjIyLCAn5pen5Y+C5pWw5bqU6KGl5LiK5Y2V5o6S6KeS5paZ5q+U5L6L6buY6K6k5YC8Jyk7CmFzc2VydC5lcXVhbCh1cGdyYWRlZC5wYXJhbWV0ZXJzLm1vZGVzLmRvdWJsZS5zY3JhcFJhdGlvLCAwLjEyLCAn5pen5Y+C5pWw5bqU6KGl5LiK5Y+M5o6S6KeS5paZ5q+U5L6L6buY6K6k5YC8Jyk7Cmhpc3RvcnlTdG9yZS5jbGVhckFsbCgpOwoKLyogNS4g5om56YeP6Kej5p6QICovCnZhciByb3dzID0gYmF0Y2hEYXRhLnJvd3NGcm9tVGV4dCgn5p2Q6LSoLOWOmuW6pihtbSks5a695bqmKG1tKSzmnZDmlpnph43ph48oa2cpLOWGsuaWmeaWueW8jyzljZXph43lhazlvI9cbjIwMSwwLjMsNjAwLDEwMCzlj4zmjpIsMlxuMzA0LDAuNSw2MDAsODAs5Y2V5o6SLDMnKTsKdmFyIGJhdGNoUmVzdWx0cyA9IGJhdGNoRGF0YS5jYWxjdWxhdGVSb3dzKHJvd3MsIGZ1bmN0aW9uIChpbnB1dCkgeyByZXR1cm4gY2FsY3VsYXRpb24uY2FsY3VsYXRlKGlucHV0KTsgfSk7CmFzc2VydC5lcXVhbChiYXRjaFJlc3VsdHMubGVuZ3RoLCAyKTsKYXNzZXJ0LmVxdWFsKGJhdGNoUmVzdWx0c1swXS5yZXN1bHQucXVhbnRpdHksIDQzMCwgJ+aJuemHj+e7k+aenOW6lOS4juWNleasoeS4gOiHtCcpOwphc3NlcnQub2soYmF0Y2hSZXN1bHRzWzFdLnJlc3VsdC5xdWFudGl0eSA+IDApOwoKdmFyIGJhZEhlYWRlciA9IGJhdGNoRGF0YS5yb3dzRnJvbVRleHQoJ2EsYixjXG4xLDIsMycpOwphc3NlcnQudGhyb3dzKGZ1bmN0aW9uICgpIHsgYmF0Y2hEYXRhLmNhbGN1bGF0ZVJvd3MoYmFkSGVhZGVyLCBjYWxjdWxhdGlvbi5jYWxjdWxhdGUpOyB9LCAv6KGo5aS0LywgJ+mUmeivr+ihqOWktOW6lOaKpemUmScpOwoKLyogNi4g5Y6G5Y+y5a2Y5YKoICovCmhpc3RvcnlTdG9yZS5jbGVhckFsbCgpOwphc3NlcnQuZXF1YWwoaGlzdG9yeVN0b3JlLnJlYWRSZWNvcmRzKCkubGVuZ3RoLCAwKTsKaGlzdG9yeVN0b3JlLmFkZFJlc3VsdHMoW3Jlc3VsdCwgc2hlZXRdKTsKYXNzZXJ0LmVxdWFsKGhpc3RvcnlTdG9yZS5yZWFkUmVjb3JkcygpLmxlbmd0aCwgMik7CnZhciByZWNvcmRzID0gaGlzdG9yeVN0b3JlLnJlYWRSZWNvcmRzKCk7CmFzc2VydC5lcXVhbChyZWNvcmRzWzBdLnJlc3VsdC5xdWFudGl0eSwgcmVzdWx0LnF1YW50aXR5LCAn5paw5YaZ5YWl6K6w5b2V5bqU5oyJ5o+Q5Lqk6aG65bqP5o6S5Zyo5pyA5YmNJyk7Cmhpc3RvcnlTdG9yZS5yZW1vdmUocmVjb3Jkc1sxXS5pZCk7CmFzc2VydC5lcXVhbChoaXN0b3J5U3RvcmUucmVhZFJlY29yZHMoKS5sZW5ndGgsIDEpOwoKdmFyIGJhY2t1cCA9IGhpc3RvcnlTdG9yZS5leHBvcnRCYWNrdXAoKTsKYXNzZXJ0LmVxdWFsKGJhY2t1cC5mb3JtYXQsICdtYXRlcmlhbC1jYWxjdWxhdG9yLWhpc3RvcnknKTsKYXNzZXJ0LmVxdWFsKGJhY2t1cC5yZWNvcmRzLmxlbmd0aCwgMSk7CnZhciBpbXBvcnRlZCA9IGhpc3RvcnlTdG9yZS5pbXBvcnRCYWNrdXAoewogIGZvcm1hdDogJ21hdGVyaWFsLWNhbGN1bGF0b3ItaGlzdG9yeScsCiAgdmVyc2lvbjogMSwKICByZWNvcmRzOiBbCiAgICBiYWNrdXAucmVjb3Jkc1swXSwKICAgIE9iamVjdC5hc3NpZ24oe30sIGJhY2t1cC5yZWNvcmRzWzBdLCB7IGlkOiAnZXh0cmEtcmVjb3JkJyB9KQogIF0KfSk7CmFzc2VydC5lcXVhbChpbXBvcnRlZC5pbXBvcnRlZCwgMSwgJ+mHjeWkjSBpZCDlupTot7Pov4cnKTsKYXNzZXJ0LmVxdWFsKGltcG9ydGVkLnNraXBwZWQsIDEpOwoKLyogNy4g5a+85Ye6ICovCnZhciBjc3YgPSByZXN1bHRPdXRwdXQuY3N2KFtyZXN1bHQsIHNoZWV0XSk7CmFzc2VydC5vayhjc3YuY2hhckNvZGVBdCgwKSA9PT0gMHhmZWZmLCAnQ1NWIOW6lOW4piBVVEYtOCBCT00nKTsKdmFyIGNzdkxpbmVzID0gY3N2LnNsaWNlKDEpLnNwbGl0KCdcclxuJyk7CmFzc2VydC5lcXVhbChjc3ZMaW5lc1swXS5zcGxpdCgnLCcpLmxlbmd0aCwgcmVzdWx0T3V0cHV0LkhFQURFUlMubGVuZ3RoLCAn5a+85Ye65YiX5pWw5bqU5LiO6KGo5aS05LiA6Ie0Jyk7CmFzc2VydC5vayhjc3YuaW5kZXhPZignIjIwMSInKSAhPT0gLTEpOwp2YXIgc2NyYXBDb2x1bW4gPSByZXN1bHRPdXRwdXQuSEVBREVSUy5pbmRleE9mKCfop5Lmlpnph43ph48oa2cpJyk7CmFzc2VydC5vayhzY3JhcENvbHVtbiAhPT0gLTEsICflr7zlh7rooajlpLTlupTljIXlkKvop5Lmlpnph43ph48nKTsKYXNzZXJ0LmVxdWFsKGNzdkxpbmVzWzFdLnNwbGl0KCcsJylbc2NyYXBDb2x1bW5dLCAnIjEyIicsICflj4zmjpIgMTAwIGtnIOW6lOWcqOWvvOWHuuS4reaYvuekuuinkuaWmSAxMiBrZycpOwoKLyog5pen54mI5pys77yIMi4wLjDvvInljoblj7LorrDlvZXmsqHmnInop5LmlpnlrZfmrrXvvJrlr7zlh7rnlZnnqbogKi8KdmFyIGxlZ2FjeUV4cG9ydCA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkocmVzdWx0KSk7CmRlbGV0ZSBsZWdhY3lFeHBvcnQuc2NyYXBSYXRpbzsKZGVsZXRlIGxlZ2FjeUV4cG9ydC5zY3JhcFdlaWdodDsKZGVsZXRlIGxlZ2FjeUV4cG9ydC5wYXJhbWV0ZXJzLnNjcmFwUmF0aW87CnZhciBsZWdhY3lDc3YgPSByZXN1bHRPdXRwdXQuY3N2KFtsZWdhY3lFeHBvcnRdKTsKdmFyIGxlZ2FjeUNlbGxzID0gbGVnYWN5Q3N2LnNsaWNlKDEpLnNwbGl0KCdcclxuJylbMV0uc3BsaXQoJywnKTsKYXNzZXJ0LmVxdWFsKGxlZ2FjeUNlbGxzW3NjcmFwQ29sdW1uXSwgJyIiJywgJ+aXp+iusOW9leinkuaWmeWIl+W6lOS4uuepuicpOwoKdmFyIHN1bW1hcnkgPSByZXN1bHRPdXRwdXQudGV4dFN1bW1hcnkocmVzdWx0KTsKYXNzZXJ0Lm9rKHN1bW1hcnkuaW5kZXhPZign6aKE6K6h5pWw6YeP77yaNDMwIOS4qicpICE9PSAtMSwgJ+aRmOimgeW6lOWMheWQq+aVsOmHjycpOwphc3NlcnQub2soc3VtbWFyeS5pbmRleE9mKCfnrKwgMiDlpZcnKSAhPT0gLTEsICfmkZjopoHlupTljIXlkKvlhazlvI8nKTsKYXNzZXJ0Lm9rKHN1bW1hcnkuaW5kZXhPZign6KeS5paZ6YeN6YeP77yaMTIga2cnKSAhPT0gLTEsICfmkZjopoHlupTljIXlkKvop5Lmlpnph43ph48nKTsKCnZhciBwYWlycyA9IHJlc3VsdE91dHB1dC5kZXRhaWxQYWlycyhzaGVldCk7CmFzc2VydC5vayhwYWlycy5zb21lKGZ1bmN0aW9uIChwYWlyKSB7IHJldHVybiBwYWlyLmtleSA9PT0gJ+aWueeJh+WNlemHjSc7IH0pLCAn56ysIDMg5aWX5bqU5pi+56S65pa554mH5Y2V6YeNJyk7CmFzc2VydC5vayhwYWlycy5zb21lKGZ1bmN0aW9uIChwYWlyKSB7IHJldHVybiBwYWlyLmtleSA9PT0gJ+inkuaWmemHjemHjycgJiYgcGFpci52YWx1ZSA9PT0gJzIyIGtnJzsgfSksICfnrKwgMyDlpZflupTmmL7npLrop5LmlpkgMjIga2cnKTsKCi8qIDguIOagvOW8j+WMliAqLwphc3NlcnQuZXF1YWwoZm9ybWF0LnRob3VzYW5kcygxMjM0NTY3KSwgJzEsMjM0LDU2NycpOwphc3NlcnQuZXF1YWwoZm9ybWF0LnRob3VzYW5kcyg0MzApLCAnNDMwJyk7CmFzc2VydC5lcXVhbChmb3JtYXQuZml4ZWQ0KDAuMTkxMjI0NSksICcwLjE5MTInKTsKYXNzZXJ0Lm1hdGNoKGZvcm1hdC5kYXRlVGltZSgnMjAyNi0xMC0yNlQxMDowMDowMC4wMDBaJyksIC9eXGR7NH0tXGR7Mn0tXGR7Mn0gXGR7Mn06XGR7Mn0kLyk7CgovKiA5LiDljoblj7Lph43nrpfvvIjlkKvml6fniYjmnKznvJblj7fkupLmjaLvvIkgKi8KdmFyIGxlZ2FjeSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkocmVzdWx0KSk7CmxlZ2FjeS5mb3JtdWxhVmVyc2lvbiA9ICcxLjIuMCc7CmxlZ2FjeS5pbnB1dC5mb3JtdWxhID0gMTsKdmFyIHBhdGNoZWQgPSBjYWxjdWxhdGlvbi5jdXJyZW50SW5wdXRGcm9tSGlzdG9yeShsZWdhY3kpOwphc3NlcnQuZXF1YWwocGF0Y2hlZC5mb3JtdWxhLCAyLCAndjEg55qE57yW5Y+3IDEg5bqU5pig5bCE5Li6IHYyIOeahOesrCAyIOWllycpOwoKY29uc29sZS5sb2coJ+Wwj+eoi+W6j+eJiOmAu+i+keWGkueDn+a1i+ivlemAmui/h++8muWNleasoSA0MzAg5Liq44CB6KeS5paZIDEyLzIyIGtn44CB56ysIDMg5aWX5Y2V5o6S5o2i566X44CB5Y+C5pWw54mI5pys6ZSB44CB5pen5Y+C5pWw6Ieq5Yqo6KGl6KeS5paZ6buY6K6k5YC844CB5om56YeP6Kej5p6Q44CB5Y6G5Y+y5aSH5Lu95ZCI5bm244CBQ1NWIOWvvOWHuuWdh+ato+W4uOOAgicpOwo=
+'use strict';
+
+/**
+ * 微信小程序版 · 逻辑冒烟测试（Node 环境运行）
+ * 目的：确认迁移到小程序后，公式、参数、历史、批量、导出与原 Web 版完全一致。
+ * 运行：node test/smoke.js
+ */
+
+var assert = require('node:assert/strict');
+
+var calculation = require('../utils/calculation');
+var parameterStore = require('../utils/parameter-store');
+var historyStore = require('../utils/history-store');
+var batchData = require('../utils/batch-data');
+var storage = require('../utils/storage');
+var resultOutput = require('../utils/result-output');
+var format = require('../utils/format');
+
+var base = {
+  material: '201',
+  thickness: '0.3',
+  width: '600',
+  weight: '100',
+  mode: 'double',
+  formula: 2
+};
+
+/* 1. 基本公式 */
+var result = calculation.calculate(base);
+assert.equal(result.cut, 320, '双排剪口应为 320 mm');
+assert.equal(result.squareUnitWeight.toFixed(4), '0.1912', '第 2 套单重应为 0.1912');
+assert.equal(result.quantity, 430, '示例预计数量应为 430 个');
+assert.equal(result.formulaVersion, '2.1.0');
+assert.equal(result.parameterVersion, '默认参数 v0');
+assert.equal(result.scrapRatio, 0.12, '双排角料比例应为 12%');
+assert.equal(Number(result.scrapWeight.toPrecision(12)), 12, '双排 100 kg 材料的角料重量应为 12 kg');
+
+/* 2. 公式约束 */
+assert.throws(function () { calculation.calculate(Object.assign({}, base, { formula: 3 })); }, /第 3 套/, '第 3 套只允许单排');
+assert.throws(function () { calculation.calculate(Object.assign({}, base, { thickness: '' })); }, /厚度/, '空厚度应报错');
+assert.throws(function () { calculation.calculate(Object.assign({}, base, { material: '999' })); }, /材质/, '非法材质应报错');
+
+/* 3. 第 3 套（单排方片） */
+var sheet = calculation.calculate({ material: '201', thickness: 0.3, width: 600, weight: 100, mode: 'single', formula: 3 });
+assert.equal(sheet.cut, 600, '单排剪口直接取宽度');
+assert.equal(sheet.appliedUsableFactor, null, '第 3 套不乘比例系数');
+assert.equal(sheet.usableWeight, 100, '第 3 套使用材料总重');
+assert.equal(sheet.scrapRatio, 0.22, '单排角料比例应为 22%');
+assert.equal(Number(sheet.scrapWeight.toPrecision(12)), 22, '单排 100 kg 材料的角料重量应为 22 kg');
+assert.ok(sheet.quantity > 0);
+
+/* 4. 参数存储：默认 → 修改 → 乐观锁 → 校验 */
+var state0 = parameterStore.readState();
+assert.equal(state0.revision, 0, '初始参数版本应为 0');
+var values = parameterStore.editableValues(state0.parameters);
+assert.equal(values['materials.201.radius'], 0.793);
+assert.equal(values['modes.double.widthDivisor'], 1.87);
+assert.equal(values['modes.single.scrapRatio'], 0.22, '单排角料比例默认应为 0.22');
+assert.equal(values['modes.double.scrapRatio'], 0.12, '双排角料比例默认应为 0.12');
+
+var changed = Object.assign({}, values, { 'modes.double.usableFactor': 0.8 });
+var saved = parameterStore.writeValues(changed, 0);
+assert.equal(saved.revision, 1, '保存后参数版本应为 1');
+assert.throws(function () { parameterStore.writeValues(changed, 0); }, /其他页面|没有变化/, '旧修订号不能再次写入');
+assert.throws(function () { parameterStore.writeValues(Object.assign({}, changed, { 'modes.double.widthDivisor': 0 }), 1); }, /1 到 100/, '除数越界应报错');
+
+var custom = calculation.calculate(base, saved.parameters);
+assert.equal(custom.parameterVersion, '本机参数 v1');
+assert.ok(custom.quantity < result.quantity, '比例系数调低后数量应减少');
+
+var restored = parameterStore.restoreDefaults(1);
+assert.equal(restored.revision, 2);
+assert.equal(parameterStore.readState().parameters.modes.double.usableFactor, 0.824);
+assert.equal(parameterStore.readState().parameters.modes.double.scrapRatio, 0.12);
+
+/* 4.5 旧参数缓存（无角料字段）应自动补齐默认值，而不是整页报错 */
+storage.setItem('material-calculator-parameters-v1', JSON.stringify({  schema: 1,  revision: 3,
+  updatedAt: '2026-10-26T10:00:00.000Z',
+  values: {
+    'materials.410.radius': 0.785, 'materials.410.square': 6.162,
+    'materials.201.radius': 0.793, 'materials.201.square': 6.225,
+    'materials.304.radius': 0.793, 'materials.304.square': 6.225,
+    'materials.316.radius': 0.798, 'materials.316.square': 6.264,
+    'modes.single.usableFactor': 0.776, 'modes.double.usableFactor': 0.824,
+    'modes.double.widthDivisor': 1.87
+  }
+}));
+var upgraded = parameterStore.readState();
+assert.equal(upgraded.revision, 3);
+assert.equal(upgraded.parameters.modes.single.scrapRatio, 0.22, '旧参数应补上单排角料比例默认值');
+assert.equal(upgraded.parameters.modes.double.scrapRatio, 0.12, '旧参数应补上双排角料比例默认值');
+historyStore.clearAll();
+
+/* 5. 批量解析 */
+var rows = batchData.rowsFromText('材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式\n201,0.3,600,100,双排,2\n304,0.5,600,80,单排,3');
+var batchResults = batchData.calculateRows(rows, function (input) { return calculation.calculate(input); });
+assert.equal(batchResults.length, 2);
+assert.equal(batchResults[0].result.quantity, 430, '批量结果应与单次一致');
+assert.ok(batchResults[1].result.quantity > 0);
+
+var badHeader = batchData.rowsFromText('a,b,c\n1,2,3');
+assert.throws(function () { batchData.calculateRows(badHeader, calculation.calculate); }, /表头/, '错误表头应报错');
+
+/* 6. 历史存储 */
+historyStore.clearAll();
+assert.equal(historyStore.readRecords().length, 0);
+historyStore.addResults([result, sheet]);
+assert.equal(historyStore.readRecords().length, 2);
+var records = historyStore.readRecords();
+assert.equal(records[0].result.quantity, result.quantity, '新写入记录应按提交顺序排在最前');
+historyStore.remove(records[1].id);
+assert.equal(historyStore.readRecords().length, 1);
+
+var backup = historyStore.exportBackup();
+assert.equal(backup.format, 'material-calculator-history');
+assert.equal(backup.records.length, 1);
+var imported = historyStore.importBackup({
+  format: 'material-calculator-history',
+  version: 1,
+  records: [
+    backup.records[0],
+    Object.assign({}, backup.records[0], { id: 'extra-record' })
+  ]
+});
+assert.equal(imported.imported, 1, '重复 id 应跳过');
+assert.equal(imported.skipped, 1);
+
+/* 7. 导出 */
+var csv = resultOutput.csv([result, sheet]);
+assert.ok(csv.charCodeAt(0) === 0xfeff, 'CSV 应带 UTF-8 BOM');
+var csvLines = csv.slice(1).split('\r\n');
+assert.equal(csvLines[0].split(',').length, resultOutput.HEADERS.length, '导出列数应与表头一致');
+assert.ok(csv.indexOf('"201"') !== -1);
+var scrapColumn = resultOutput.HEADERS.indexOf('角料重量(kg)');
+assert.ok(scrapColumn !== -1, '导出表头应包含角料重量');
+assert.equal(csvLines[1].split(',')[scrapColumn], '"12"', '双排 100 kg 应在导出中显示角料 12 kg');
+
+/* 旧版本（2.0.0）历史记录没有角料字段：导出留空 */
+var legacyExport = JSON.parse(JSON.stringify(result));
+delete legacyExport.scrapRatio;
+delete legacyExport.scrapWeight;
+delete legacyExport.parameters.scrapRatio;
+var legacyCsv = resultOutput.csv([legacyExport]);
+var legacyCells = legacyCsv.slice(1).split('\r\n')[1].split(',');
+assert.equal(legacyCells[scrapColumn], '""', '旧记录角料列应为空');
+
+var summary = resultOutput.textSummary(result);
+assert.ok(summary.indexOf('预计数量：430 个') !== -1, '摘要应包含数量');
+assert.ok(summary.indexOf('第 2 套') !== -1, '摘要应包含公式');
+assert.ok(summary.indexOf('角料重量：12 kg') !== -1, '摘要应包含角料重量');
+
+var pairs = resultOutput.detailPairs(sheet);
+assert.ok(pairs.some(function (pair) { return pair.key === '方片单重'; }), '第 3 套应显示方片单重');
+assert.ok(pairs.some(function (pair) { return pair.key === '角料重量' && pair.value === '22 kg'; }), '第 3 套应显示角料 22 kg');
+
+/* 8. 格式化 */
+assert.equal(format.thousands(1234567), '1,234,567');
+assert.equal(format.thousands(430), '430');
+assert.equal(format.fixed4(0.1912245), '0.1912');
+assert.match(format.dateTime('2026-10-26T10:00:00.000Z'), /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/);
+
+/* 9. 历史重算（含旧版本编号互换） */
+var legacy = JSON.parse(JSON.stringify(result));
+legacy.formulaVersion = '1.2.0';
+legacy.input.formula = 1;
+var patched = calculation.currentInputFromHistory(legacy);
+assert.equal(patched.formula, 2, 'v1 的编号 1 应映射为 v2 的第 2 套');
+
+console.log('小程序版逻辑冒烟测试通过：单次 430 个、角料 12/22 kg、第 3 套单排换算、参数版本锁、旧参数自动补角料默认值、批量解析、历史备份合并、CSV 导出均正常。');

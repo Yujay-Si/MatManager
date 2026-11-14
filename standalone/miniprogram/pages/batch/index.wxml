@@ -1,1 +1,94 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDx2aWV3IGNsYXNzPSJwYWdlLWhlYWQiPgogICAgPHZpZXcgY2xhc3M9InBhZ2UtZXllYnJvdyI+56a757q/5bel5YW3IC8g5p2Q5paZ5Yay54mH6K6h566XPC92aWV3PgogICAgPHZpZXcgY2xhc3M9InBhZ2UtdGl0bGUiPuaJuemHj+iuoeeulzwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJwYWdlLWRlc2MiPuaMieaooeadv+Whq+WGmeaVsOaNru+8jOaUr+aMgeebtOaOpeeymOi0tOihqOagvOWGheWuueaIluS7juW+ruS/oeiBiuWkqemAieaLqSBDU1Yg5paH5Lu244CC5Y2V5qyh5pyA5aSaIDUwMCDmnaHvvIzmlofku7bkuI3otoXov4cgMiBNQuOAgjwvdmlldz4KICA8L3ZpZXc+CgogIDx2aWV3IGNsYXNzPSJjYXJkIj4KICAgIDx2aWV3IGNsYXNzPSJzZWN0aW9uLWhlYWQiPgogICAgICA8dGV4dCBjbGFzcz0ic2VjdGlvbi10aXRsZSI+56ys5LiA5q2lIMK3IOWHhuWkh+aVsOaNrjwvdGV4dD4KICAgICAgPHRleHQgY2xhc3M9InNlY3Rpb24tc3ViIj5DU1YgLyDliLbooajnrKY8L3RleHQ+CiAgICA8L3ZpZXc+CgogICAgPHZpZXcgY2xhc3M9Im5vdGUiPgogICAgICA8dGV4dCBjbGFzcz0ibm90ZS10aXRsZSI+6KGo5aS05b+F6aG75L6d5qyh5Li6PC90ZXh0PgogICAgICDmnZDotKgs5Y6a5bqmKG1tKSzlrr3luqYobW0pLOadkOaWmemHjemHjyhrZyks5Yay5paZ5pa55byPLOWNlemHjeWFrOW8jwogICAgICA8dmlldyBjbGFzcz0idGVtcGxhdGUtZGVtbyI+56S65L6L77yaMjAxLDAuMyw2MDAsMTAwLOWPjOaOkiwyPC92aWV3PgogICAgICDljZXph43lhazlvI/loasgMe+8iOWchueJh+WvhuW6pueul+azle+8ieaIliAy77yI5ZyG54mH5a+G5bqm6auY57qn566X5rOV77yJ77yb5LuF5Y2V5o6S5Y+v5aGrIDPvvIjmlrnniYflr4bluqbnrpfms5XvvInjgILml6fniYjmlofku7blr7zlhaXliY3pnIDkupLmjaLlhazlvI8gMeOAgTIg55qE57yW5Y+344CCCiAgICA8L3ZpZXc+CgogICAgPHZpZXcgY2xhc3M9ImJ0bi1yb3ciPgogICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNlY29uZGFyeSBidG4tc21hbGwiIGhvdmVyLWNsYXNzPSJidG4taG92ZXIiIGJpbmR0YXA9Im9uQ29weVRlbXBsYXRlIj7lpI3liLbmqKHmnb/ooajlpLQ8L2J1dHRvbj4KICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1zZWNvbmRhcnkgYnRuLXNtYWxsIiBob3Zlci1jbGFzcz0iYnRuLWhvdmVyIiBiaW5kdGFwPSJvblNhdmVUZW1wbGF0ZSI+5L+d5a2Y5qih5p2/5paH5Lu2PC9idXR0b24+CiAgICA8L3ZpZXc+CgogICAgPHZpZXcgY2xhc3M9ImZpZWxkIHRlbXBsYXRlLWZpZWxkIj4KICAgICAgPHRleHQgY2xhc3M9ImZpZWxkLWxhYmVsIj7nspjotLTmlbDmja4gPHRleHQgY2xhc3M9InVuaXQiPummluihjOS4uuihqOWktO+8jOWPr+ebtOaOpeeymOi0tCBFeGNlbCDljZXlhYPmoLzljLrln588L3RleHQ+PC90ZXh0PgogICAgICA8dGV4dGFyZWEKICAgICAgICBjbGFzcz0idGV4dGFyZWEiCiAgICAgICAgdmFsdWU9Int7dGV4dH19IgogICAgICAgIHBsYWNlaG9sZGVyPSLmnZDotKgs5Y6a5bqmKG1tKSzlrr3luqYobW0pLOadkOaWmemHjemHjyhrZyks5Yay5paZ5pa55byPLOWNlemHjeWFrOW8jyYjMTA7MjAxLDAuMyw2MDAsMTAwLOWPjOaOkiwyIgogICAgICAgIG1heGxlbmd0aD0iLTEiCiAgICAgICAgYmluZGlucHV0PSJvblRleHRJbnB1dCIKICAgICAgLz4KICAgIDwvdmlldz4KCiAgICA8dmlldyBjbGFzcz0iZmllbGQiPgogICAgICA8dGV4dCBjbGFzcz0iZmllbGQtbGFiZWwiPuaIluS7juW+ruS/oeiBiuWkqemAieaLqSBDU1Yg5paH5Lu2IDx0ZXh0IGNsYXNzPSJ1bml0Ij7lj6/lhYjlj5HliLDjgIzmlofku7bkvKDovpPliqnmiYvjgI08L3RleHQ+PC90ZXh0PgogICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNlY29uZGFyeSBidG4tYmxvY2sgYnRuLXNtYWxsIiBob3Zlci1jbGFzcz0iYnRuLWhvdmVyIiBiaW5kdGFwPSJvbkNob29zZUZpbGUiPumAieaLqSBDU1Yg5paH5Lu2PC9idXR0b24+CiAgICAgIDx2aWV3IHd4OmlmPSJ7e2ZpbGVOYW1lfX0iIGNsYXNzPSJmaWxlLWNoaXAiPuW3sumAieaLqe+8mnt7ZmlsZU5hbWV9fe+8iHt7ZmlsZVNpemVUZXh0fX3vvIk8L3ZpZXc+CiAgICA8L3ZpZXc+CgogICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayIgaG92ZXItY2xhc3M9ImJ0bi1ob3ZlciIgYmluZHRhcD0ib25SdW4iPuiuoeeul+aJuemHj+aVsOaNrjwvYnV0dG9uPgogICAgPHZpZXcgd3g6aWY9Int7c3RhdHVzfX0iIGNsYXNzPSJzdGF0dXMge3tzdGF0dXNFcnJvciA/ICdpcy1lcnJvcicgOiAnJ319Ij57e3N0YXR1c319PC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgd3g6aWY9Int7cm93cy5sZW5ndGh9fSIgY2xhc3M9ImNhcmQiPgogICAgPHZpZXcgY2xhc3M9InNlY3Rpb24taGVhZCI+CiAgICAgIDx0ZXh0IGNsYXNzPSJzZWN0aW9uLXRpdGxlIj7pgJDooYznu5Pmnpw8L3RleHQ+CiAgICAgIDx0ZXh0IGNsYXNzPSJzZWN0aW9uLXN1YiI+e3tzdW1tYXJ5fX08L3RleHQ+CiAgICA8L3ZpZXc+CgogICAgPHNjcm9sbC12aWV3IHNjcm9sbC14IGNsYXNzPSJiYXRjaC1zY3JvbGwiPgogICAgICA8dmlldyBjbGFzcz0iYmF0Y2gtdGFibGUiPgogICAgICAgIDx2aWV3IGNsYXNzPSJ0YWJsZS1oZWFkIj4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtbGluZSI+6KGMPC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwgY2VsbC1tYXQiPuadkOi0qDwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIj7ljprluqY8L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCI+5a695bqmPC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwiPumHjemHjzwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtbW9kZSI+5Yay5paZPC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwgY2VsbC1jdXQiPuWJquWPozwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtcXR5Ij7mlbDph488L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCBjZWxsLXNjcmFwIj7op5Lmlpkoa2cpPC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwgY2VsbC1zdGF0ZSI+54q25oCBPC92aWV3PgogICAgICAgIDwvdmlldz4KICAgICAgICA8dmlldyB3eDpmb3I9Int7cm93c319IiB3eDprZXk9ImxpbmUiIGNsYXNzPSJ0YWJsZS1yb3cge3tpdGVtLmlzRXJyb3IgPyAnaXMtZXJyb3InIDogJyd9fSI+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCBjZWxsLWxpbmUiPnt7aXRlbS5saW5lfX08L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCBjZWxsLW1hdCI+e3tpdGVtLm1hdGVyaWFsfX08L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCI+e3tpdGVtLnRoaWNrbmVzc319PC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwiPnt7aXRlbS53aWR0aH19PC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwiPnt7aXRlbS53ZWlnaHR9fTwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtbW9kZSI+e3tpdGVtLm1vZGVUZXh0fX08L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iY2VsbCBjZWxsLWN1dCI+e3tpdGVtLmN1dH19PC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9ImNlbGwgY2VsbC1xdHkiPnt7aXRlbS5xdWFudGl0eVRleHR9fTwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtc2NyYXAiPnt7aXRlbS5zY3JhcFRleHR9fTwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJjZWxsIGNlbGwtc3RhdGUiPgogICAgICAgICAgICA8dGV4dCBjbGFzcz0iYmFkZ2Uge3tpdGVtLmlzRXJyb3IgPyAnYmFkZ2UtZXJyb3InIDogJ2JhZGdlLW9rJ319Ij57e2l0ZW0uc3RhdGVUZXh0fX08L3RleHQ+CiAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiAgICA8L3Njcm9sbC12aWV3PgoKICAgIDx2aWV3IGNsYXNzPSJidG4tcm93Ij4KICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1zZWNvbmRhcnkgYnRuLXNtYWxsIiBob3Zlci1jbGFzcz0iYnRuLWhvdmVyIiBiaW5kdGFwPSJvbkV4cG9ydENzdiI+5a+85Ye65pyJ5pWI6KGMIENTVjwvYnV0dG9uPgogICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNlY29uZGFyeSBidG4tc21hbGwiIGhvdmVyLWNsYXNzPSJidG4taG92ZXIiIGJpbmR0YXA9Im9uQ29weUludmFsaWQiPuWkjeWItumUmeivr+ihjDwvYnV0dG9uPgogICAgPC92aWV3PgogIDwvdmlldz4KCiAgPHZpZXcgY2xhc3M9Im5vdGUiPgogICAgPHRleHQgY2xhc3M9Im5vdGUtdGl0bGUiPuWwj+eoi+W6j+err+ivtOaYjjwvdGV4dD4KICAgIOacieaViOihjOS8muiHquWKqOWGmeWFpeacrOacuuWOhuWPsuiusOW9leOAguWwj+eoi+W6j+S4jeino+aekCBYTFNYIOS6jOi/m+WItu+8jOiLpeWOn+Wni+aVsOaNruaYryBFeGNlbO+8jOivt+WcqOeUteiEkeS4iuOAjOWPpuWtmOS4uiBDU1YgVVRGLTjjgI3vvIzlho3pgJrov4fjgIzmlofku7bkvKDovpPliqnmiYvjgI3lj5HpgIHliLDlvq7kv6HlkI7lr7zlhaXjgIIKICA8L3ZpZXc+Cjwvdmlldz4K
+<view class="page">
+  <view class="page-head">
+    <view class="page-eyebrow">离线工具 / 材料冲片计算</view>
+    <view class="page-title">批量计算</view>
+    <view class="page-desc">按模板填写数据，支持直接粘贴表格内容或从微信聊天选择 CSV 文件。单次最多 500 条，文件不超过 2 MB。</view>
+  </view>
+
+  <view class="card">
+    <view class="section-head">
+      <text class="section-title">第一步 · 准备数据</text>
+      <text class="section-sub">CSV / 制表符</text>
+    </view>
+
+    <view class="note">
+      <text class="note-title">表头必须依次为</text>
+      材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式
+      <view class="template-demo">示例：201,0.3,600,100,双排,2</view>
+      单重公式填 1（圆片密度算法）或 2（圆片密度高级算法）；仅单排可填 3（方片密度算法）。旧版文件导入前需互换公式 1、2 的编号。
+    </view>
+
+    <view class="btn-row">
+      <button class="btn btn-secondary btn-small" hover-class="btn-hover" bindtap="onCopyTemplate">复制模板表头</button>
+      <button class="btn btn-secondary btn-small" hover-class="btn-hover" bindtap="onSaveTemplate">保存模板文件</button>
+    </view>
+
+    <view class="field template-field">
+      <text class="field-label">粘贴数据 <text class="unit">首行为表头，可直接粘贴 Excel 单元格区域</text></text>
+      <textarea
+        class="textarea"
+        value="{{text}}"
+        placeholder="材质,厚度(mm),宽度(mm),材料重量(kg),冲料方式,单重公式&#10;201,0.3,600,100,双排,2"
+        maxlength="-1"
+        bindinput="onTextInput"
+      />
+    </view>
+
+    <view class="field">
+      <text class="field-label">或从微信聊天选择 CSV 文件 <text class="unit">可先发到「文件传输助手」</text></text>
+      <button class="btn btn-secondary btn-block btn-small" hover-class="btn-hover" bindtap="onChooseFile">选择 CSV 文件</button>
+      <view wx:if="{{fileName}}" class="file-chip">已选择：{{fileName}}（{{fileSizeText}}）</view>
+    </view>
+
+    <button class="btn btn-primary btn-block" hover-class="btn-hover" bindtap="onRun">计算批量数据</button>
+    <view wx:if="{{status}}" class="status {{statusError ? 'is-error' : ''}}">{{status}}</view>
+  </view>
+
+  <view wx:if="{{rows.length}}" class="card">
+    <view class="section-head">
+      <text class="section-title">逐行结果</text>
+      <text class="section-sub">{{summary}}</text>
+    </view>
+
+    <scroll-view scroll-x class="batch-scroll">
+      <view class="batch-table">
+        <view class="table-head">
+          <view class="cell cell-line">行</view>
+          <view class="cell cell-mat">材质</view>
+          <view class="cell">厚度</view>
+          <view class="cell">宽度</view>
+          <view class="cell">重量</view>
+          <view class="cell cell-mode">冲料</view>
+          <view class="cell cell-cut">剪口</view>
+          <view class="cell cell-qty">数量</view>
+          <view class="cell cell-scrap">角料(kg)</view>
+          <view class="cell cell-state">状态</view>
+        </view>
+        <view wx:for="{{rows}}" wx:key="line" class="table-row {{item.isError ? 'is-error' : ''}}">
+          <view class="cell cell-line">{{item.line}}</view>
+          <view class="cell cell-mat">{{item.material}}</view>
+          <view class="cell">{{item.thickness}}</view>
+          <view class="cell">{{item.width}}</view>
+          <view class="cell">{{item.weight}}</view>
+          <view class="cell cell-mode">{{item.modeText}}</view>
+          <view class="cell cell-cut">{{item.cut}}</view>
+          <view class="cell cell-qty">{{item.quantityText}}</view>
+          <view class="cell cell-scrap">{{item.scrapText}}</view>
+          <view class="cell cell-state">
+            <text class="badge {{item.isError ? 'badge-error' : 'badge-ok'}}">{{item.stateText}}</text>
+          </view>
+        </view>
+      </view>
+    </scroll-view>
+
+    <view class="btn-row">
+      <button class="btn btn-secondary btn-small" hover-class="btn-hover" bindtap="onExportCsv">导出有效行 CSV</button>
+      <button class="btn btn-secondary btn-small" hover-class="btn-hover" bindtap="onCopyInvalid">复制错误行</button>
+    </view>
+  </view>
+
+  <view class="note">
+    <text class="note-title">小程序端说明</text>
+    有效行会自动写入本机历史记录。小程序不解析 XLSX 二进制，若原始数据是 Excel，请在电脑上「另存为 CSV UTF-8」，再通过「文件传输助手」发送到微信后导入。
+  </view>
+</view>

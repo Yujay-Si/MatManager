@@ -1,1 +1,68 @@
-IyDmnZDmlpnmlbDmja7orqHnrpcgwrcg54us56uL54mI77yIdjEuMS4w77yJCgrmnKznm67lvZXmmK/jgIzmnZDmlpnmlbDmja7orqHnrpfjgI3nmoTlrozmlbTmupDnoIHvvIzljIXlkKvkuInkuKrlj6/ni6znq4vkuqTku5jnmoTnq6/vvJoKCnwg55uu5b2VIHwg5b2i5oCBIHwg5ZCv5YqoIC8g5L2/55So5pa55byPIHwg5pWw5o2u5L2N572uIHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAp8IGB3ZWIvYCB8IOemu+e6v+e9kemhteeJiO+8iOmbtuS+nei1lumdmeaAgeermeeCue+8iSB8IOWPjOWHuyBgc3RhcnQuY21kYCDmiJYgYGluZGV4Lmh0bWxgIHwg5rWP6KeI5ZmoIGxvY2FsU3RvcmFnZSB8CnwgYGRlc2t0b3AvYCB8IFdpbmRvd3Mg5qGM6Z2i54mI5p6E5bu65bel56iL77yIRWxlY3Ryb27vvIkgfCBgbnBtIGluc3RhbGxgIOKGkiBgbnBtIHJ1biBkaXN0YO+8jOS6p+eJqeS4uuWNleaWh+S7tuS+v+aQuiBFWEUgfCBgJUFQUERBVEElXFNTTWF0ZXJpYWxEYXRhQ2FsY2AgfAp8IGBtaW5pcHJvZ3JhbS9gIHwg5b6u5L+h5bCP56iL5bqP5bel56iL77yI5ZyG54mH566X6YeP77yJIHwg5b6u5L+h5byA5Y+R6ICF5bel5YW35a+85YWlIHwg5b6u5L+h5pys5Zyw57yT5a2YIHwKCuS4ieerr+S9v+eUqOWQjOS4gOWll+WFrOW8j++8muWFrOW8j+eJiOacrCAqKjIuMS4wKirvvIzljIXlkKvop5Lmlpnph43ph4/vvIjlj4zmjpIgw5cwLjEy44CB5Y2V5o6SIMOXMC4yMu+8ieOAggoKIyMg5b+r6YCf6aqM6K+BCgpgYGBwb3dlcnNoZWxsCmNkIHdlYgpub2RlIHRlc3Qvc21va2UuanMKCmNkIC4uXG1pbmlwcm9ncmFtCm5vZGUgdGVzdC9zbW9rZS5qcwpub2RlIHRlc3QvcGFnZXMuanMKbm9kZSB0b29scy92ZXJpZnkuanMKYGBgCgrmoYzpnaLniYjmnoTlu7rvvJoKCmBgYHBvd2Vyc2hlbGwKY2QgLi5cZGVza3RvcApucG0gaW5zdGFsbApucG0gcnVuIGRpc3QKYGBgCgrlm73lhoXnvZHnu5zlj6/lhYjorr7nva4gYEVMRUNUUk9OX01JUlJPUj1odHRwczovL25wbW1pcnJvci5jb20vbWlycm9ycy9lbGVjdHJvbi9gIOS4jgpgRUxFQ1RST05fQlVJTERFUl9CSU5BUklFU19NSVJST1I9aHR0cHM6Ly9ucG1taXJyb3IuY29tL21pcnJvcnMvZWxlY3Ryb24tYnVpbGRlci1iaW5hcmllcy9g44CCCgojIyDkuI4gdjAuMi4wIOWujOaVtOeJiOeahOWFs+ezuwoKYC4uL2Rlc2t0b3AvYOOAgWAuLi9vdXRwdXRzL3ByZXZpZXctc2l0ZS9g44CBYC4uL2RvY3MvYCDmmK8gTWF0TWFuYWdlciB2MC4yLjAg5a6M5pW054mI77yI5ZCr5L6b5bqU5ZWG5LiO5p2Q5paZ5Y2V5o2u77yJ55qE5rqQ56CB5LiO5paH5qGj44CCdjEuMS4wIOWPquS/neeVmeOAjOaVsOaNruiuoeeul+OAjeaooeWdl++8jOS4pOadoeS6p+WTgee6v+aVsOaNruS6kuS4jeiHquWKqOWQjOatpe+8m+iuoeeul+WPo+W+hOWQjOa6kO+8jHYxLjEuMCDmlrDlop7op5Lmlpnph43ph4/jgIIKCiMjIOebruW9leivtOaYjgoKYGBgdGV4dApzdGFuZGFsb25lLwrilJzilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAjIOacrOaWh+S7tgrilJzilIAgd2ViLwrilIIgIOKUnOKUgCBpbmRleC5odG1sICAgICAgICAgICAgICMg6aG16Z2i5YWl5Y+jCuKUgiAg4pSc4pSAIGFzc2V0cy8gICAgICAgICAgICAgICAgIyDmoLflvI/kuI7lm77moIcK4pSCICDilJzilIAgc3JjLyAgICAgICAgICAgICAgICAgICAjIGNhbGN1bGF0aW9uIC8gcGFyYW1ldGVyIC8gYmF0Y2ggLyBoaXN0b3J5IC8gZXhwb3J0IC8gdWkK4pSCICDilJzilIAgdmVuZG9yLyAgICAgICAgICAgICAgICAjIFNoZWV0SlMgMC4yMC4z77yIWExTWCDlr7zlh7rkuI7or7vlj5bvvIkK4pSCICDilJzilIAgdGVzdC9zbW9rZS5qcyAgICAgICAgICAjIOmAu+i+keWGkueDn+a1i+ivlQrilIIgIOKUnOKUgCBzZXJ2ZXIuanMgICAgICAgICAgICAgICMg6Zu25L6d6LWW6Z2Z5oCB5pyN5Yqh5ZmoCuKUgiAg4pSc4pSAIHN0YXJ0LmNtZCAgICAgICAgICAgICAgIyDlj4zlh7vlkK/liqgK4pSCICDilJzilIAgcGFja2FnZS5qc29uCuKUgiAg4pSU4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAgIyDnvZHpobXniYjor7TmmI7vvIjlkKvop5Lmlpnlj6PlvoTjgIHluLjop4Hpl67popjvvIkK4pSc4pSAIGRlc2t0b3AvCuKUgiAg4pSc4pSAIG1haW4uanMgICAgICAgICAgICAgICAgIyBFbGVjdHJvbiDkuLvov5vnqIvvvIjkuK3mlofoj5zljZXjgIHljZXlrp7kvovjgIFhcHA6Ly8g5Y2P6K6u77yJCuKUgiAg4pSc4pSAIHBhY2thZ2UuanNvbiAgICAgICAgICAgIyBlbGVjdHJvbi1idWlsZGVyIOS+v+aQuiBFWEUg6YWN572uCuKUgiAg4pSU4pSAIGFzc2V0cy9pY29uLmljbyAgICAgICAgIyDnqIvluo/lm77moIcK4pSU4pSAIG1pbmlwcm9ncmFtLwogICDilJzilIAgYXBwLmpzIC8gYXBwLmpzb24gLyBhcHAud3hzcwogICDilJzilIAgcGFnZXMvICAgICAgICAgICAgICAgICAjIOWNleasoeiuoeeul+OAgeaJuemHj+iuoeeul+OAgeWOhuWPsuiusOW9leOAgeWPguaVsOe7tOaKpAogICDilJzilIAgdXRpbHMvICAgICAgICAgICAgICAgICAjIOiuoeeul+WGheaguOOAgeWPguaVsOOAgeWOhuWPsuOAgeaJuemHj+OAgeWvvOWHuuOAgeagvOW8j+WMlgogICDilJzilIAgdGVzdC8gICAgICAgICAgICAgICAgICAjIHNtb2tlLmpz44CBcGFnZXMuanMKICAg4pSc4pSAIHRvb2xzL3ZlcmlmeS5qcyAgICAgICAgIyDlt6XnqIvpnZnmgIHoh6rmo4AKICAg4pSU4pSAIGRvY3Mv5b6u5L+h5bCP56iL5bqP6YOo572y5oyH5Y2XLm1kCmBgYAoKPiBgZGVza3RvcGAg5omT5YyF5pe26YCa6L+HIGBleHRyYVJlc291cmNlc2Ag55u05o6l5byV55SoIGAuLi93ZWJgIOeahOmhtemdoui1hOa6kO+8jOS4jeWkjeWItuOAgeS4jeaUueWKqOe9kemhtea6kOegge+8m+W8gOWPkeiwg+ivleWPr+eUqCBgbnBtIHN0YXJ0YO+8iGBlbGVjdHJvbiAuYO+8ieWFiOeci+eql+WPo+aViOaenOOAggo=
+# 材料数据计算 · 独立版（v1.1.0）
+
+本目录是「材料数据计算」的完整源码，包含三个可独立交付的端：
+
+| 目录 | 形态 | 启动 / 使用方式 | 数据位置 |
+| --- | --- | --- | --- |
+| `web/` | 离线网页版（零依赖静态站点） | 双击 `start.cmd` 或 `index.html` | 浏览器 localStorage |
+| `desktop/` | Windows 桌面版构建工程（Electron） | `npm install` → `npm run dist`，产物为单文件便携 EXE | `%APPDATA%\SSMaterialDataCalc` |
+| `miniprogram/` | 微信小程序工程（圆片算量） | 微信开发者工具导入 | 微信本地缓存 |
+
+三端使用同一套公式：公式版本 **2.1.0**，包含角料重量（双排 ×0.12、单排 ×0.22）。
+
+## 快速验证
+
+```powershell
+cd web
+node test/smoke.js
+
+cd ..\miniprogram
+node test/smoke.js
+node test/pages.js
+node tools/verify.js
+```
+
+桌面版构建：
+
+```powershell
+cd ..\desktop
+npm install
+npm run dist
+```
+
+国内网络可先设置 `ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/` 与
+`ELECTRON_BUILDER_BINARIES_MIRROR=https://npmmirror.com/mirrors/electron-builder-binaries/`。
+
+## 与 v0.2.0 完整版的关系
+
+`../desktop/`、`../outputs/preview-site/`、`../docs/` 是 MatManager v0.2.0 完整版（含供应商与材料单据）的源码与文档。v1.1.0 只保留「数据计算」模块，两条产品线数据互不自动同步；计算口径同源，v1.1.0 新增角料重量。
+
+## 目录说明
+
+```text
+standalone/
+├─ README.md                 # 本文件
+├─ web/
+│  ├─ index.html             # 页面入口
+│  ├─ assets/                # 样式与图标
+│  ├─ src/                   # calculation / parameter / batch / history / export / ui
+│  ├─ vendor/                # SheetJS 0.20.3（XLSX 导出与读取）
+│  ├─ test/smoke.js          # 逻辑冒烟测试
+│  ├─ server.js              # 零依赖静态服务器
+│  ├─ start.cmd              # 双击启动
+│  ├─ package.json
+│  └─ README.md              # 网页版说明（含角料口径、常见问题）
+├─ desktop/
+│  ├─ main.js                # Electron 主进程（中文菜单、单实例、app:// 协议）
+│  ├─ package.json           # electron-builder 便携 EXE 配置
+│  └─ assets/icon.ico        # 程序图标
+└─ miniprogram/
+   ├─ app.js / app.json / app.wxss
+   ├─ pages/                 # 单次计算、批量计算、历史记录、参数维护
+   ├─ utils/                 # 计算内核、参数、历史、批量、导出、格式化
+   ├─ test/                  # smoke.js、pages.js
+   ├─ tools/verify.js        # 工程静态自检
+   └─ docs/微信小程序部署指南.md
+```
+
+> `desktop` 打包时通过 `extraResources` 直接引用 `../web` 的页面资源，不复制、不改动网页源码；开发调试可用 `npm start`（`electron .`）先看窗口效果。

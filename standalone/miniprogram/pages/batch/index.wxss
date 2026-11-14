@@ -1,1 +1,72 @@
-LnRlbXBsYXRlLWRlbW8gewogIG1hcmdpbi10b3A6IDhycHg7CiAgcGFkZGluZzogMTBycHggMTRycHg7CiAgYm9yZGVyLXJhZGl1czogMTBycHg7CiAgYmFja2dyb3VuZDogI2ZmZmZmZjsKICBjb2xvcjogIzQ1NjA0ZDsKICBmb250LWZhbWlseTogQ29uc29sYXMsIG1vbm9zcGFjZTsKICBmb250LXNpemU6IDIycnB4Owp9CgoudGVtcGxhdGUtZmllbGQgewogIG1hcmdpbi10b3A6IDI2cnB4Owp9CgouZmlsZS1jaGlwIHsKICBtYXJnaW4tdG9wOiAxMnJweDsKICBwYWRkaW5nOiAxMHJweCAxNnJweDsKICBib3JkZXItcmFkaXVzOiAxMnJweDsKICBiYWNrZ3JvdW5kOiAjZWVmNGVlOwogIGNvbG9yOiAjMmY2YjQ4OwogIGZvbnQtc2l6ZTogMjJycHg7Cn0KCi5iYXRjaC1zY3JvbGwgewogIHdpZHRoOiAxMDAlOwogIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0KCi5iYXRjaC10YWJsZSB7CiAgd2lkdGg6IDEzMTBycHg7CiAgYm9yZGVyOiAxcnB4IHNvbGlkICNlN2VjZTc7CiAgYm9yZGVyLXJhZGl1czogMTZycHg7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQoKLmJhdGNoLXRhYmxlIC5jZWxsIHsKICBmbGV4OiBub25lOwogIHdpZHRoOiAxMThycHg7CiAgdGV4dC1hbGlnbjogbGVmdDsKfQoKLmJhdGNoLXRhYmxlIC5jZWxsLWxpbmUgewogIHdpZHRoOiA3MHJweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5iYXRjaC10YWJsZSAuY2VsbC1tYXQgewogIHdpZHRoOiA5MHJweDsKfQoKLmJhdGNoLXRhYmxlIC5jZWxsLW1vZGUgewogIHdpZHRoOiA5MHJweDsKfQoKLmJhdGNoLXRhYmxlIC5jZWxsLWN1dCB7CiAgd2lkdGg6IDEwNHJweDsKfQoKLmJhdGNoLXRhYmxlIC5jZWxsLXF0eSB7CiAgd2lkdGg6IDEzMHJweDsKICBmb250LXdlaWdodDogNzAwOwogIGNvbG9yOiAjMTczZTMwOwp9CgouYmF0Y2gtdGFibGUgLmNlbGwtc2NyYXAgewogIHdpZHRoOiAxMjBycHg7Cn0KCi5iYXRjaC10YWJsZSAuY2VsbC1zdGF0ZSB7CiAgd2lkdGg6IDI2MHJweDsKICB3aGl0ZS1zcGFjZTogbm9ybWFsOwp9Cg==
+.template-demo {
+  margin-top: 8rpx;
+  padding: 10rpx 14rpx;
+  border-radius: 10rpx;
+  background: #ffffff;
+  color: #45604d;
+  font-family: Consolas, monospace;
+  font-size: 22rpx;
+}
+
+.template-field {
+  margin-top: 26rpx;
+}
+
+.file-chip {
+  margin-top: 12rpx;
+  padding: 10rpx 16rpx;
+  border-radius: 12rpx;
+  background: #eef4ee;
+  color: #2f6b48;
+  font-size: 22rpx;
+}
+
+.batch-scroll {
+  width: 100%;
+  white-space: nowrap;
+}
+
+.batch-table {
+  width: 1310rpx;
+  border: 1rpx solid #e7ece7;
+  border-radius: 16rpx;
+  overflow: hidden;
+}
+
+.batch-table .cell {
+  flex: none;
+  width: 118rpx;
+  text-align: left;
+}
+
+.batch-table .cell-line {
+  width: 70rpx;
+  text-align: center;
+}
+
+.batch-table .cell-mat {
+  width: 90rpx;
+}
+
+.batch-table .cell-mode {
+  width: 90rpx;
+}
+
+.batch-table .cell-cut {
+  width: 104rpx;
+}
+
+.batch-table .cell-qty {
+  width: 130rpx;
+  font-weight: 700;
+  color: #173e30;
+}
+
+.batch-table .cell-scrap {
+  width: 120rpx;
+}
+
+.batch-table .cell-state {
+  width: 260rpx;
+  white-space: normal;
+}

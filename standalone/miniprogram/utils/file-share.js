@@ -1,1 +1,119 @@
-J3VzZSBzdHJpY3QnOwoKLyoqCiAqIOaWh+S7tuWvvOWHuuS4juWIhuS6q++8iOW+ruS/oeWwj+eoi+W6j+eJiO+8iQogKiDlsI/nqIvluo/msqHmnInmtY/op4jlmajkuIvovb3pgJrpgZPvvIzlr7zlh7rmtYHnqIvmmK/vvJoKICogICDlhpnlhaXmnKzlnLDnlKjmiLfnm67lvZUg4oaSIHd4LnNoYXJlRmlsZU1lc3NhZ2Ug6L2s5Y+R5Yiw6IGK5aSpIC8g5paH5Lu25Lyg6L6T5Yqp5omLIOKGkiDlnKjnlLXohJHnq6/kv53lrZgKICogUEMg56uv5b6u5L+h5Y+m5Y+v55SoIHd4LnNhdmVGaWxlVG9EaXNrIOebtOaOpeWPpuWtmOOAggogKi8KCmZ1bmN0aW9uIGlzV2VDaGF0KCkgewogIHJldHVybiB0eXBlb2Ygd3ggIT09ICd1bmRlZmluZWQnICYmIHd4ICYmIHR5cGVvZiB3eC5nZXRGaWxlU3lzdGVtTWFuYWdlciA9PT0gJ2Z1bmN0aW9uJzsKfQoKZnVuY3Rpb24gdXNlclBhdGgobmFtZSkgewogIHZhciBiYXNlID0gd3guZW52ICYmIHd4LmVudi5VU0VSX0RBVEFfUEFUSCA/IHd4LmVudi5VU0VSX0RBVEFfUEFUSCA6ICcnOwogIHJldHVybiBiYXNlICsgJy8nICsgbmFtZTsKfQoKZnVuY3Rpb24gd3JpdGVUZXh0RmlsZShuYW1lLCB0ZXh0KSB7CiAgdmFyIGZpbGVQYXRoID0gdXNlclBhdGgobmFtZSk7CiAgdHJ5IHsKICAgIHd4LmdldEZpbGVTeXN0ZW1NYW5hZ2VyKCkud3JpdGVGaWxlU3luYyhmaWxlUGF0aCwgdGV4dCwgJ3V0ZjgnKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgdGhyb3cgbmV3IEVycm9yKCfnlJ/miJDmlofku7blpLHotKXvvJonICsgKChlcnJvciAmJiBlcnJvci5lcnJNc2cpIHx8ICfmnKzlnLDlrZjlgqjkuI3lj6/nlKgnKSk7CiAgfQogIHJldHVybiBmaWxlUGF0aDsKfQoKLyoqCiAqIEBwYXJhbSB7c3RyaW5nfSBmaWxlUGF0aCDmnKzlnLDmlofku7bot6/lvoQKICogQHBhcmFtIHtzdHJpbmd9IGZpbGVOYW1lIOWxleekuue7meWvueaWueeahOaWh+S7tuWQjQogKiBAcGFyYW0ge3tvblN1Y2Nlc3M/OkZ1bmN0aW9uLG9uQ2FuY2VsPzpGdW5jdGlvbixvbkVycm9yPzpGdW5jdGlvbn19IGhhbmRsZXJzCiAqLwpmdW5jdGlvbiBzaGFyZUZpbGUoZmlsZVBhdGgsIGZpbGVOYW1lLCBoYW5kbGVycykgewogIHZhciBjYWxsYmFja3MgPSBoYW5kbGVycyB8fCB7fTsKICBpZiAodHlwZW9mIHd4LnNoYXJlRmlsZU1lc3NhZ2UgPT09ICdmdW5jdGlvbicpIHsKICAgIHd4LnNoYXJlRmlsZU1lc3NhZ2UoewogICAgICBmaWxlUGF0aDogZmlsZVBhdGgsCiAgICAgIGZpbGVOYW1lOiBmaWxlTmFtZSwKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGlmIChjYWxsYmFja3Mub25TdWNjZXNzKSBjYWxsYmFja3Mub25TdWNjZXNzKCk7CiAgICAgIH0sCiAgICAgIGZhaWw6IGZ1bmN0aW9uIChlcnJvcikgewogICAgICAgIHZhciBtZXNzYWdlID0gKGVycm9yICYmIGVycm9yLmVyck1zZykgfHwgJyc7CiAgICAgICAgaWYgKG1lc3NhZ2UuaW5kZXhPZignY2FuY2VsJykgIT09IC0xKSB7CiAgICAgICAgICBpZiAoY2FsbGJhY2tzLm9uQ2FuY2VsKSBjYWxsYmFja3Mub25DYW5jZWwoKTsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgc2F2ZVRvRGlzayhmaWxlUGF0aCwgZmlsZU5hbWUsIGNhbGxiYWNrcywgbWVzc2FnZSk7CiAgICAgIH0KICAgIH0pOwogICAgcmV0dXJuOwogIH0KICBzYXZlVG9EaXNrKGZpbGVQYXRoLCBmaWxlTmFtZSwgY2FsbGJhY2tzLCAn5b2T5YmN5b6u5L+h54mI5pys5LiN5pSv5oyB55u05o6l6L2s5Y+R5paH5Lu2Jyk7Cn0KCmZ1bmN0aW9uIHNhdmVUb0Rpc2soZmlsZVBhdGgsIGZpbGVOYW1lLCBjYWxsYmFja3MsIHByZXZpb3VzTWVzc2FnZSkgewogIGlmICh0eXBlb2Ygd3guc2F2ZUZpbGVUb0Rpc2sgPT09ICdmdW5jdGlvbicpIHsKICAgIHd4LnNhdmVGaWxlVG9EaXNrKHsKICAgICAgZmlsZVBhdGg6IGZpbGVQYXRoLAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgaWYgKGNhbGxiYWNrcy5vblN1Y2Nlc3MpIGNhbGxiYWNrcy5vblN1Y2Nlc3MoKTsKICAgICAgfSwKICAgICAgZmFpbDogZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgdmFyIG1lc3NhZ2UgPSAoZXJyb3IgJiYgZXJyb3IuZXJyTXNnKSB8fCAnJzsKICAgICAgICBpZiAobWVzc2FnZS5pbmRleE9mKCdjYW5jZWwnKSAhPT0gLTEpIHsKICAgICAgICAgIGlmIChjYWxsYmFja3Mub25DYW5jZWwpIGNhbGxiYWNrcy5vbkNhbmNlbCgpOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBpZiAoY2FsbGJhY2tzLm9uRXJyb3IpIGNhbGxiYWNrcy5vbkVycm9yKG5ldyBFcnJvcihwcmV2aW91c01lc3NhZ2UgfHwgbWVzc2FnZSB8fCAn5paH5Lu25a+85Ye65aSx6LSlJykpOwogICAgICB9CiAgICB9KTsKICAgIHJldHVybjsKICB9CiAgaWYgKGNhbGxiYWNrcy5vbkVycm9yKSB7CiAgICBjYWxsYmFja3Mub25FcnJvcihuZXcgRXJyb3IocHJldmlvdXNNZXNzYWdlIHx8ICfmlofku7blr7zlh7rlpLHotKXvvIzor7flnKjmiYvmnLrkuIrkvb/nlKjjgIzovazlj5Hnu5nmnIvlj4vjgI3miJblpI3liLblhoXlrrknKSk7CiAgfQp9CgovKiog5LiA5L2T5YyW5a+85Ye677ya5paH5pysIOKGkiDmlofku7Yg4oaSIOWIhuS6q+OAgiAqLwpmdW5jdGlvbiBleHBvcnRUZXh0RmlsZShmaWxlTmFtZSwgdGV4dCwgaGFuZGxlcnMpIHsKICBpZiAoIWlzV2VDaGF0KCkpIHsKICAgIGlmIChoYW5kbGVycyAmJiBoYW5kbGVycy5vbkVycm9yKSBoYW5kbGVycy5vbkVycm9yKG5ldyBFcnJvcign5b2T5YmN546v5aKD5LiN5pSv5oyB5paH5Lu25a+85Ye644CCJykpOwogICAgcmV0dXJuOwogIH0KICB2YXIgZmlsZVBhdGg7CiAgdHJ5IHsKICAgIGZpbGVQYXRoID0gd3JpdGVUZXh0RmlsZShmaWxlTmFtZSwgdGV4dCk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGlmIChoYW5kbGVycyAmJiBoYW5kbGVycy5vbkVycm9yKSBoYW5kbGVycy5vbkVycm9yKGVycm9yKTsKICAgIHJldHVybjsKICB9CiAgc2hhcmVGaWxlKGZpbGVQYXRoLCBmaWxlTmFtZSwgaGFuZGxlcnMpOwp9CgpmdW5jdGlvbiBjb3B5VGV4dCh0ZXh0LCB0aXRsZSkgewogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICB3eC5zZXRDbGlwYm9hcmREYXRhKHsKICAgICAgZGF0YTogdGV4dCwKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICAgIGlmICh0aXRsZSkgewogICAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6IHRpdGxlLCBpY29uOiAnc3VjY2VzcycgfSk7CiAgICAgICAgfQogICAgICAgIHJlc29sdmUoKTsKICAgICAgfSwKICAgICAgZmFpbDogZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgcmVqZWN0KG5ldyBFcnJvcigoZXJyb3IgJiYgZXJyb3IuZXJyTXNnKSB8fCAn5aSN5Yi25aSx6LSlJykpOwogICAgICB9CiAgICB9KTsKICB9KTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgaXNXZUNoYXQ6IGlzV2VDaGF0LAogIHdyaXRlVGV4dEZpbGU6IHdyaXRlVGV4dEZpbGUsCiAgc2hhcmVGaWxlOiBzaGFyZUZpbGUsCiAgZXhwb3J0VGV4dEZpbGU6IGV4cG9ydFRleHRGaWxlLAogIGNvcHlUZXh0OiBjb3B5VGV4dAp9Owo=
+'use strict';
+
+/**
+ * 文件导出与分享（微信小程序版）
+ * 小程序没有浏览器下载通道，导出流程是：
+ *   写入本地用户目录 → wx.shareFileMessage 转发到聊天 / 文件传输助手 → 在电脑端保存
+ * PC 端微信另可用 wx.saveFileToDisk 直接另存。
+ */
+
+function isWeChat() {
+  return typeof wx !== 'undefined' && wx && typeof wx.getFileSystemManager === 'function';
+}
+
+function userPath(name) {
+  var base = wx.env && wx.env.USER_DATA_PATH ? wx.env.USER_DATA_PATH : '';
+  return base + '/' + name;
+}
+
+function writeTextFile(name, text) {
+  var filePath = userPath(name);
+  try {
+    wx.getFileSystemManager().writeFileSync(filePath, text, 'utf8');
+  } catch (error) {
+    throw new Error('生成文件失败：' + ((error && error.errMsg) || '本地存储不可用'));
+  }
+  return filePath;
+}
+
+/**
+ * @param {string} filePath 本地文件路径
+ * @param {string} fileName 展示给对方的文件名
+ * @param {{onSuccess?:Function,onCancel?:Function,onError?:Function}} handlers
+ */
+function shareFile(filePath, fileName, handlers) {
+  var callbacks = handlers || {};
+  if (typeof wx.shareFileMessage === 'function') {
+    wx.shareFileMessage({
+      filePath: filePath,
+      fileName: fileName,
+      success: function () {
+        if (callbacks.onSuccess) callbacks.onSuccess();
+      },
+      fail: function (error) {
+        var message = (error && error.errMsg) || '';
+        if (message.indexOf('cancel') !== -1) {
+          if (callbacks.onCancel) callbacks.onCancel();
+          return;
+        }
+        saveToDisk(filePath, fileName, callbacks, message);
+      }
+    });
+    return;
+  }
+  saveToDisk(filePath, fileName, callbacks, '当前微信版本不支持直接转发文件');
+}
+
+function saveToDisk(filePath, fileName, callbacks, previousMessage) {
+  if (typeof wx.saveFileToDisk === 'function') {
+    wx.saveFileToDisk({
+      filePath: filePath,
+      success: function () {
+        if (callbacks.onSuccess) callbacks.onSuccess();
+      },
+      fail: function (error) {
+        var message = (error && error.errMsg) || '';
+        if (message.indexOf('cancel') !== -1) {
+          if (callbacks.onCancel) callbacks.onCancel();
+          return;
+        }
+        if (callbacks.onError) callbacks.onError(new Error(previousMessage || message || '文件导出失败'));
+      }
+    });
+    return;
+  }
+  if (callbacks.onError) {
+    callbacks.onError(new Error(previousMessage || '文件导出失败，请在手机上使用「转发给朋友」或复制内容'));
+  }
+}
+
+/** 一体化导出：文本 → 文件 → 分享。 */
+function exportTextFile(fileName, text, handlers) {
+  if (!isWeChat()) {
+    if (handlers && handlers.onError) handlers.onError(new Error('当前环境不支持文件导出。'));
+    return;
+  }
+  var filePath;
+  try {
+    filePath = writeTextFile(fileName, text);
+  } catch (error) {
+    if (handlers && handlers.onError) handlers.onError(error);
+    return;
+  }
+  shareFile(filePath, fileName, handlers);
+}
+
+function copyText(text, title) {
+  return new Promise(function (resolve, reject) {
+    wx.setClipboardData({
+      data: text,
+      success: function () {
+        if (title) {
+          wx.showToast({ title: title, icon: 'success' });
+        }
+        resolve();
+      },
+      fail: function (error) {
+        reject(new Error((error && error.errMsg) || '复制失败'));
+      }
+    });
+  });
+}
+
+module.exports = {
+  isWeChat: isWeChat,
+  writeTextFile: writeTextFile,
+  shareFile: shareFile,
+  exportTextFile: exportTextFile,
+  copyText: copyText
+};

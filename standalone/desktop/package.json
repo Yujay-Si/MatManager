@@ -1,1 +1,65 @@
-ew0KICAibmFtZSI6ICJzcy1tYXRlcmlhbC1kYXRhLWNhbGN1bGF0b3IiLA0KICAicHJvZHVjdE5hbWUiOiAiU1NNYXRlcmlhbERhdGFDYWxjIiwNCiAgInZlcnNpb24iOiAiMS4xLjAiLA0KICAiZGVzY3JpcHRpb24iOiAi5p2Q5paZ5pWw5o2u6K6h566XIMK3IOemu+e6v+WGsueJh+iuoeeul+W3peWFt++8iOahjOmdoueJiO+8iSIsDQogICJhdXRob3IiOiB7DQogICAgIm5hbWUiOiAiWXVqYXktU2kiLA0KICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL1l1amF5LVNpL01hdE1hbmFnZXIiDQogIH0sDQogICJsaWNlbnNlIjogIk1JVCIsDQogICJtYWluIjogIm1haW4uanMiLA0KICAicHJpdmF0ZSI6IHRydWUsDQogICJzY3JpcHRzIjogew0KICAgICJzdGFydCI6ICJlbGVjdHJvbiAuIiwNCiAgICAiZGlzdCI6ICJlbGVjdHJvbi1idWlsZGVyIC0td2luIHBvcnRhYmxlIC0teDY0Ig0KICB9LA0KICAiYnVpbGQiOiB7DQogICAgImFwcElkIjogImNvbS55dWpheXNpLm1hdGVyaWFsY2FsY3VsYXRvciIsDQogICAgInByb2R1Y3ROYW1lIjogIlNTTWF0ZXJpYWxEYXRhQ2FsYyIsDQogICAgImNvcHlyaWdodCI6ICJDb3B5cmlnaHQgwqkgMjAyNiBZdWpheS1TaSIsDQogICAgImFzYXIiOiB0cnVlLA0KICAgICJkaXJlY3RvcmllcyI6IHsNCiAgICAgICJvdXRwdXQiOiAiZGlzdCIsDQogICAgICAiYnVpbGRSZXNvdXJjZXMiOiAiYXNzZXRzIg0KICAgIH0sDQogICAgImZpbGVzIjogWw0KICAgICAgIm1haW4uanMiLA0KICAgICAgInBhY2thZ2UuanNvbiINCiAgICBdLA0KICAgICJleHRyYVJlc291cmNlcyI6IFsNCiAgICAgIHsNCiAgICAgICAgImZyb20iOiAiLi4vd2ViIiwNCiAgICAgICAgInRvIjogImNhbGN1bGF0b3IiLA0KICAgICAgICAiZmlsdGVyIjogWw0KICAgICAgICAgICJpbmRleC5odG1sIiwNCiAgICAgICAgICAiYXNzZXRzLyoqLyoiLA0KICAgICAgICAgICJzcmMvKiovKiIsDQogICAgICAgICAgInZlbmRvci8qKi8qIg0KICAgICAgICBdDQogICAgICB9DQogICAgXSwNCiAgICAid2luIjogew0KICAgICAgInRhcmdldCI6IFsNCiAgICAgICAgew0KICAgICAgICAgICJ0YXJnZXQiOiAicG9ydGFibGUiLA0KICAgICAgICAgICJhcmNoIjogWw0KICAgICAgICAgICAgIng2NCINCiAgICAgICAgICBdDQogICAgICAgIH0NCiAgICAgIF0sDQogICAgICAiaWNvbiI6ICJhc3NldHMvaWNvbi5pY28iLA0KICAgICAgImFydGlmYWN0TmFtZSI6ICJTU01hdGVyaWFsRGF0YUNhbGMtMS4xLjAtcG9ydGFibGUuJHtleHR9IiwNCiAgICAgICJzaWduQW5kRWRpdEV4ZWN1dGFibGUiOiBmYWxzZQ0KICAgIH0sDQogICAgInBvcnRhYmxlIjogew0KICAgICAgImFydGlmYWN0TmFtZSI6ICJTU01hdGVyaWFsRGF0YUNhbGMtMS4xLjAtcG9ydGFibGUuZXhlIiwNCiAgICAgICJyZXF1ZXN0RXhlY3V0aW9uTGV2ZWwiOiAidXNlciINCiAgICB9LA0KICAgICJjb21wcmVzc2lvbiI6ICJub3JtYWwiDQogIH0sDQogICJkZXZEZXBlbmRlbmNpZXMiOiB7DQogICAgImVsZWN0cm9uIjogIjQ0LjQuNSIsDQogICAgImVsZWN0cm9uLWJ1aWxkZXIiOiAiMjYuMC4xMiINCiAgfQ0KfQ0K
+{
+  "name": "ss-material-data-calculator",
+  "productName": "SSMaterialDataCalc",
+  "version": "1.1.0",
+  "description": "材料数据计算 · 离线冲片计算工具（桌面版）",
+  "author": {
+    "name": "Yujay-Si",
+    "url": "https://github.com/Yujay-Si/MatManager"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable --x64"
+  },
+  "build": {
+    "appId": "com.yujaysi.materialcalculator",
+    "productName": "SSMaterialDataCalc",
+    "copyright": "Copyright © 2026 Yujay-Si",
+    "asar": true,
+    "directories": {
+      "output": "dist",
+      "buildResources": "assets"
+    },
+    "files": [
+      "main.js",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../web",
+        "to": "calculator",
+        "filter": [
+          "index.html",
+          "assets/**/*",
+          "src/**/*",
+          "vendor/**/*"
+        ]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "assets/icon.ico",
+      "artifactName": "SSMaterialDataCalc-1.1.0-portable.${ext}",
+      "signAndEditExecutable": false
+    },
+    "portable": {
+      "artifactName": "SSMaterialDataCalc-1.1.0-portable.exe",
+      "requestExecutionLevel": "user"
+    },
+    "compression": "normal"
+  },
+  "devDependencies": {
+    "electron": "44.4.5",
+    "electron-builder": "26.0.12"
+  }
+}

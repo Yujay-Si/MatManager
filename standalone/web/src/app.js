@@ -1,1 +1,96 @@
-KGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IGZvcm0gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY2FsY3VsYXRvci1mb3JtJyk7CiAgY29uc3QgZW1wdHlQYW5lbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdlbXB0eS1wYW5lbCcpOwogIGNvbnN0IHJlc3VsdFBhbmVsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jlc3VsdC1wYW5lbCcpOwogIGNvbnN0IGVycm9yUGFuZWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXJyb3ItcGFuZWwnKTsKICBjb25zdCBzaGVldEZvcm11bGFDaG9pY2UgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc2hlZXQtZm9ybXVsYS1jaG9pY2UnKTsKICBsZXQgY3VycmVudFJlc3VsdCA9IG51bGw7CiAgd2luZG93Lk1hdGVyaWFsQ2FsY3VsYXRpb25VSSA9IE9iamVjdC5mcmVlemUoeyBzbmFwc2hvdDogKCkgPT4gY3VycmVudFJlc3VsdCA/IHN0cnVjdHVyZWRDbG9uZShjdXJyZW50UmVzdWx0KSA6IG51bGwgfSk7CgogIGZ1bmN0aW9uIHNldFRleHQoaWQsIHZhbHVlKSB7CiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCkudGV4dENvbnRlbnQgPSBTdHJpbmcodmFsdWUpOwogIH0KCiAgZnVuY3Rpb24ga2dUZXh0KHZhbHVlKSB7CiAgICAvLyDop5Lmlpnph43ph4/kvJrlh7rnjrAgMjIuMDAwMDAwMDAwMDAwMDA0IOi/meexu+S6jOi/m+WItuWwvuW3ru+8jOWPqua4heeQhuWwvuW3ruOAgeS4jeaUueiuoeeul+WAvOOAggogICAgcmV0dXJuIGAke051bWJlcih2YWx1ZS50b1ByZWNpc2lvbigxNSkpLnRvTG9jYWxlU3RyaW5nKCd6aC1DTicpfSBrZ2A7CiAgfQoKICBmdW5jdGlvbiBzeW5jRm9ybXVsYUNob2ljZXMoKSB7CiAgICBjb25zdCBpc1NpbmdsZSA9IGZvcm0uZWxlbWVudHMubW9kZS52YWx1ZSA9PT0gJ3NpbmdsZSc7CiAgICBzaGVldEZvcm11bGFDaG9pY2UuaGlkZGVuID0gIWlzU2luZ2xlOwogICAgaWYgKCFpc1NpbmdsZSAmJiBmb3JtLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0W25hbWU9ImZvcm11bGEiXVt2YWx1ZT0iMyJdJykuY2hlY2tlZCkgewogICAgICBmb3JtLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0W25hbWU9ImZvcm11bGEiXVt2YWx1ZT0iMSJdJykuY2hlY2tlZCA9IHRydWU7CiAgICB9CiAgfQoKICBmdW5jdGlvbiBzaG93UmVzdWx0KHJlc3VsdCkgewogICAgY29uc3QgeyBpbnB1dCwgcGFyYW1ldGVycyB9ID0gcmVzdWx0OwogICAgY29uc3QgdXNlc1NoZWV0Rm9ybXVsYSA9IGlucHV0LmZvcm11bGEgPT09IDM7CiAgICBzZXRUZXh0KCdyZXN1bHQtcXVhbnRpdHknLCByZXN1bHQucXVhbnRpdHkudG9Mb2NhbGVTdHJpbmcoJ3poLUNOJykpOwogICAgc2V0VGV4dCgncmVzdWx0LXF1YW50aXR5LWJhc2lzJywgdXNlc1NoZWV0Rm9ybXVsYSA/CiAgICAgICfmjInmlrnniYfljZXph43nlKjmnZDmlpnmgLvph43mjaLnrpflnIbniYfmlbDph4/vvIzkvb/nlKjmnKroiI3lhaXljZXph43lubblkJHkuIvlj5bmlbQnIDoKICAgICAgJ+S9v+eUqOaJgOmAieWFrOW8j+eahOacquiIjeWFpeWNlemHjeiuoeeul++8jOacgOe7iOWQkeS4i+WPluaVtCcpOwogICAgc2V0VGV4dCgncmVzdWx0LW1hdGVyaWFsJywgaW5wdXQubWF0ZXJpYWwpOwogICAgc2V0VGV4dCgncmVzdWx0LXRoaWNrbmVzcycsIGAke2lucHV0LnRoaWNrbmVzc30gbW1gKTsKICAgIHNldFRleHQoJ3Jlc3VsdC13aWR0aCcsIGAke2lucHV0LndpZHRofSBtbWApOwogICAgc2V0VGV4dCgncmVzdWx0LXdlaWdodCcsIGAke2lucHV0LndlaWdodH0ga2dgKTsKICAgIHNldFRleHQoJ3Jlc3VsdC1tb2RlJywgaW5wdXQubW9kZSA9PT0gJ3NpbmdsZScgPyAn5Y2V5o6SJyA6ICflj4zmjpInKTsKICAgIHNldFRleHQoJ3Jlc3VsdC1jdXQnLCBgJHtyZXN1bHQuY3V0fSBtbWApOwogICAgc2V0VGV4dCgncmVzdWx0LWZhY3Rvci1sYWJlbCcsIGlucHV0Lm1vZGUgPT09ICdzaW5nbGUnID8gJ+WNleaOkuWGsuaWmeWchueJh+avlOS+i+ezu+aVsCcgOiAn5Y+M5o6S5Yay5paZ5ZyG54mH5q+U5L6L57O75pWwJyk7CiAgICBzZXRUZXh0KCdyZXN1bHQtZmFjdG9yJywgdXNlc1NoZWV0Rm9ybXVsYSA/ICfmnKrlj4LkuI7vvIjkvb/nlKjmnZDmlpnmgLvph43vvIknIDogcGFyYW1ldGVycy51c2FibGVGYWN0b3IpOwogICAgc2V0VGV4dCgncmVzdWx0LXdlaWdodC1sYWJlbCcsIHVzZXNTaGVldEZvcm11bGEgPyAn5Y+C5LiO6K6h566X6YeN6YePJyA6ICflj6/nlKjph43ph48nKTsKICAgIHNldFRleHQoJ3Jlc3VsdC11c2FibGUtd2VpZ2h0JywgYCR7cmVzdWx0LnVzYWJsZVdlaWdodC50b0xvY2FsZVN0cmluZygnemgtQ04nKX0ga2dgKTsKICAgIHNldFRleHQoJ3Jlc3VsdC1zY3JhcC1sYWJlbCcsIGlucHV0Lm1vZGUgPT09ICdzaW5nbGUnID8gJ+WNleaOkuinkuaWmeavlOS+i+ezu+aVsCcgOiAn5Y+M5o6S6KeS5paZ5q+U5L6L57O75pWwJyk7CiAgICBzZXRUZXh0KCdyZXN1bHQtc2NyYXAtcmF0aW8nLCBwYXJhbWV0ZXJzLnNjcmFwUmF0aW8pOwogICAgc2V0VGV4dCgncmVzdWx0LXNjcmFwLXdlaWdodCcsIGtnVGV4dChyZXN1bHQuc2NyYXBXZWlnaHQpKTsKICAgIHNldFRleHQoJ3Jlc3VsdC1zcXVhcmUtd2VpZ2h0JywgYCR7cmVzdWx0LnNxdWFyZVVuaXRXZWlnaHQudG9GaXhlZCg0KX0ga2cv5LiqYCk7CiAgICBzZXRUZXh0KCdyZXN1bHQtcmFkaXVzLXdlaWdodCcsIGAke3Jlc3VsdC5yYWRpdXNVbml0V2VpZ2h0LnRvRml4ZWQoNCl9IGtnL+S4qmApOwogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jlc3VsdC1zaGVldC13ZWlnaHQtcm93JykuaGlkZGVuID0gIXVzZXNTaGVldEZvcm11bGE7CiAgICBpZiAodXNlc1NoZWV0Rm9ybXVsYSkgc2V0VGV4dCgncmVzdWx0LXNoZWV0LXdlaWdodCcsIGAke3Jlc3VsdC5zaGVldFVuaXRXZWlnaHQudG9GaXhlZCg0KX0ga2cv5LiqYCk7CiAgICBzZXRUZXh0KCdyZXN1bHQtc2VsZWN0ZWQnLCB1c2VzU2hlZXRGb3JtdWxhID8gJ+esrCAzIOWllyDCtyDmlrnniYflr4bluqbnrpfms5XlhazlvI8nIDoKICAgICAgaW5wdXQuZm9ybXVsYSA9PT0gMSA/ICfnrKwgMSDlpZcgwrcg5ZyG54mH5a+G5bqm566X5rOV5YWs5byPJyA6ICfnrKwgMiDlpZcgwrcg5ZyG54mH5a+G5bqm6auY57qn566X5rOV5YWs5byPJyk7CiAgICBzZXRUZXh0KCdyZXN1bHQtbWF0ZXJpYWwtZmFjdG9yJywgaW5wdXQuZm9ybXVsYSA9PT0gMiA/IHBhcmFtZXRlcnMuc3F1YXJlRmFjdG9yIDogcGFyYW1ldGVycy5yYWRpdXNGYWN0b3IpOwogICAgc2V0VGV4dCgncmVzdWx0LXZlcnNpb24nLCByZXN1bHQuZm9ybXVsYVZlcnNpb24pOwogICAgc2V0VGV4dCgncmVzdWx0LXBhcmFtZXRlci12ZXJzaW9uJywgcmVzdWx0LnBhcmFtZXRlclZlcnNpb24gfHwgJ+m7mOiupOWPguaVsO+8iOaXp+iusOW9le+8iScpOwogICAgc2V0VGV4dCgncmVzdWx0LXRpbWUnLCBuZXcgRGF0ZShyZXN1bHQuY2FsY3VsYXRlZEF0KS50b0xvY2FsZVN0cmluZygnemgtQ04nKSk7CiAgICBlcnJvclBhbmVsLmhpZGRlbiA9IHRydWU7CiAgICBlbXB0eVBhbmVsLmhpZGRlbiA9IHRydWU7CiAgICByZXN1bHRQYW5lbC5oaWRkZW4gPSBmYWxzZTsKICAgIHJlc3VsdFBhbmVsLmZvY3VzKCk7CiAgfQoKICBmb3JtLmVsZW1lbnRzLm1vZGUuYWRkRXZlbnRMaXN0ZW5lcignY2hhbmdlJywgc3luY0Zvcm11bGFDaG9pY2VzKTsKICBzeW5jRm9ybXVsYUNob2ljZXMoKTsKCiAgZm9ybS5hZGRFdmVudExpc3RlbmVyKCdzdWJtaXQnLCBmdW5jdGlvbiAoZXZlbnQpIHsKICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICByZXN1bHRQYW5lbC5oaWRkZW4gPSB0cnVlOwogICAgZW1wdHlQYW5lbC5oaWRkZW4gPSB0cnVlOwogICAgY3VycmVudFJlc3VsdCA9IG51bGw7CiAgICB0cnkgewogICAgICBjb25zdCBpbnB1dCA9IHsKICAgICAgICBtYXRlcmlhbDogZm9ybS5lbGVtZW50cy5tYXRlcmlhbC52YWx1ZSwKICAgICAgICB0aGlja25lc3M6IGZvcm0uZWxlbWVudHMudGhpY2tuZXNzLnZhbHVlLAogICAgICAgIHdpZHRoOiBmb3JtLmVsZW1lbnRzLndpZHRoLnZhbHVlLAogICAgICAgIHdlaWdodDogZm9ybS5lbGVtZW50cy53ZWlnaHQudmFsdWUsCiAgICAgICAgbW9kZTogZm9ybS5lbGVtZW50cy5tb2RlLnZhbHVlLAogICAgICAgIGZvcm11bGE6IGZvcm0uZWxlbWVudHMuZm9ybXVsYS52YWx1ZQogICAgICB9OwogICAgICBjb25zdCByZXN1bHQgPSB3aW5kb3cuTWF0ZXJpYWxDYWxjdWxhdG9yLmNhbGN1bGF0ZShpbnB1dCwgd2luZG93LlBhcmFtZXRlclN0b3JlLnJlYWRTdGF0ZSgpLnBhcmFtZXRlcnMpOwogICAgICBjdXJyZW50UmVzdWx0ID0gcmVzdWx0OwogICAgICBzaG93UmVzdWx0KHJlc3VsdCk7CiAgICAgIHdpbmRvdy5Qcm9qZWN0V29ya2Zsb3cucmVjb3JkUmVzdWx0KHJlc3VsdCk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBlcnJvclBhbmVsLnRleHRDb250ZW50ID0gZXJyb3IgaW5zdGFuY2VvZiBFcnJvciA/IGVycm9yLm1lc3NhZ2UgOiAn6K6h566X5aSx6LSl77yM6K+35qOA5p+l6L6T5YWl44CCJzsKICAgICAgZXJyb3JQYW5lbC5oaWRkZW4gPSBmYWxzZTsKICAgICAgZXJyb3JQYW5lbC5mb2N1cygpOwogICAgfQogIH0pOwogIGZvciAoY29uc3QgW2lkLCBmb3JtYXRdIG9mIFtbJ3NpbmdsZS1leHBvcnQtY3N2JywgJ2NzdiddLCBbJ3NpbmdsZS1leHBvcnQteGxzeCcsICd4bHN4J11dKSB7CiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiB3aW5kb3cuUHJvamVjdFdvcmtmbG93LmV4cG9ydFJlc3VsdHMoY3VycmVudFJlc3VsdCA/IFtjdXJyZW50UmVzdWx0XSA6IFtdLCBmb3JtYXQsICfljZXmrKHorqHnrpfnu5PmnpwnKSk7CiAgfQogIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzaW5nbGUtcHJpbnQnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHdpbmRvdy5Qcm9qZWN0V29ya2Zsb3cucHJpbnRSZXN1bHRzKGN1cnJlbnRSZXN1bHQgPyBbY3VycmVudFJlc3VsdF0gOiBbXSwgJ+WNleasoeiuoeeul+e7k+aenCcpKTsKfSkoKTsK
+(function () {
+  'use strict';
+
+  const form = document.getElementById('calculator-form');
+  const emptyPanel = document.getElementById('empty-panel');
+  const resultPanel = document.getElementById('result-panel');
+  const errorPanel = document.getElementById('error-panel');
+  const sheetFormulaChoice = document.getElementById('sheet-formula-choice');
+  let currentResult = null;
+  window.MaterialCalculationUI = Object.freeze({ snapshot: () => currentResult ? structuredClone(currentResult) : null });
+
+  function setText(id, value) {
+    document.getElementById(id).textContent = String(value);
+  }
+
+  function kgText(value) {
+    // 角料重量会出现 22.000000000000004 这类二进制尾差，只清理尾差、不改计算值。
+    return `${Number(value.toPrecision(15)).toLocaleString('zh-CN')} kg`;
+  }
+
+  function syncFormulaChoices() {
+    const isSingle = form.elements.mode.value === 'single';
+    sheetFormulaChoice.hidden = !isSingle;
+    if (!isSingle && form.querySelector('input[name="formula"][value="3"]').checked) {
+      form.querySelector('input[name="formula"][value="1"]').checked = true;
+    }
+  }
+
+  function showResult(result) {
+    const { input, parameters } = result;
+    const usesSheetFormula = input.formula === 3;
+    setText('result-quantity', result.quantity.toLocaleString('zh-CN'));
+    setText('result-quantity-basis', usesSheetFormula ?
+      '按方片单重用材料总重换算圆片数量，使用未舍入单重并向下取整' :
+      '使用所选公式的未舍入单重计算，最终向下取整');
+    setText('result-material', input.material);
+    setText('result-thickness', `${input.thickness} mm`);
+    setText('result-width', `${input.width} mm`);
+    setText('result-weight', `${input.weight} kg`);
+    setText('result-mode', input.mode === 'single' ? '单排' : '双排');
+    setText('result-cut', `${result.cut} mm`);
+    setText('result-factor-label', input.mode === 'single' ? '单排冲料圆片比例系数' : '双排冲料圆片比例系数');
+    setText('result-factor', usesSheetFormula ? '未参与（使用材料总重）' : parameters.usableFactor);
+    setText('result-weight-label', usesSheetFormula ? '参与计算重量' : '可用重量');
+    setText('result-usable-weight', `${result.usableWeight.toLocaleString('zh-CN')} kg`);
+    setText('result-scrap-label', input.mode === 'single' ? '单排角料比例系数' : '双排角料比例系数');
+    setText('result-scrap-ratio', parameters.scrapRatio);
+    setText('result-scrap-weight', kgText(result.scrapWeight));
+    setText('result-square-weight', `${result.squareUnitWeight.toFixed(4)} kg/个`);
+    setText('result-radius-weight', `${result.radiusUnitWeight.toFixed(4)} kg/个`);
+    document.getElementById('result-sheet-weight-row').hidden = !usesSheetFormula;
+    if (usesSheetFormula) setText('result-sheet-weight', `${result.sheetUnitWeight.toFixed(4)} kg/个`);
+    setText('result-selected', usesSheetFormula ? '第 3 套 · 方片密度算法公式' :
+      input.formula === 1 ? '第 1 套 · 圆片密度算法公式' : '第 2 套 · 圆片密度高级算法公式');
+    setText('result-material-factor', input.formula === 2 ? parameters.squareFactor : parameters.radiusFactor);
+    setText('result-version', result.formulaVersion);
+    setText('result-parameter-version', result.parameterVersion || '默认参数（旧记录）');
+    setText('result-time', new Date(result.calculatedAt).toLocaleString('zh-CN'));
+    errorPanel.hidden = true;
+    emptyPanel.hidden = true;
+    resultPanel.hidden = false;
+    resultPanel.focus();
+  }
+
+  form.elements.mode.addEventListener('change', syncFormulaChoices);
+  syncFormulaChoices();
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    resultPanel.hidden = true;
+    emptyPanel.hidden = true;
+    currentResult = null;
+    try {
+      const input = {
+        material: form.elements.material.value,
+        thickness: form.elements.thickness.value,
+        width: form.elements.width.value,
+        weight: form.elements.weight.value,
+        mode: form.elements.mode.value,
+        formula: form.elements.formula.value
+      };
+      const result = window.MaterialCalculator.calculate(input, window.ParameterStore.readState().parameters);
+      currentResult = result;
+      showResult(result);
+      window.ProjectWorkflow.recordResult(result);
+    } catch (error) {
+      errorPanel.textContent = error instanceof Error ? error.message : '计算失败，请检查输入。';
+      errorPanel.hidden = false;
+      errorPanel.focus();
+    }
+  });
+  for (const [id, format] of [['single-export-csv', 'csv'], ['single-export-xlsx', 'xlsx']]) {
+    document.getElementById(id).addEventListener('click', () => window.ProjectWorkflow.exportResults(currentResult ? [currentResult] : [], format, '单次计算结果'));
+  }
+  document.getElementById('single-print').addEventListener('click', () => window.ProjectWorkflow.printResults(currentResult ? [currentResult] : [], '单次计算结果'));
+})();
