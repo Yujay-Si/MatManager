@@ -49,14 +49,18 @@
 
 ## 3. 安装方法
 
-### 方式一：Windows 桌面版（免安装）
+### 方式一：Windows 桌面版
 
-下载 `SSMaterialDataCalc-1.1.0-portable.exe`（[Release](https://github.com/Yujay-Si/MatManager/releases/latest)），双击运行：
+从 [Release](https://github.com/Yujay-Si/MatManager/releases/latest) 下载，两种用法：
 
-- 单文件便携版，不需要安装、不需要 Node.js、不联网、不需要账号。
-- 数据保存在 `%APPDATA%\SSMaterialDataCalc`；菜单 **文件 → 打开数据目录** 可直接查看。
-- 菜单：文件（打开数据目录、退出）、编辑、视图（重新加载、缩放、全屏）、帮助（关于、项目主页、下载最新版）。
+1. **安装版**：双击 `SSMaterialDataCalc-1.1.0-Setup.exe`，按提示安装；安装完成后自动启动，之后可从开始菜单「Material Data Calculator contributors → SS Material Data Calculator」打开。
+2. **便携版**：把 `SSMaterialDataCalc-1.1.0-win32-x64.zip` 完整解压到一个目录，双击其中的 `SSMaterialDataCalc.exe`。不要只复制 EXE，`resources`、`locales` 等配套文件必须保留。
+
+说明：
+
+- 安装版与便携版共用同一份数据：`%APPDATA%\SSMaterialDataCalc`；菜单 **文件 → 打开数据目录** 可直接查看。
 - 程序未做代码签名，Windows SmartScreen 可能提示「未知发布者」，选择「更多信息 → 仍要运行」即可。
+- 安装版卸载：Windows 设置 → 应用 → 已安装的应用 → SMMaterialDataCalc → 卸载。
 - 备份：在「历史记录」「参数维护」页分别导出 JSON；换机时导入同一份备份。
 
 系统要求：Windows 10 / 11 x64。
@@ -208,3 +212,4 @@ v1.1.0 计算工具与 v0.2.0 完整版是两条独立的产品线：计算规�
 ## 许可
 
 项目自有代码和文档采用 [MIT License](LICENSE)。随附的 SheetJS XLSX 库保留 Apache 2.0 许可及版权声明，详见 `standalone/web/vendor/THIRD-PARTY-NOTICES.txt`。
+
